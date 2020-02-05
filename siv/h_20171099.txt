@@ -1,0 +1,1012 @@
+<s>
+न	न	NEG		adv				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+रोजी	रोजी	NN	0	n	f	sg	3	d
+न	न	NEG		adv				
+रोजगार	रोजगार	NN	0	n	m	sg	3	d
+.	.	SYM		punc				
+</s>
+<s>
+शिवदास	शिवदास	NNP		unk				
+को	को	PSP		psp				
+पेंशन	पेंशन	NN	0	n	f	sg	3	d
+मिली	मिल	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+ये	यह	DEM	0	pn	any	pl	3	d
+नंबर	नंबर	NN	0	n	m	sg	3	d
+गोपनीय	गोपनीय	JJ		adj	any	any		any
+होते	हो	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इधर	इधर	NST		adv				
+एक	एक	QC		adj	any	any		any
+साल	साल	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+बुरा	बुरा	JJ		adj	m	sg		d
+हाल	हाल	NN	0	n	m	sg	3	d
+था	था	VM	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+घर	घर	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+भी	भी	RP		adv				
+तो	तो	RP		avy				
+बीसों	बीस	QC	0	n	m	pl	3	o
+काम	काम	NN	0	n	m	sg	3	d
+हैं	है	VM	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+हमारा	हमारा	PRP		unk				
+और	और	CC		adv				
+तुम्हारा	तू	PRP	का	pn	m	sg	2	d
+क्या	क्या	WQ		avy				
+बस	बस	RP	0	v	any	any	any	
+है	है	VM	है	v	any	sg	2	
+?	?	SYM		punc	
+</s>
+<s>			
+दिनभर	दिनभर	NN		unk				
+द्वार	द्वार	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+गपशप	गपशप	NN	0	n	f	sg	3	d
+करते	कर	VM	ता	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+यही	यही	DEM		avy				
+स्थिति	स्थिति	NN	0	n	m	sg	3	d
+टंगैल	टंगैल	XC		unk				
+गोशाला	गोशाला	NNP	0	n	f	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+उसका	उसका	PRP	0	v	any	any	any	
+काम	काम	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+वाला	वाला	PSP	0	n	m	sg	3	d
+तो	तो	RP		avy				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+चाहिए	चाह	VM	एं	v	any	sg	2h	
+.	.	SYM		punc				
+</s>
+<s>
+बिरजू	बिरजू	NNP		unk				
+का	का	PSP	का	psp	m	sg		d
+हल	हल	NN	0	n	m	sg	3	d
+अब	अब	PRP		adv				
+मैं	मैं	PRP	0	pn	any	sg	1	d
+ही	ही	RP		adv				
+संभालूंगा	संभालूंगा	VM		unk				
+.	.	SYM		punc				
+</s>
+<s>
+तुम	तू	PRP	0	pn	any	pl	2	d
+किसी	किसी	PRP		unk				
+बात	बात	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+सोच	सोच	NN	0	n	m	sg	3	d
+मत	मत	NEG		adv				
+किया	कर	VM	या	v	m	sg	any	
+करो	कर	VM	एं	v	any	pl	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसी	इसी	DEM		pn	any	sg	3	o
+आधार	आधार	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+चेक	चेक	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+छपाई	छपाई	NN	0	n	f	sg	3	d
+होती	हो	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+एक	एक	QC		adj	any	any		any
+हल	हल	NN	0	n	m	sg	3	d
+तोड़	तोड़	NNP		punc				
+दूं	दे	VM	एं	v	any	sg	1	
+,	,	SYM		punc				
+तो	तो	CC		avy				
+गुजारा	गुजारा	NN	0	n	m	sg	3	d
+न	न	NEG		adv				
+होगा	हो	VM	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+मकान	मकान	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+किराया	किराया	NN	0	n	m	sg	3	d
+सिर	सिर	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+चढ़ा	चढ़ा	XC		n	m	sg	3	d
+हुआ	हो	VM	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+बिरजू	बिरजू	VM		unk				
+गया	गया	VAUX		unk				
+,	,	SYM		punc				
+तो	तो	CC		avy				
+अभी	अभी	PRP		adv				
+बैठा	बैठा	VM	0	v	any	any	any	
+ही	ही	RP		adv				
+हुआ	हो	VM	या	v	m	sg	any	
+हूं	है	VAUX	है	v	any	sg	1	
+.	.	SYM		punc				
+</s>
+<s>
+पूरे	पूरा	JJ	0	n	m	pl	3	d
+मामले	मामला	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+मैं	मैं	PRP	0	pn	any	sg	1	d
+खुद	खुद	PRP	0	v	any	any	any	
+जांच	जांच	NN		unk				
+कराउंगा	कराउंगा	VM		unk				
+.	.	SYM		punc				
+</s>
+<s>
+इसकी	इसकी	PRP		pn	f	sg	3	d
+रिपोर्ट	रिपोर्ट	NN	0	n	f	sg	3	d
+मुख्यालय	मुख्यालय	NN	0	n	m	sg	3	d
+भेज	भेज	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+मामले	मामला	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+भी	भी	RP		adv				
+गडबडी	गडबडी	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+बू	बू	NN	0	n	f	sg	3	d
+आ	आ	VM		v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जांच	जांच	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+दायरे	दायरा	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+इसे	इसे	PRP		pn	any	sg	3	o
+भी	भी	RP		adv				
+लिया	ले	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+सालभर	सालभर	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+बच्चा	बच्चा	NN	0	n	m	sg	3	d
+दूध	दूध	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+बिलख	बिलख	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+मौजूदा	मौजूदा	JJ		adj	m	sg		d
+इनकम	इनकम	DEM	0	n	f	sg	3	d
+टैक्स	टैक्स	NN	0	n	m	sg	3	d
+ऐक्ट	ऐक्ट	NN	0	n	m	sg	3	d
+58	58	QC		num				
+साल	साल	NN	0	n	m	sg	3	d
+पुराना	पुराना	JJ		adj	m	sg		d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+रामप्यारी	रामप्यारी	NNP		unk				
+और	और	CC		adv				
+रामदुलारी	रामदुलारी	NNP		unk				
+दो	दो	QC	0	n	m	sg	3	d
+सगी	सगी	JJ		unk				
+बहनें	बहन	NN	0	n	f	pl	3	d
+थीं	था	VM	था	v	f	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+मंगलवार	मंगलवार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+मामले	मामला	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+डीसी	डीसी	NN		unk				
+से	से	PSP	0	v	any	any	any	
+भी	भी	RP		adv				
+मिलूंगा	मिलूंगा	VM		unk				
+.	.	SYM		punc				
+</s>
+<s>
+अमिताभ	अमिताभ	JJ		unk				
+बच्चन	बच्चन	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+11	11	QC		num				
+अक्टूबर	अक्टूबर	NNP		unk				
+को	को	PSP		psp				
+जन्मदिन	जन्मदिन	NN		unk				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+देवताओं	देवता	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+उसकी	उसकी	PRP		unk				
+आस्था	आस्था	NN	0	n	f	sg	3	d
+और	और	CC		adv				
+भी	भी	RP		adv				
+दृढ़	दृढ़	NN		v	m	sg	any	
+हो	हो	VM	0	v	any	any	any	
+गयी	गयी	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+उसे	उसे	PRP		unk				
+भी	भी	RP		adv				
+अधिकारियों	अधिकारी	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+अधर	अधर	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+छोड	छोड	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अभी	अभी	PRP		adv				
+तक	तक	RP		avy				
+आरोपियों	आरोपियों	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+कोई	कोई	PRP	0	pn	any	sg	3	d
+सुराग	सुराग	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+लगा	लगा	VM	0	v	any	any	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+काम	काम	NN	0	n	m	sg	3	d
+धंधे	धंधा	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+लगी	लग	VM	या	v	f	sg	any	
+रहूंगी	रहूंगी	VAUX		unk				
+,	,	SYM		punc				
+तो	तो	CC		avy				
+मन	मन	NN	0	n	m	sg	3	d
+बदला	बदल	VM	या	v	m	sg	any	
+रहेगा	रह	VAUX	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अभी	अभी	PRP		adv				
+तक	तक	RP		avy				
+करीब	करीब	RB		adj	any	any		any
+25	25	QC		num				
+ट्रॉली	ट्रॉली	NN		unk				
+मिट्टी	मिट्टी	NN	0	n	f	sg	3	d
+ही	ही	RP		adv				
+डल	डल	VM		unk				
+सकी	सक	VAUX	या	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इससे	इससे	PRP		pn	any	sg	3	o
+पहले	पहले	NST		adv				
+भी	भी	RP		adv				
+ऐसी	ऐसी	DEM		adj	f	any		any
+मछली	मछली	NN	0	n	f	sg	3	d
+दीघा	दीघा	NN		unk				
+में	में	PSP		psp				
+पकड़ी	पकड़ी	XC		psp				
+गई	गई	VAUX		unk				
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+बोलो	बोल	VM	एं	v	any	pl	2	
+,	,	SYM		punc				
+अब	अब	PRP		adv				
+तो	तो	RP		avy				
+ईश्वर	ईश्वर	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+दयालुता	दयालुता	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+कायल	कायल	NN		adj	any	any		any
+हुए	हो	VM	या	v	m	pl	any	
+?	?	SYM		punc				
+वहां	वहाँ	PRP		adv				
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+मोटरसाइकिल	मोटरसाइकिल	NN	0	n	f	sg	3	d
+खडी	खडी	JJ		unk				
+करके	कर	VM	कर	v	any	any	any	
+खाना	खाना	NN	0	n	m	sg	3	d
+खाने	खा	VM	ना	v	m	pl	any	
+लगे	लग	VAUX	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जो	जो	PRP		avy				
+हमने	हमने	PRP		unk				
+खाया	खा	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+तो	तो	CC		avy				
+वह	वह	PRP	0	pn	any	sg	3	d
+तुरंत	तुरंत	RB		adv				
+कुर्सी	कुर्सी	NN	0	n	f	sg	3	d
+छोड	छोड	VM	0	v	any	any	any	
+देंगे	दे	VAUX	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+प्रियंका	प्रियंका	XC		unk				
+चोपड़ा	चोपड़ा	NNP		v	m	sg	any	
+जोनस	जोनस	NN		unk				
+ग्लोबल	ग्लोबल	JJ		unk				
+आइकॉन	आइकॉन	NN		unk				
+बन	बन	VM	0	v	any	any	any	
+चुकी	चुक	VAUX	या	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+वह	वह	PRP	0	pn	any	sg	3	d
+शोनाली	शोनाली	XC		unk				
+बोस	बोस	NNP		unk				
+की	का	PSP	का	psp	f	sg		d
+द	द	XC		n	m	sg	3	d
+स्काई	स्काई	XC		unk				
+इज	इज	XC		unk				
+पिंक	पिंक	XC		unk				
+में	में	PSP		psp				
+नजर	नजर	NN	0	n	f	sg	3	d
+आएंगी	आ	VM	गा	v	f	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+चालक	चालक	NN	0	n	m	sg	3	d
+झारखंड	झारखंड	NNP		unk				
+का	का	PSP	का	psp	m	sg		d
+रहने	रह	VM	ना	v	m	pl	any	
+वाला	वाला	PSP	0	n	m	sg	3	d
+राजकिशोर	राजकिशोर	NN		unk				
+बताया	बता	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसमें	इसमें	PRP		pn	any	sg	3	o
+उनके	उनके	PRP		unk				
+साथ	साथ	NST		adv				
+फरहान	फरहान	JJ		unk				
+अख्तर	अख्तर	NN	0	n	m	sg	3	d
+और	और	CC		adv				
+जायरा	जायरा	XC		unk				
+वसीम	वसीम	NN		unk				
+भी	भी	RP		adv				
+हैं	है	VM	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इमेज	इमेज	NN		unk				
+से	से	PSP	0	v	any	any	any	
+ये	यह	DEM	0	pn	any	pl	3	d
+पता	पता	JJ	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+चलता	चल	VM	ता	v	m	sg	any	
+कि	कि	CC		avy				
+चेक	चेक	NNP	0	n	m	sg	3	d
+असली	असली	JJ		adj	f	any		any
+है	है	VM	है	v	any	sg	2	
+या	या	CC		avy				
+नकली	नकली	JJ		adj	f	any		any
+.	.	SYM		punc				
+</s>
+<s>
+वह	वह	PRP	0	pn	any	sg	3	d
+सामने	सामना	NST	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+दिशा	दिशा	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+कुछ	कुछ	QF		adj	any	any		d
+देखती	देख	VM	ता	v	f	sg	any	
+हुई	हो	VAUX	या	v	f	sg	any	
+नजर	नजर	NN	0	n	f	sg	3	d
+आ	आ	VM		v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+जिन	जिन	DEM	0	n	m	sg	3	d
+मित्रों	मित्र	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+कर्ज	कर्ज	NN	0	n	m	sg	3	d
+मिल	मिल	VM	0	v	any	any	any	
+सकता	सक	VAUX	ता	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+,	,	SYM		punc				
+सबसे	सबसे	INTF		adj	any	any		any
+ले	ले	VM	0	v	any	any	any	
+चुके	चुक	VAUX	एं	v	any	sg	2	
+थे	था	VAUX	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+करीब	करीब	RB		adj	any	any		any
+पांच	पांच	QC		unk				
+फीट	फीट	NN		unk				
+लंबी	लंबी	JJ	0	n	f	sg	3	d
+इस	इस	DEM		pn	any	sg	3	o
+मछली	मछली	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+वजन	वजन	NN	0	n	m	sg	3	d
+40	40	QC		num				
+किलोग्राम	किलोग्राम	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+लिए	ले	PSP	या	v	m	pl	any	
+सरकार	सरकार	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+अतिरिक्त	अतिरिक्त	JJ		adj	any	any		any
+खर्च	खर्च	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+करना	कर	VM	ना	v	m	sg	any	
+पड़	पड़	NN		punc				
+रहा	रह	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+दोनों	दोना	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+विवाह	विवाह	NN	0	n	m	sg	3	d
+मथुरा	मथुरा	NNP	0	n	m	sg	3	d
+और	और	CC		adv				
+बिरजू	बिरजू	NNP		unk				
+दो	दो	QC	0	n	m	sg	3	d
+सगे	सगा	JJ		adj	m	sg		o
+भाइयों	भाई	NN	0	n	m	pl	3	o
+से	से	PSP	0	v	any	any	any	
+हुआ	हो	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+वहीं	वहीं	PRP		unk				
+अब	अब	PRP		adv				
+गोशाला	गोशाला	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+करीब	करीब	RB		adj	any	any		any
+500	500	QC		num				
+ट्रॉली	ट्रॉली	NN		unk				
+मिट्टी	मिट्टी	NN	0	n	f	sg	3	d
+गिरनी	गिर	VM	ना	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+भुगतान	भुगतान	NN	0	n	m	sg	3	d
+कोई	कोई	PRP	0	pn	any	sg	3	d
+भी	भी	RP		adv				
+करे	कर	VM	एं	v	any	sg	2	
+लेकिन	लेकिन	CC		avy				
+भुगतना	भुगत	VM	ना	v	m	sg	any	
+बैंक	बैंक	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+ही	ही	RP		adv				
+पड़ता	पड़ता	XC		adv				
+है	ही	NNP		adv				
+.	.	SYM		punc				
+</s>
+<s>
+उन्होंने	उन्होंने	PRP		unk				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+घर	घर	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+आम	आम	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अचार	अचार	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+कोई	कोई	PRP	0	pn	any	sg	3	d
+जोड़	जोड़	NNP		adj	any	any		any
+नहीं	नहीं	NEG		adv				
+.	.	SYM		punc				
+</s>
+<s>
+यह	यह	DEM	0	pn	any	sg	3	d
+डिस्काउंट	डिस्काउंट	NN		unk				
+इन	इन	DEM		pn	any	pl	3	o
+दोनों	दोना	JJ	0	n	m	pl	3	o
+टीवी	टीवी	NN		unk				
+मॉडल्स	मॉडल्स	NN		unk				
+पर	पर	PSP		psp				
+दिया	दे	VM	या	v	m	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+एक	एक	QC		adj	any	any		any
+वक्त	वक्त	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+भोजन	भोजन	NN	0	n	m	sg	3	d
+मिलता	मिल	VM	ता	v	m	sg	any	
+,	,	SYM		punc				
+तो	तो	RP		avy				
+दूसरे	दूसरा	JJ	0	n	m	pl	3	d
+जून	जून	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+चिन्ता	चिन्ता	NN	0	n	m	sg	3	d
+होती	हो	VM	ता	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+शेड	शेड	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+बनने	बन	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+कारण	कारण	NN	0	n	m	sg	3	d
+गोशाला	गोशाला	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+गाय	गाय	JJ	0	n	f	sg	3	d
+दम	दम	NN	0	n	f	sg	3	d
+तोड	तोड	VM	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+उन्होंने	उन्होंने	PRP		unk				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+वह	वह	PRP	0	pn	any	sg	3	d
+सैंडविच	सैंडविच	NN		unk				
+तक	तक	RP		avy				
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+अचार	अचार	NN	0	n	m	sg	3	d
+खाती	खा	VM	ता	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इनमें	इनमें	PRP		pn	any	pl	3	o
+सुल्लर	सुल्लर	XC		unk				
+गोशाला	गोशाला	NNP	0	n	f	sg	3	d
+में	में	PSP		psp				
+करीब	करीब	RB		adj	any	any		any
+155	155	QC		num				
+गोवंश	गोवंश	NN		unk				
+ने	ने	PSP		psp				
+दम	दम	NN	0	n	f	sg	3	d
+तोडा	तोड	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+बारे	बारे	PSP	0	n	m	sg	3	d
+,	,	SYM		punc				
+आज	आज	NN		adv				
+भगवान्	भगवान्	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+उस	उस	DEM		unk				
+पर	पर	PSP		psp				
+दया	दया	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+और	और	CC		adv				
+संकट	संकट	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+दिन	दिन	NN	0	n	m	sg	3	d
+कट	कट	VM	0	v	any	any	any	
+गये	गये	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+लेकिन	लेकिन	CC		avy				
+इस	इस	DEM		pn	any	sg	3	o
+राशि	राशि	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+कौन	कौन	WQ		avy				
+डकार	डकार	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+इसकी	इसकी	PRP		pn	f	sg	3	d
+किसी	किसी	PRP		unk				
+को	को	PSP		psp				
+खबर	खबर	NN	0	n	f	sg	3	d
+नहीं	नहीं	NEG		adv				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अभी	अभी	PRP		adv				
+तक	तक	RP		avy				
+दोनों	दोना	JJ	0	n	m	pl	3	o
+गोशाला	गोशाला	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+करीब	करीब	RB		adj	any	any		any
+200	200	QC		num				
+गोवंश	गोवंश	NN		unk				
+दम	दम	NN	0	n	f	sg	3	d
+तोड	तोड	VM	0	v	any	any	any	
+चुके	चुक	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+नाले	नाला	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+9.8	9.8	QC		num				
+लाख	लाख	QC		adj	any	any		any
+भी	भी	RP		adv				
+पंचायती	पंचायती	JJ		adj	f	any		any
+राज	राज	XC	0	n	m	sg	3	d
+विभाग	विभाग	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+खाते	खाता	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+आए	आ	VM	एं	v	any	sg	2	
+थे	था	VAUX	था	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+ऐसे	ऐसे	PRP		adv				
+में	में	PSP		psp				
+बैंक	बैंक	XC	0	n	m	sg	3	d
+कर्मी	कर्मी	XC		adj	f	any		any
+चेक	चेक	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+जांच	जांच	NN		unk				
+अंगुली	अंगुली	NN	0	n	f	sg	3	d
+गीली	गीली	JJ		adj	f	any		any
+कर	कर	VM	0	v	any	any	any	
+करते	कर	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+ईश्वर	ईश्वर	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+तो	तो	RP		avy				
+तब	तब	PRP		adv				
+जानता	जान	VM	ता	v	m	sg	any	
+,	,	SYM		punc				
+जब	जब	PRP		adv				
+कहीं	कहीं	PRP		adv				
+से	से	PSP	0	v	any	any	any	
+छप्पर	छप्पर	NN	0	n	m	sg	3	d
+फाड़कर	फाड़कर	VM		v	any	any	any	
+भेज	भेज	VM	0	v	any	any	any	
+देते	दे	VAUX	ता	v	m	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+तकाजों	तकाजा	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+मारे	मार	VM	एं	v	any	sg	2	
+बेचारे	बेचारा	JJ	0	n	m	pl	3	d
+दीनानाथ	दीनानाथ	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+घर	घर	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+निकलना	निकल	VM	ना	v	m	sg	any	
+मुश्किल	मुश्किल	JJ	0	n	f	sg	3	d
+था	था	VM	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+वैधव्य	वैधव्य	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+व्यथा	व्यथा	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+स्वामित्व	स्वामित्व	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+गर्व	गर्व	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+दबा	दबा	VM	0	v	any	any	any	
+देना	दे	VAUX	ना	v	m	sg	any	
+चाहता	चाह	VAUX	ता	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+शिवराज	शिवराज	XC		unk				
+सिंह	सिंह	NNP	0	n	m	sg	3	d
+उन	उन	DEM		unk				
+लोगों	लोग	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+ढूंढते	ढूंढते	VM		unk				
+रहे	रह	VAUX	एं	v	any	sg	2	
+लेकिन	लेकिन	CC		avy				
+आरोपी	आरोपी	NN		unk				
+नहीं	नहीं	NEG		adv				
+मिले	मिल	VM	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+मौके	मौका	NN	0	n	m	pl	3	d
+पर	पर	PSP		psp				
+वह	वह	PRP	0	pn	any	sg	3	d
+हमेशा	हमेशा	RB		adv				
+अपने	अपना	PRP	0	n	m	pl	3	d
+परिवार	परिवार	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+जरूर	जरूर	RB		adv				
+समय	समय	NN	0	n	m	sg	3	d
+बिताते	बिता	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+अभी	अभी	PRP		adv				
+सरकार	सरकार	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+जोर	जोर	NN	0	n	m	sg	3	d
+कई	कई	QF		adj	any	any		d
+सेक्टर्स	सेक्टर्स	NN		unk				
+में	में	PSP		psp				
+मंदी	मंदी	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+समाप्त	समाप्त	JJ	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+पर	पर	PSP		psp				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+पर	पर	PSP		psp				
+पीडित	पीडित	JJ	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+तीन	तीन	QC	0	n	m	sg	3	d
+लोगो	लोगो	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+खिलाफ	खिलाफ	PSP:?		psp				
+चोरी	चोरी	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+रिपोर्ट	रिपोर्ट	NN	0	n	f	sg	3	d
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+कराई	करा	VM	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+बैंकिंग	बैंकिंग	XC		unk				
+उद्योग	उद्योग	NN	0	n	m	sg	3	d
+इसे	इसे	PRP		pn	any	sg	3	o
+अर्थव्यवस्था	अर्थव्यवस्था	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+बड़ा	बड़ा	XC		punc				
+खतरा	खतरा	NN	0	n	m	sg	3	d
+मान	मान	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+चालक	चालक	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+इस	इस	DEM		pn	any	sg	3	o
+घटना	घटना	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बारे	बारे	PSP	0	n	m	sg	3	d
+में	में	PSP		psp				
+थाना	थाना	VM	0	n	m	sg	3	d
+तिगांव	तिगांव	NN		unk				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+सूचना	सूचना	NN	0	n	f	sg	3	d
+दे	दे	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+कई	कई	QF		adj	any	any		d
+शाखाएं	शाखा	NN	0	n	f	pl		d
+यूवी	यूवी	JJ		unk				
+स्कैनर	स्कैनर	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+बजाय	बजाय	PSP:?		adv				
+लैंप	लैंप	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+चेक	चेक	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+पड़ताल	पड़ताल	NN		unk				
+करती	कर	VM	ता	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इमेज	इमेज	NN		unk				
+से	से	PSP	0	v	any	any	any	
+केवल	केवल	RP		adv				
+खाता	खा	VM	ता	v	m	sg	any	
+संख्या	संख्या	NN	0	n	f	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+तारीख	तारीख	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+ही	ही	RP		adv				
+मिलान	मिलान	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+पाता	पा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+स्कैनर	स्कैनर	NN		unk				
+में	में	PSP		psp				
+ही	ही	RP		adv				
+यह	यह	DEM	0	pn	any	sg	3	d
+व्यवस्था	व्यवस्था	NN	0	n	f	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+कि	कि	CC		avy				
+वह	वह	PRP	0	pn	any	sg	3	d
+क्लोन	क्लोन	XC		unk				
+चेक	चेक	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+रिजेक्ट	रिजेक्ट	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+दे	दे	VAUX	0	v	any	any	any	
+.	.	SYM		punc				
+</s>
+<s>
+सीटीएस	सीटीएस	NN		unk				
+प्रणाली	प्रणाली	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+चेक	चेक	VM	0	n	m	sg	3	d
+सुरक्षा	सुरक्षा	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+विशेष	विशेष	JJ	0	n	m	sg	3	d
+ध्यान	ध्यान	NN	0	n	m	sg	3	d
+देने	दे	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+जरूरत	जरूरत	NN		adv				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+करीब	करीब	XC		punc				
+डेढ़	डेढ़	NNP		punc				
+माह	माह	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+भीतर	भीतर	NST		psp				
+गोशाला	गोशाला	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+मिट्टी	मिट्टी	NN	0	n	f	sg	3	d
+भरने	भर	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+कार्य	कार्य	NN	0	n	m	sg	3	d
+पूरा	पूरा	JJ	0	n	m	sg	3	d
+होगा	हो	VM	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+आरोपियों	आरोपियों	NN		unk				
+से	से	PSP	0	v	any	any	any	
+रुपये	रुपया	NN	0	n	m	pl	3	d
+वापस	वापस	JJ		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+को	को	PSP		psp				
+कहने	कह	VM	ना	v	m	pl	any	
+पर	पर	PSP		psp				
+उन्होंने	उन्होंने	PRP		unk				
+धमकी	धमकी	NN	0	n	f	sg	3	d
+भी	भी	RP		adv				
+दे	दे	VM	0	v	any	any	any	
+डाली	डाल	VAUX	या	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+दोनों	दोना	JJ	0	n	m	pl	3	o
+बहनें	बहन	NN	0	n	f	pl	3	d
+नैहर	नैहर	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+तरह	तरह	PSP		adv				
+ससुराल	ससुराल	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+भी	भी	RP		adv				
+प्रेम	प्रेम	NN	0	n	m	sg	3	d
+और	और	CC		adv				
+आनंद	आनंद	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+रहने	रह	VM	ना	v	m	pl	any	
+लगीं	लग	VAUX	या	v	f	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+मन	मन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+उसे	उसे	PRP		unk				
+चाहे	चाहे	CC:?		adv				
+कितना	कितना	QF		adj	m	sg		d
+ही	ही	RP		adv				
+दु	दु	QC	0	n	m	sg	3	d
+:	:	SYM		punc				
+ख	ख	SYM		n	m	sg	3	d
+हुआ	हो	VM	या	v	m	sg	any	
+हो	हो	VAUX	0	v	any	any	any	
+,	,	SYM		punc				
+उसे	उसे	PRP		unk				
+किसी	किसी	PRP		unk				
+ने	ने	PSP		psp				
+रोते	रो	VM	ता	v	m	pl	any	
+नहीं	नहीं	NEG		adv				
+देखा	देख	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+यदि	यदि	XC		punc				
+साढ़े	साढ़े	NNP		punc				
+5	5	QC		num				
+लाख	लाख	QC		adj	any	any		any
+रुपये	रुपया	NN	0	n	m	pl	3	d
+मुझे	मुझे	PRP		unk				
+देते	दे	VM	ता	v	m	pl	any	
+तो	तो	CC		avy				
+अभी	अभी	PRP		adv				
+तक	तक	RP		avy				
+तो	तो	CC		avy				
+मैं	मैं	PRP	0	pn	any	sg	1	d
+शेड	शेड	NN	0	n	m	sg	3	d
+ही	ही	RP		adv				
+बनवा	बनवा	VM	0	v	any	any	any	
+देता	दे	VAUX	ता	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+वहीं	वहीं	PRP		unk				
+श्वेता	श्वेता	NN		adj	m	sg		d
+अपने	अपना	PRP	0	n	m	pl	3	d
+पापा	पापा	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+बाहों	बाहों	NN		unk				
+में	में	PSP		psp				
+काफी	काफी	QF	0	n	f	sg	3	d
+कंफर्टेबल	कंफर्टेबल	NN		unk				
+दिखाई	दिखा	VM	या	v	f	sg	any	
+दे	दे	VAUX	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+यह	यह	DEM	0	pn	any	sg	3	d
+जुर्माना	जुर्माना	NN	0	n	m	sg	3	d
+उस	उस	DEM		unk				
+पर	पर	PSP		psp				
+खराब	खराब	JJ		adj	any	any		any
+मैगी	मैगी	XC		unk				
+नूडल्स	नूडल्स	NN		unk				
+बेचने	बेच	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+जुर्म	जुर्म	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+लगाया	लगा	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+

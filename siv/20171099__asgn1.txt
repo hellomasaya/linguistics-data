@@ -1,0 +1,826 @@
+1		न		NEG		adv										2		dep
+2		कोई		PRP		pn		any		sg		3		d		3		dep
+3		रोजी		NN		n		f		sg		3		d		5		nsubj
+4		न		NEG		adv										5		advmod
+5		रोजगा		VM		unk										0		root
+1		र.		XC		unk										4		iobj
+2		शिवदास		NNP		unk										1		case
+3		को		PSP		psp										4		nsubj
+4		पेंशन		NN		n		f		sg		3		d		0		root
+5		मिली		VM		v		f		sg		any				4		punct
+1		.		SYM		punc										2		det
+2		ये		DEM		pn		any		pl		3		d		4		nsubj
+3		नंबर		NN		n		m		sg		3		d		4		xcomp
+4		गोपनीय		JJ		adj		any		any				any		0		root
+5		होते		VM		v		m		pl		any				4		aux
+6		हैं		VAUX		v		any		pl		1				4		punct
+1		.		SYM		punc										6		nmod
+2		इधर		NST		adv										3		nummod
+3		एक		QC		adj		any		any				any		6		nmod
+4		साल		NN		n		m		sg		3		d		3		case
+5		से		PSP		v		any		any		any				6		amod
+6		बुरा		JJ		adj		m		sg				d		0		root
+7		हाल		NN		n		m		sg		3		d		6		cop
+8		था		VM		v		m		sg		any				6		punct
+1		.		SYM		punc										6		nmod
+2		घर		NN		n		m		sg		3		d		1		case
+3		में		PSP		psp										1		dep
+4		भी		RP		adv										1		dep
+5		तो		RP		avy										6		nummod
+6		बीसों		QC		n		m		pl		3		o		0		root
+7		काम		NN		n		m		sg		3		d		6		cop
+8		हैं		VM		v		any		pl		1				6		punct
+1		.		SYM		punc										3		nsubj
+2		हमारा-तुम्हारा		NN		unk										3		det
+3		क्या		WQ		avy										0		root
+4		बस		RP		v		any		any		any				3		cop
+5		है		VM		v		any		sg		2				3		punct
+1		?		SYM		punc										2		amod
+2		दिन-भर		JJ		unk										5		obl
+3		द्वार		NN		n		m		sg		3		d		2		case
+4		पर		PSP		psp										5		compound
+5		गप-शप		NN		unk										0		root
+6		करते		VM		v		m		pl		any				5		punct
+1		.		SYM		punc										2		det
+2		यही		DEM		avy										0		root
+3		स्थिति		NN		n		m		sg		3		d		4		compound
+4		टंगैल		XC		unk										2		nmod
+5		गोशाला		NNP		n		f		sg		3		d		4		case
+6		की		VM		v		f		sg		any				2		cop
+7		थी		VAUX		v		f		sg		any				2		punct
+1		.		SYM		punc										2		nmod
+2		उसका		PRP		v		any		any		any				3		obj
+3		काम		NN		n		m		sg		3		d		7		nsubj
+4		करने		VM		v		m		pl		any				3		mark
+5		वाला		VAUX		n		m		sg		3		d		7		mark
+6		तो		CC		avy										7		nsubj
+7		कोई		PRP		pn		any		sg		3		d		0		root
+8		चाहि		QC		unk										7		punct
+1		ए.		XC		unk										3		nmod
+2		बिरजू		NNP		unk										1		case
+3		का		PSP		psp		m		sg				d		7		obj
+4		हल		NN		n		m		sg		3		d		7		obl
+5		अब		PRP		adv										7		nsubj
+6		मैं		PRP		pn		any		sg		1		d		5		dep
+7		ही		RP		adv										0		root
+8		संभालूंगा		VM		unk										7		punct
+1		.		SYM		punc										7		nsubj
+2		तुम		PRP		pn		any		pl		2		d		3		nsubj
+3		किसी		PRP		unk										5		nmod
+4		बात		NN		n		f		sg		3		d		3		case
+5		का		PSP		psp		m		sg				d		7		compound
+6		सोच		NN		n		m		sg		3		d		7		advmod
+7		मत		NEG		adv										0		root
+8		किया		VM		v		m		sg		any				7		punct
+1		करो		VM		v		any		pl		2				2		det
+2		.		SYM		punc										7		obl
+3		इसी		DEM		pn		any		sg		3		o		2		case
+4		आधार		NN		n		m		sg		3		d		6		nmod
+5		पर		PSP		psp										4		case
+6		चेक		NNP		n		m		sg		3		d		7		compound
+7		की		PSP		psp		f		sg				d		0		root
+8		छपाई		NN		n		f		sg		3		d		7		aux
+9		होती		VM		v		f		sg		any				7		punct
+1		है		VAUX		v		any		sg		2				2		nummod
+2		.		SYM		punc										3		obj
+3		एक		QC		adj		any		any				any		9		advcl
+4		हल		NN		n		m		sg		3		d		3		aux
+5		तोड़		NNP		punc										3		punct
+6		दूं		VM		v		any		sg		1				9		mark
+7		,		SYM		punc										9		advcl
+8		तो		CC		avy										9		advmod
+9		गुजारा		NN		n		m		sg		3		d		0		root
+10		न		NEG		adv										9		punct
+1		होगा		VM		v		m		sg		2				3		nmod
+2		.		SYM		punc										1		case
+3		मकान		NN		n		m		sg		3		d		6		nsubj
+4		का		PSP		psp		m		sg				d		6		obl
+5		किराया		NN		n		m		sg		3		d		4		case
+6		सिर		NN		n		m		sg		3		d		0		root
+7		पर		PSP		psp										6		aux
+8		चढ़ा		XC		n		m		sg		3		d		7		aux:pass
+9		हुआ		VM		v		m		sg		any				6		punct
+1		था		VAUX		v		m		sg		any				2		nsubj
+2		.		SYM		punc										6		advcl
+3		बिरजू		VM		unk										2		punct
+4		गया		VAUX		unk										6		mark
+5		,		SYM		punc										6		obl
+6		तो		CC		avy										0		root
+7		अभी		PRP		adv										6		dep
+8		बैठा		VM		v		any		any		any				6		aux
+9		ही		RP		adv										8		aux:pass
+10		हुआ		VM		v		m		sg		any				6		punct
+1		हूं		VAUX		v		any		sg		1				2		amod
+2		.		SYM		punc										6		nmod
+3		पूरे		JJ		n		m		pl		3		d		2		case
+4		मामले		NN		n		m		pl		3		d		7		nsubj
+5		की		PSP		psp		f		sg				d		7		obl
+6		मैं		PRP		pn		any		sg		1		d		7		compound
+7		खुद		PRP		v		any		any		any				0		root
+8		जांच		NN		unk										7		punct
+1		कराउंगा		VM		unk										2		nmod
+2		.		SYM		punc										4		obj
+3		इसकी		PRP		pn		f		sg		3		d		4		obl
+4		रिपोर्ट		NN		n		f		sg		3		d		0		root
+5		मुख्यालय		NN		n		m		sg		3		d		4		aux:pass
+6		भेज		VM		v		any		any		any				5		aux:pass
+7		दी		VAUX		v		f		sg		any				6		aux:pass
+8		गई		VAUX		unk										4		punct
+1		है		VAUX		v		any		sg		2				2		det
+2		.		SYM		punc										8		obl
+3		इस		DEM		pn		any		sg		3		o		2		case
+4		मामले		NN		n		m		pl		3		d		2		dep
+5		में		PSP		psp										7		nmod
+6		भी		RP		adv										5		case
+7		गडबडी		NN		n		f		sg		3		d		8		nsubj
+8		की		PSP		psp		f		sg				d		0		root
+9		बू		NN		n		f		sg		3		d		8		aux
+10		आ		VM		v		any		any		any				9		aux:pass
+11		रही		VAUX		v		f		sg		any				8		punct
+1		है		VAUX		v		any		sg		2				3		nmod
+2		.		SYM		punc										1		case
+3		जांच		NN		unk										7		obl
+4		के		PSP		psp		m		sg				o		3		case
+5		दायरे		NN		n		m		pl		3		d		7		obj
+6		में		PSP		psp										5		dep
+7		इसे		PRP		pn		any		sg		3		o		0		root
+8		भी		RP		adv										7		aux:pass
+9		लिया		VM		v		m		sg		any				8		aux:pass
+10		गया		VAUX		unk										7		punct
+1		है		VAUX		v		any		sg		2				3		nmod
+2		.		SYM		punc										1		case
+3		साल-भर		NN		unk										7		nsubj
+4		का		PSP		psp		m		sg				d		7		obl
+5		बच्चा		NN		n		m		sg		3		d		4		case
+6		दूध		NN		n		m		sg		3		d		4		case
+7		के		PSP		psp		m		sg				o		0		root
+8		लिए		PSP		v		m		pl		any				7		aux
+9		बिलख		VM		v		any		any		any				8		aux:pass
+10		रहा		VAUX		v		m		sg		any				7		punct
+1		था		VAUX		v		m		sg		any				4		amod
+2		.		SYM		punc										4		compound
+3		मौजूदा		JJ		adj		m		sg				d		4		compound
+4		इनकम		DEM		n		f		sg		3		d		7		nsubj
+5		टैक्स		NN		n		m		sg		3		d		6		nummod
+6		ऐक्ट		NN		n		m		sg		3		d		7		advmod
+7		58		QC		num										0		root
+8		साल		NN		n		m		sg		3		d		7		cop
+9		पुराना		JJ		adj		m		sg				d		7		punct
+1		है		VM		v		any		sg		2				6		nsubj
+2		.		SYM		punc										3		cc
+3		रामप्यारी		NNP		unk										1		conj
+4		और		CC		adv										6		nummod
+5		रामदुलारी		NNP		unk										6		amod
+6		दो		QC		n		m		sg		3		d		0		root
+7		सगी		JJ		unk										6		cop
+8		बहनें		NN		n		f		pl		3		d		6		punct
+1		थीं		VM		v		f		pl		any				3		obj
+2		.		SYM		punc										1		dep
+3		बैठे-बैठे		NN		unk										9		advcl
+4		तो		RP		avy										3		mark
+5		रोने		VM		v		m		pl		any				3		mark
+6		के		PSP		psp		m		sg				o		7		det
+7		सिवा		PSP:?		n		m		sg		3		d		9		nsubj
+8		और		CC		adv										9		advmod
+9		कुछ		QF		adj		any		any				d		0		root
+10		न		NEG		adv										9		punct
+1		होगा		VM		v		m		sg		2				8		obl
+2		.		SYM		punc										1		case
+3		मंगलवार		NN		n		m		sg		3		d		8		obl
+4		को		PSP		psp										3		case
+5		मामले		NN		n		m		pl		3		d		8		obl
+6		में		PSP		psp										5		case
+7		डीसी		NN		unk										5		dep
+8		से		PSP		v		any		any		any				0		root
+9		भी		RP		adv										8		punct
+1		मिलूंगा		VM		unk										2		compound
+2		.		SYM		punc										7		nmod
+3		अमिताभ		JJ		unk										2		case
+4		बच्चन		NN		unk										5		compound
+5		का		PSP		psp		m		sg				d		7		nmod
+6		11		QC		num										5		case
+7		अक्टूबर		NNP		unk										0		root
+8		को		PSP		psp										7		cop
+9		जन्मदिन		NN		unk										7		punct
+1		है		VM		v		any		sg		2				8		obl
+2		.		SYM		punc										1		case
+3		देवताओं		NN		n		m		pl		3		o		4		nmod
+4		में		PSP		psp										8		nsubj
+5		उसकी		PRP		unk										7		det
+6		आस्था		NN		n		f		sg		3		d		5		dep
+7		और		CC		adv										8		compound
+8		भी		RP		adv										0		root
+9		दृढ़		NN		v		m		sg		any				8		aux
+10		हो		VM		v		any		any		any				8		punct
+1		गयी		VAUX		unk										7		obj
+2		.		SYM		punc										1		dep
+3		उसे		PRP		unk										7		nsubj
+4		भी		RP		adv										3		case
+5		अधिकारियों		NN		n		m		pl		3		o		7		obl
+6		ने		PSP		psp										5		case
+7		अधर		NN		n		m		sg		3		d		0		root
+8		में		PSP		psp										7		aux
+9		छोड		VM		v		any		any		any				8		aux:pass
+10		दिया		VAUX		v		m		sg		any				7		punct
+1		है		VAUX		v		any		sg		2				8		obl
+2		.		SYM		punc										1		case
+3		अभी		PRP		adv										6		nmod
+4		तक		RP		avy										3		case
+5		आरोपियों		NN		unk										6		case
+6		का		PSP		psp		m		sg				d		8		obj
+7		कोई		PRP		pn		any		sg		3		d		8		advmod
+8		सुराग		NN		n		m		sg		3		d		0		root
+9		नहीं		NEG		adv										8		aux
+10		लगा		VM		v		any		any		any				8		punct
+1		है		VAUX		v		any		sg		2				4		nsubj
+2		.		SYM		punc										4		obl
+3		काम		NN		n		m		sg		3		d		2		case
+4		धंधे		NN		n		m		pl		3		d		9		advcl
+5		में		PSP		psp										4		aux
+6		लगी		VM		v		f		sg		any				4		punct
+7		रहूंगी		VAUX		unk										9		mark
+8		,		SYM		punc										9		obj
+9		तो		CC		avy										0		root
+10		मन		NN		n		m		sg		3		d		9		aux
+11		बदला		VM		v		m		sg		any				9		punct
+1		रहेगा		VAUX		v		m		sg		2				9		obl
+2		.		SYM		punc										1		case
+3		अभी		PRP		adv										4		dep
+4		तक		RP		avy										5		nummod
+5		करीब		RB		adj		any		any				any		6		nmod
+6		25		QC		num										9		nsubj
+7		ट्रॉली		NN		unk										6		dep
+8		मिट्टी		NN		n		f		sg		3		d		9		xcomp
+9		ही		RP		adv										0		root
+10		डल		VM		unk										9		aux
+11		सकी		VAUX		v		f		sg		any				9		punct
+1		हैं		VAUX		v		any		pl		1				8		obl
+2		.		SYM		punc										1		case
+3		इससे		PRP		pn		any		sg		3		o		2		dep
+4		पहले		NST		adv										5		det
+5		भी		RP		adv										8		obj
+6		ऐसी		DEM		adj		f		any				any		8		obl
+7		मछली		NN		n		f		sg		3		d		6		case
+8		दीघा		NN		unk										0		root
+9		में		PSP		psp										8		aux:pass
+10		पकड़ी		XC		psp										9		aux:pass
+11		गई		VAUX		unk										8		punct
+1		थी		VAUX		v		f		sg		any				0		root
+2		.		SYM		punc										1		punct
+3		बोलो		VM		v		any		pl		2				10		obl
+4		,		SYM		punc										3		dep
+5		अब		PRP		adv										7		nmod
+6		तो		RP		avy										5		case
+7		ईश्वर		NN		n		m		sg		3		d		10		nsubj
+8		की		PSP		psp		f		sg				d		7		case
+9		दयालुता		NN		unk										10		compound
+10		के		PSP		psp		m		sg				o		1		obj
+11		कायल		NN		adj		any		any				any		1		punct
+1		हुए		VM		v		m		pl		any				7		obl
+2		?		SYM		punc										3		nmod
+3		वहां		PRP		adv										5		obj
+4		अपनी		PRP		n		f		sg		3		d		5		compound
+5		मोटरसाइकिल		NN		n		f		sg		3		d		7		advcl
+6		खडी		JJ		unk										7		obj
+7		करके		VM		v		any		any		any				0		root
+8		खाना		NN		n		m		sg		3		d		7		aux
+9		खाने		VM		v		m		pl		any				7		punct
+1		लगे		VAUX		v		any		sg		2				3		nsubj
+2		.		SYM		punc										3		nsubj
+3		जो		PRP		avy										9		advcl
+4		हमने		PRP		unk										3		aux
+5		खाया		VM		v		m		sg		any				9		obl
+6		है		VAUX		v		any		sg		2				9		nsubj
+7		तो		CC		avy										9		advmod
+8		वह		PRP		pn		any		sg		3		d		9		obj
+9		तुरंत		RB		adv										0		root
+10		कुर्सी		NN		n		f		sg		3		d		9		aux
+11		छोड		VM		v		any		any		any				9		punct
+1		देंगे		VAUX		v		m		pl		1				2		compound
+2		.		SYM		punc										6		nsubj
+3		प्रियंका		XC		unk										6		obl
+4		चोपड़ा		NNP		v		m		sg		any				5		compound
+5		जोनस		NN		unk										6		xcomp
+6		ग्लोबल		JJ		unk										0		root
+7		आइकॉन		NN		unk										6		aux
+8		बन		VM		v		any		any		any				7		aux:pass
+9		चुकी		VAUX		v		f		sg		any				6		punct
+1		हैं		VAUX		v		any		pl		1				5		nmod
+2		.		SYM		punc										1		case
+3		घर		NN		n		m		sg		3		d		5		det
+4		में		PSP		psp										5		det
+5		जो		PRP		avy										8		acl:relcl
+6		थोड़े-बहुत		JJ		unk										5		cop
+7		गहने		VM		n		m		pl		3		d		6		punct
+8		थे		VAUX		v		m		pl		any				9		nsubj
+9		,		SYM		punc										0		root
+10		वह		PRP		pn		any		sg		3		d		9		aux
+11		बिक		VM		v		any		any		any				10		aux:pass
+12		चुके		VAUX		v		any		sg		2				9		punct
+1		थे		VAUX		v		m		pl		any				11		nsubj
+2		.		SYM		punc										3		compound
+3		वह		PRP		pn		any		sg		3		d		8		nmod
+4		शोनाली		XC		unk										3		case
+5		बोस		NNP		unk										8		compound
+6		की		PSP		psp		f		sg				d		8		compound
+7		द		XC		n		m		sg		3		d		8		compound
+8		स्काई		XC		unk										11		obl
+9		इज		XC		unk										8		case
+10		पिंक		NN		unk										11		compound
+11		में		PSP		psp										0		root
+12		नजर		NN		n		f		sg		3		d		11		punct
+1		आएंगी		VM		v		f		pl		1				7		obj
+2		.		SYM		punc										4		obl
+3		चालक		NN		n		m		sg		3		d		2		case
+4		झारखंड		NNP		unk										6		amod
+5		का		PSP		psp		m		sg				d		4		mark
+6		रहने		VM		v		m		pl		any				7		acl
+7		वाला		PSP		n		m		sg		3		d		0		root
+8		राजकिशोर		NN		unk										7		aux:pass
+9		बताया		VM		v		m		sg		any				8		aux:pass
+10		गया		VAUX		unk										7		punct
+1		है		VAUX		v		any		sg		2				5		nmod
+2		.		SYM		punc										5		nmod
+3		इसमें		PRP		pn		any		sg		3		o		2		case
+4		उनके		PRP		unk										5		compound
+5		साथ		NST		adv										0		root
+6		फरहान		NN		unk										8		cc
+7		अख्तर		NN		n		m		sg		3		d		8		compound
+8		और		CC		adv										5		conj
+9		जायरा		XC		unk										8		dep
+10		वसीम		NN		unk										5		cop
+11		भी		RP		adv										5		punct
+1		हैं		VM		v		any		pl		1				6		obl
+2		.		SYM		punc										1		case
+3		इमेज		NN		unk										6		nsubj
+4		से		PSP		v		any		any		any				6		compound
+5		ये		DEM		pn		any		pl		3		d		6		advmod
+6		पता		JJ		n		m		sg		3		d		0		root
+7		नहीं		NEG		adv										9		mark
+8		चलता		VM		v		m		sg		any				9		nsubj
+9		कि		CC		avy										6		obj
+10		चेक		NNP		n		m		sg		3		d		9		cop
+11		असली		JJ		adj		f		any				any		9		cc
+12		है		VM		v		any		sg		2				6		punct
+1		या		CC		avy										10		nsubj
+2		नकली		JJ		adj		f		any				any		4		nmod
+3		.		SYM		punc										2		case
+4		वह		PRP		pn		any		sg		3		d		10		obl
+5		सामने		NST		n		m		pl		3		d		4		case
+6		की		PSP		psp		f		sg				d		7		obj
+7		दिशा		NN		n		f		sg		3		d		10		advcl
+8		में		PSP		psp										7		aux
+9		कुछ		QF		adj		any		any				d		10		compound
+10		देखती		VM		v		f		sg		any				0		root
+11		हुई		VAUX		v		f		sg		any				10		aux
+12		नजर		NN		n		f		sg		3		d		11		aux:pass
+13		आ		VM		v		any		any		any				10		punct
+1		रही		VAUX		v		f		sg		any				5		nsubj
+2		हैं		VAUX		v		any		pl		1				1		case
+3		.		SYM		punc										4		amod
+4		बहू		RDP		n		f		sg		3		d		5		compound
+5		ने		PSP		psp										0		root
+6		बहुत-से		JJ		unk										12		punct
+7		हीले		NN		unk										12		cc
+8		किये		VM		v		m		pl		any				12		nsubj
+9		,		SYM		punc										8		case
+10		पर		PSP		psp										12		obj
+11		शिवदास		NNP		unk										12		advmod
+12		ने		PSP		psp										5		conj
+1		एक		QC		adj		any		any				any		2		det
+2		न		NEG		adv										5		obl
+3		सुनी		VM		v		f		sg		any				2		case
+4		.		SYM		punc										5		nsubj
+5		जिन		DEM		n		m		sg		3		d		10		advcl
+6		मित्रों		NN		n		m		pl		3		o		5		aux
+7		से		PSP		v		any		any		any				6		aux:pass
+8		कर्ज		NN		n		m		sg		3		d		5		punct
+9		मिल		VM		v		any		any		any				10		compound
+10		सकता		VAUX		v		m		sg		any				0		root
+11		था		VAUX		v		m		sg		any				10		aux
+12		,		SYM		punc										11		aux:pass
+13		सबसे		JJ		adj		any		any				any		10		punct
+1		ले		VM		v		any		any		any				2		dep
+2		चुके		VAUX		v		any		sg		2				3		nummod
+3		थे		VAUX		v		m		pl		any				4		advmod
+4		.		SYM		punc										6		amod
+5		करीब		RB		adj		any		any				any		6		det
+6		पांच		QC		unk										8		nmod
+7		फीट		NN		unk										6		case
+8		लंबी		JJ		n		f		sg		3		d		10		nsubj
+9		इस		DEM		pn		any		sg		3		o		10		nummod
+10		मछली		NN		n		f		sg		3		d		0		root
+11		का		PSP		psp		m		sg				d		10		cop
+12		वजन		NN		n		m		sg		3		d		10		punct
+1		40		QC		num										8		obl
+2		किलोग्राम		NN		n		m		sg		3		d		1		case
+3		है		VM		v		any		sg		2				8		nsubj
+4		.		SYM		punc										3		case
+5		इसके		PRP		pn		m		pl		3		d		6		amod
+6		लिए		PSP		v		m		pl		any				8		compound
+7		सरकार		NN		n		f		sg		3		d		6		dep
+8		को		PSP		psp										0		root
+9		अतिरिक्त		JJ		adj		any		any				any		8		aux
+10		खर्च		NN		n		m		sg		3		d		9		aux:pass
+11		भी		RP		adv										10		aux:pass
+12		करना		VM		v		m		sg		any				8		punct
+1		पड़		NN		punc										3		nmod
+2		रहा		VM		v		m		sg		any				1		case
+3		है		VAUX		v		any		sg		2				11		nsubj
+4		.		SYM		punc										11		nsubj
+5		दोनों		NN		n		m		pl		3		o		6		cc
+6		का		PSP		psp		m		sg				d		4		conj
+7		विवाह		NN		n		m		sg		3		d		9		nummod
+8		मथुरा		NNP		n		m		sg		3		d		9		amod
+9		और		CC		adv										11		obl
+10		बिरजू		NNP		unk										9		case
+11		दो		QC		n		m		sg		3		d		0		root
+12		सगे		JJ		adj		m		sg				o		11		punct
+1		भाइयों		NN		n		m		pl		3		o		9		nmod
+2		से		PSP		v		any		any		any				9		nmod
+3		हु		VM		unk										9		nmod
+4		आ.		NN		unk										3		case
+5		वहीं		PRP		unk										6		dep
+6		अब		PRP		adv										7		nummod
+7		गोशाला		NN		n		f		sg		3		d		8		nmod
+8		में		PSP		psp										9		nsubj
+9		करीब		RB		adj		any		any				any		0		root
+10		500		QC		num										9		cop
+11		ट्रॉली		NN		unk										9		punct
+1		मिट्टी		NN		n		f		sg		3		d		4		nsubj
+2		गिरनी		VM		v		f		sg		any				4		obj
+3		है		VAUX		v		any		sg		2				2		dep
+4		.		SYM		punc										0		root
+5		भुगतान		NN		n		m		sg		3		d		10		cc
+6		कोई		PRP		pn		any		sg		3		d		10		nsubj
+7		भी		RP		adv										10		obj
+8		करे		VM		v		any		sg		2				7		case
+9		लेकिन		CC		avy										7		dep
+10		भुगतना		VM		v		m		sg		any				4		conj
+11		बैंक		NN		n		m		sg		3		d		10		aux
+12		को		PSP		psp										4		punct
+1		ही		RP		adv										2		nsubj
+2		पड़ता		XC		adv										0		root
+3		है		NNP		adv										12		mark
+4		.		SYM		punc										6		nmod
+5		उन्होंने		PRP		unk										4		case
+6		बताया		VM		v		m		sg		any				8		nmod
+7		कि		CC		avy										6		case
+8		घर		NN		n		m		sg		3		d		11		nmod
+9		के		PSP		psp		m		sg				o		8		case
+10		आम		NN		n		m		sg		3		d		11		case
+11		के		PSP		psp		m		sg				o		12		compound
+12		अचार		NN		n		m		sg		3		d		2		obj
+13		का		PSP		psp		m		sg				d		2		punct
+1		कोई		PRP		pn		any		sg		3		d		2		det
+2		जोड़		NNP		adj		any		any				any		8		obj
+3		नहीं		NEG		adv										6		det
+4		.		SYM		punc										6		nummod
+5		यह		DEM		pn		any		sg		3		d		6		compound
+6		डिस्काउंट		NN		unk										8		obl
+7		इन		DEM		pn		any		pl		3		o		6		case
+8		दोनों		JJ		n		m		pl		3		o		0		root
+9		टीवी		NN		unk										8		aux:pass
+10		मॉडल्स		NN		unk										9		aux:pass
+11		पर		PSP		psp										10		aux:pass
+12		दिया		VM		v		m		sg		any				8		punct
+1		जा		VAUX		v		any		any		any				2		nummod
+2		रहा		VAUX		v		m		sg		any				4		nmod
+3		है		VAUX		v		any		sg		2				2		case
+4		.		SYM		punc										5		nsubj
+5		एक		QC		adj		any		any				any		12		advcl
+6		वक्त		NN		n		m		sg		3		d		5		punct
+7		का		PSP		psp		m		sg				d		12		mark
+8		भोजन		NN		n		m		sg		3		d		9		amod
+9		मिलता		VM		v		m		sg		any				11		nmod
+10		,		SYM		punc										9		case
+11		तो		CC		avy										12		compound
+12		दूसरे		JJ		n		m		pl		3		d		0		root
+13		जून		NNP		n		m		sg		3		d		12		punct
+1		की		PSP		psp		f		sg				d		3		nsubj
+2		चिन्ता		NN		n		m		sg		3		d		3		advmod
+3		होती		VM		v		f		sg		any				10		advcl
+4		.		SYM		punc										3		mark
+5		शेड		NN		n		m		sg		3		d		3		mark
+6		नहीं		NEG		adv										10		obl
+7		बनने		VM		v		m		pl		any				6		case
+8		के		PSP		psp		m		sg				o		10		nsubj
+9		कारण		NN		n		m		sg		3		d		10		compound
+10		गोशाला		NN		n		f		sg		3		d		0		root
+11		में		PSP		psp										10		aux
+12		गाय		JJ		n		f		sg		3		d		11		aux:pass
+13		दम		NN		n		f		sg		3		d		10		punct
+1		तोड		VM		v		any		any		any				2		nsubj
+2		रही		VAUX		v		f		sg		any				0		root
+3		हैं		VAUX		v		any		pl		1				10		mark
+4		.		SYM		punc										10		nsubj
+5		उन्होंने		PRP		unk										10		obl
+6		बताया		VM		v		m		sg		any				5		case
+7		कि		CC		avy										5		case
+8		वह		PRP		pn		any		sg		3		d		5		case
+9		सैंडविच		NN		unk										10		obj
+10		तक		RP		avy										2		obj
+11		के		PSP		psp		m		sg				o		10		aux
+12		साथ		NST		adv										2		punct
+1		अचार		NN		n		m		sg		3		d		8		obl
+2		खाती		VM		v		f		sg		any				1		case
+3		हैं		VAUX		v		any		pl		1				8		nsubj
+4		.		SYM		punc										6		nsubj
+5		मेरे		XC		punc										6		amod
+6		जीते-जी		NNP		punc										8		obl
+7		तुम्हें		PRP		pn		any		pl		2		o		6		case
+8		कोई		PRP		pn		any		sg		3		d		0		root
+9		टेढ़ी		XC		n		f		sg		3		d		8		dep
+10		आंख		NN		unk										8		advmod
+11		से		PSP		v		any		any		any				8		aux
+12		देख		VM		v		any		any		any				8		punct
+1		भी		RP		adv										10		obl
+2		न		NEG		adv										3		compound
+3		सकेगा		VAUX		v		m		sg		2				10		obl
+4		.		SYM		punc										3		case
+5		इनमें		PRP		pn		any		pl		3		o		6		dep
+6		सुल्लर		XC		unk										7		nummod
+7		गोशाला		NNP		n		f		sg		3		d		10		nsubj
+8		में		PSP		psp										7		case
+9		करीब		RB		adj		any		any				any		10		compound
+10		155		QC		num										0		root
+11		गोवंश		NN		unk										10		aux
+12		ने		PSP		psp										10		punct
+1		दम		NN		n		f		sg		3		d		2		case
+2		तोडा		VM		v		m		sg		any				0		root
+1		है		VAUX		v		any		sg		2				6		cc
+2		.		SYM		punc										3		det
+3		बारे		PSP		n		m		sg		3		d		6		obj
+4		!		SYM		punc										3		case
+5		आज		NN		adv										6		nsubj
+6		भगवान्		NN		n		m		sg		3		d		0		root
+7		ने		PSP		psp										6		aux
+8		उस		DEM		unk										11		nmod
+9		पर		PSP		psp										11		nsubj
+10		दया		NN		n		f		sg		3		d		9		case
+11		की		PSP		psp		f		sg				d		6		obl
+12		और		CC		adv										13		advmod
+13		संकट		NN		n		m		sg		3		d		11		cop
+14		के		PSP		psp		m		sg				o		6		punct
+1		दिन		NN		n		m		sg		3		d		10		obl
+2		कट		VM		v		any		any		any				1		case
+3		गये		VAUX		unk										4		nummod
+4		.		SYM		punc										10		obl
+5		लेकिन		CC		avy										4		case
+6		इस		DEM		pn		any		sg		3		o		7		dep
+7		राशि		NN		n		f		sg		3		d		8		nummod
+8		को		PSP		psp										10		nsubj
+9		कौन		WQ		avy										10		compound
+10		डकार		VM		v		any		any		any				0		root
+11		गया		VAUX		unk										10		aux
+12		इसकी		PRP		pn		f		sg		3		d		11		aux:pass
+13		किसी		PRP		unk										10		punct
+1		को		PSP		psp										8		nmod
+2		खबर		NN		n		f		sg		3		d		1		case
+3		नहीं		NEG		adv										4		case
+4		है		VM		v		any		sg		2				8		nummod
+5		.		SYM		punc										4		dep
+6		अभी		PRP		adv										8		compound
+7		तक		RP		avy										8		compound
+8		दोनों		JJ		n		m		pl		3		o		10		nmod
+9		गोशाला		NN		n		f		sg		3		d		8		case
+10		में		PSP		psp										12		obl
+11		करीब		RB		adj		any		any				any		10		case
+12		200		QC		num										0		root
+13		गोवंश		NN		unk										12		aux
+14		दम		NN		n		f		sg		3		d		12		punct
+1		तोड		VM		v		any		any		any				10		obl
+2		चुके		VAUX		v		any		sg		2				1		case
+3		हैं		VAUX		v		any		pl		1				4		compound
+4		.		SYM		punc										10		nsubj
+5		नाले		NN		n		m		pl		3		d		8		nmod
+6		के		PSP		psp		m		sg				o		5		case
+7		9.8		QC		num										8		compound
+8		लाख		QC		adj		any		any				any		10		obj
+9		भी		RP		adv										10		compound
+10		पंचायती		JJ		adj		f		any				any		0		root
+11		राज		XC		n		m		sg		3		d		10		aux
+12		विभाग		NN		n		m		sg		3		d		11		aux:pass
+13		के		PSP		psp		m		sg				o		10		punct
+1		खाते		NN		n		m		pl		3		d		5		obj
+2		में		PSP		psp										1		case
+3		आए		VM		v		any		sg		2				1		dep
+4		थे		VAUX		v		m		pl		any				5		obl
+5		.		SYM		punc										0		root
+6		ऐसे		PRP		adv										5		punct
+7		में		PSP		psp										12		obl
+8		बैंक		XC		n		m		sg		3		d		11		obl
+9		कर्मी		XC		adj		f		any				any		8		case
+10		चेक		NNP		n		m		sg		3		d		11		obj
+11		की		PSP		psp		f		sg				d		12		advcl
+12		जांच		NN		unk										4		acl:relcl
+13		अंगुली		NN		n		f		sg		3		d		12		aux
+14		गीली		JJ		adj		f		any				any		5		punct
+1		कर		VM		v		any		any		any				3		nsubj
+2		करते		VAUX		v		m		pl		any				1		case
+3		हैं		VAUX		v		any		pl		1				5		acl
+4		.		SYM		punc										3		aux
+5		ईश्वर		NN		n		m		sg		3		d		9		nsubj
+6		को		PSP		psp										5		case
+7		तो		RP		avy										9		obl
+8		तब		PRP		adv										7		case
+9		जानता		VM		v		m		sg		any				11		nsubj
+10		,		SYM		punc										11		obj
+11		जब		PRP		adv										0		root
+12		कहीं		PRP		adv										11		punct
+1		से		PSP		v		any		any		any				3		nmod
+2		छप्पर		NN		n		m		sg		3		d		1		case
+3		फाड़कर		VM		v		any		any		any				9		obj
+4		भेज		VM		v		any		any		any				3		case
+5		देते		VAUX		v		m		pl		any				7		nmod
+6		.		SYM		punc										5		case
+7		तकाजों		NN		n		m		pl		3		o		9		obl
+8		के		PSP		psp		m		sg				o		7		case
+9		मारे		VM		v		any		sg		2				11		obj
+10		बेचारे		JJ		n		m		pl		3		d		9		aux
+11		दीनानाथ		NN		n		m		sg		3		d		0		root
+12		को		PSP		psp										11		aux
+13		घर		NN		n		m		sg		3		d		11		punct
+1		से		PSP		v		any		any		any				2		compound
+2		निकलना		VM		v		m		sg		any				6		nsubj
+3		मुश्किल		JJ		n		f		sg		3		d		4		det
+4		था		VM		v		m		sg		any				6		obj
+5		.		SYM		punc										4		case
+6		वैधव्य		NN		n		m		sg		3		d		0		root
+7		की		PSP		psp		f		sg				d		6		aux
+8		व्यथा		NN		n		m		sg		3		d		11		cc
+9		को		PSP		psp										11		nsubj
+10		स्वामित्व		NN		n		m		sg		3		d		11		advmod
+11		के		PSP		psp		m		sg				o		6		conj
+12		गर्व		NN		n		m		sg		3		d		6		punct
+1		से		PSP		v		any		any		any				2		det
+2		दबा		VM		v		any		any		any				12		obl
+3		देना		VAUX		v		m		sg		any				2		case
+4		चाहता		VAUX		v		m		sg		any				12		nsubj
+5		था		VAUX		v		m		sg		any				12		advmod
+6		.		SYM		punc										7		nmod
+7		शिवराज		XC		unk										12		obl
+8		सिंह		NNP		n		m		sg		3		d		7		case
+9		उन		DEM		unk										7		case
+10		लोगों		NN		n		m		pl		3		o		12		advmod
+11		को		PSP		psp										12		obj
+12		ढूंढते		VM		unk										0		root
+13		रहे		VAUX		v		any		sg		2				12		aux
+14		लेकिन		CC		avy										12		punct
+1		आरोपी		NN		unk										13		obl
+2		नहीं		NEG		adv										4		nmod
+3		मिले		VM		v		any		sg		2				2		case
+4		.		SYM		punc										13		nsubj
+5		इस		DEM		pn		any		sg		3		o		6		det
+6		मौके		NN		n		m		pl		3		d		11		obl
+7		पर		PSP		psp										6		case
+8		वह		PRP		pn		any		sg		3		d		11		obj
+9		हमेशा		RB		adv										8		case
+10		अपने		PRP		n		m		pl		3		d		11		compound
+11		परिवार		NN		n		m		sg		3		d		13		obl
+12		के		PSP		psp		m		sg				o		11		mark
+13		साथ		NST		adv										0		root
+14		जरूर		RB		adv										13		punct
+1		समय		NN		n		m		sg		3		d		13		obl
+2		बिताते		VM		v		m		pl		any				1		case
+3		हैं		VAUX		v		any		pl		1				13		nsubj
+4		.		SYM		punc										3		case
+5		अभी		PRP		adv										6		nummod
+6		सरकार		NN		n		f		sg		3		d		13		obl
+7		का		PSP		psp		m		sg				d		6		case
+8		जोर		NN		n		m		sg		3		d		6		case
+9		कई		QF		adj		any		any				d		11		nmod
+10		सेक्टर्स		NN		unk										9		case
+11		में		PSP		psp										13		obj
+12		मंदी		NN		n		f		sg		3		d		13		compound
+13		को		PSP		psp										0		root
+14		समाप्त		JJ		n		m		sg		3		d		13		punct
+1		करने		VM		v		m		pl		any				2		compound
+2		पर		PSP		psp										9		nsubj
+3		है		VM		v		any		sg		2				9		obj
+4		.		SYM		punc										9		obl
+5		इस		DEM		pn		any		sg		3		o		4		case
+6		पर		PSP		psp										4		case
+7		पीडित		JJ		n		m		sg		3		d		8		amod
+8		ने		PSP		psp										9		obj
+9		तीन		QC		n		m		sg		3		d		0		root
+10		लोगो		NN		unk										9		aux
+11		के		PSP		psp		m		sg				o		10		aux:pass
+12		खिलाफ		PSP:?		psp										9		punct
+1		चोरी		NN		n		f		sg		3		d		13		nsubj
+2		की		PSP		psp		f		sg				d		1		case
+3		रिपोर्ट		NN		n		f		sg		3		d		4		det
+4		दर्ज		JJ		n		m		sg		3		d		13		obl
+5		करा		VM		v		any		any		any				4		case
+6		ई.		XC		unk										4		case
+7		बैंकिंग		XC		unk										4		case
+8		उद्योग		NN		n		m		sg		3		d		9		compound
+9		इसे		PRP		pn		any		sg		3		o		10		nmod
+10		अर्थव्यवस्था		NN		n		f		sg		3		d		13		iobj
+11		के		PSP		psp		m		sg				o		10		case
+12		लिए		PSP		v		m		pl		any				13		obj
+13		बड़ा		XC		punc										0		root
+14		खतरा		NN		n		m		sg		3		d		13		aux
+15		मान		VM		v		any		any		any				13		punct
+1		रहा		VAUX		v		m		sg		any				2		det
+2		है		VAUX		v		any		sg		2				12		nsubj
+3		.		SYM		punc										4		amod
+4		चालक		NN		n		m		sg		3		d		12		obl
+5		ने		PSP		psp										4		case
+6		इस		DEM		pn		any		sg		3		o		4		case
+7		घटना		NN		n		f		sg		3		d		12		obl
+8		के		PSP		psp		m		sg				o		7		case
+9		बारे		PSP		n		m		sg		3		d		11		nmod
+10		में		PSP		psp										9		case
+11		थाना		VM		n		m		sg		3		d		12		compound
+12		तिगांव		NN		unk										0		root
+13		पुलिस		NN		n		f		sg		3		d		12		aux
+14		को		PSP		psp										12		punct
+1		सूचना		NN		n		f		sg		3		d		11		obl
+2		दे		VM		v		any		any		any				1		case
+3		दी		VAUX		v		f		sg		any				5		dep
+4		.		SYM		punc										5		compound
+5		कई		QF		adj		any		any				d		7		nmod
+6		शाखाएं		NN		n		f		pl				d		7		nmod
+7		यूवी		JJ		unk										10		nmod
+8		स्कैनर		NN		unk										7		case
+9		के		PSP		psp		m		sg				o		7		dep
+10		बजाय		PSP:?		adv										11		compound
+11		लैंप		NN		n		f		sg		3		d		0		root
+12		से		PSP		v		any		any		any				11		aux
+13		चेक		NNP		n		m		sg		3		d		12		aux:pass
+14		की		PSP		psp		f		sg				d		11		punct
+1		पड़ताल		NN		unk										6		obl
+2		करती		VM		v		f		sg		any				1		case
+3		हैं		VAUX		v		any		pl		1				1		dep
+4		.		SYM		punc										5		det
+5		इमेज		NN		unk										6		nsubj
+6		से		PSP		v		any		any		any				0		root
+7		केवल		RP		adv										13		mark
+8		खाता		VM		v		m		sg		any				13		nsubj
+9		संख्या		NN		n		f		sg		3		d		10		compound
+10		रुपये		NN		n		m		pl		3		d		13		obj
+11		तारीख		NN		n		f		sg		3		d		10		case
+12		का		PSP		psp		m		sg				d		13		compound
+13		ही		RP		adv										5		acl
+14		मिलान		NN		n		m		sg		3		d		13		aux
+15		हो		VM		v		any		any		any				6		punct
+1		पाता		VAUX		v		m		sg		any				2		nmod
+2		है		VAUX		v		any		sg		2				9		obl
+3		.		SYM		punc										2		case
+4		स्कैनर		NN		unk										5		compound
+5		में		PSP		psp										9		obl
+6		ही		RP		adv										5		case
+7		यह		DEM		pn		any		sg		3		d		8		amod
+8		व्यवस्था		NN		n		f		sg		3		d		9		compound
+9		हो		VM		v		any		any		any				11		nmod
+10		कि		CC		avy										9		mark
+11		वह		PRP		pn		any		sg		3		d		0		root
+12		क्लोन		XC		unk										11		cop
+13		चेक		NNP		n		m		sg		3		d		11		punct
+1		को		PSP		psp										2		dep
+2		रिजेक्ट		NN		unk										3		nummod
+3		कर		VM		v		any		any		any				13		obl
+4		दे		VAUX		v		any		any		any				3		case
+5		.		SYM		punc										3		case
+6		सीटीएस		NN		unk										9		obl
+7		प्रणाली		NN		n		f		sg		3		d		6		case
+8		में		PSP		psp										9		obj
+9		चेक		VM		n		m		sg		3		d		11		nmod
+10		सुरक्षा		NN		n		f		sg		3		d		9		mark
+11		पर		PSP		psp										13		nsubj
+12		विशेष		JJ		n		m		sg		3		d		13		compound
+13		ध्यान		NN		n		m		sg		3		d		0		root
+14		देने		VM		v		m		pl		any				13		punct
+1		की		PSP		psp		f		sg				d		5		obl
+2		जरूरत		NN		adv										1		case
+3		है		VM		v		any		sg		2				5		obj
+4		.		SYM		punc										5		compound
+5		करीब		XC		punc										7		obj
+6		डेढ़		NNP		punc										5		mark
+7		माह		NN		unk										12		obl
+8		के		PSP		psp		m		sg				o		7		mark
+9		भीतर		NST		psp										12		nsubj
+10		गोशाला		NN		n		f		sg		3		d		12		compound
+11		में		PSP		psp										10		dep
+12		मिट्टी		NN		n		f		sg		3		d		0		root
+13		भरने		VM		v		m		pl		any				12		aux
+14		का		PSP		psp		m		sg				d		12		punct
+1		कार्य		NN		n		m		sg		3		d		2		dep
+2		पूरा		JJ		n		m		sg		3		d		3		dep
+3		होगा		VM		v		m		sg		2				5		nsubj
+4		.		SYM		punc										5		advmod
+5		आरोपियों		NN		unk										0		root
+1		से		PSP		v		any		any		any				4		iobj
+2		रुपये		NN		n		m		pl		3		d		1		case
+3		वापस		JJ		adj		any		any				any		4		nsubj
+4		करने		VM		v		m		pl		any				0		root
+5		को		PSP		psp										4		punct
+1		कहने		VM		v		m		pl		any				2		det
+2		पर		PSP		psp										4		nsubj
+3		उन्होंने		PRP		unk										4		xcomp
+4		धमकी		NN		n		f		sg		3		d		0		root
+5		भी		RP		adv										4		aux
+6		दे		VM		v		any		any		any				4		punct
+1		डाली		VAUX		v		f		sg		any				6		nmod
+2		.		SYM		punc										3		nummod

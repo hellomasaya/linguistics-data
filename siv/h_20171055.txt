@@ -1,0 +1,1610 @@
+<s>
+इसे	इसे	PRP		pn	any	sg	3	o
+'	'	SYM		punc				
+No	No	NN		unk				
+'	'	SYM		punc				
+कर	कर	VAUX	0	v	any	any	any	
+दें	दे	VAUX	एं	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+दस	दस	QC	0	n	m	sg	3	d
+बजे	बज	RP:?	एं	v	any	sg	2	
+रात	रात	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+घर	घर	NN	0	n	m	sg	3	d
+आया	आ	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+यहां	यहाँ	PRP		adv				
+स्टोरेज	स्टोरेज	NN		unk				
+पर	पर	PSP		psp				
+टैप	टैप	NN		unk				
+करें	कर	VM	एं	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+मैं	मैं	PRP	0	pn	any	sg	1	d
+रात-भर	रात-भर	NN		unk				
+उससे	उससे	PRP		unk				
+बोली	बोल	VM	या	v	f	sg	any	
+,	,	SYM		punc				
+ही	ही	RP		adv				
+नहीं	नहीं	NEG		adv				
+.	.	SYM		punc				
+</s>
+<s>
+इससे	इससे	PRP		pn	any	sg	3	o
+आपके	आप	PRP	का	pn	m	pl	any	d
+फोन	फोन	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+स्पेस	स्पेस	NN		unk				
+भी	भी	RP		adv				
+बढ़ेगा	बढ़ेगा	VM		v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+तू	तू	PRP	0	pn	any	sg	2	d
+अपना	अपना	PRP	0	n	m	sg	3	d
+रोटी-कपड़ा	रोटी-कपड़ा	XC		v	m	sg	any	
+मुझसे	मुझसे	PRP		unk				
+लिया	ले	VM	या	v	m	sg	any	
+कर	कर	VAUX	0	v	any	any	any	
+.	.	SYM		punc				
+</s>
+<s>
+उससे	उससे	PRP		unk				
+तो	तो	RP		avy				
+ऊख	ऊख	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+छांह	छाँह	NN	0	n	f	sg		d
+ही	ही	RP		adv				
+कहीं	कहीं	PRP		adv				
+अच्छी	अच्छी	JJ		adj	f	any		any
+.	.	SYM		punc				
+</s>
+<s>
+कल	कल	NN		adv				
+न	न	NEG		adv				
+जाने	जान	VM	एं	v	any	sg	2	
+कहां	कहाँ	WQ		adv				
+बैठा	बैठा	VM	0	v	any	any	any	
+गाता-बजाता	गाता-बजाता	VAUX		unk				
+रहा	रह	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+ऐक्ट्रेस	ऐक्ट्रेस	NN		unk				
+काफी	काफी	INTF	0	n	f	sg	3	d
+भावुक	भावुक	JJ	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गईं	गईं	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+मुझसे	मुझसे	PRP		unk				
+उसकी	उसकी	PRP		unk				
+रोनी	रो	JJ	ना	v	f	sg	any	
+सूरत	सूरत	NN	0	n	f	sg	3	d
+नहीं	नहीं	NEG		adv				
+देखी	देख	VM	या	v	f	sg	any	
+जाती	जा	VAUX	ता	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+भारत	भारत	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+48	48	QC		num				
+वें	वें	PRP		unk				
+मिनट	मिनट	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+एक	एक	QC		adj	any	any		any
+और	और	CC		adv				
+गोल	गोल	JJ		adj	any	any		any
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+सोशल	सोशल	XC	0	n	m	sg	3	d
+मीडिया	मीडिया	NNP	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+भी	भी	RP		adv				
+माहिका	माहिका	NN		unk				
+ऐक्टिव	ऐक्टिव	NN		unk				
+रहती	रह	VM	ता	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+फिल्म	फिल्म	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+उनकी	उनकी	PRP		unk				
+ऐक्टिंग	ऐक्टिंग	NN		unk				
+को	को	PSP		psp				
+खूब	खूब	JJ		adj	any	any		any
+सराहा	सराह	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+उसका	उसका	PRP	0	v	any	any	any	
+सूखा	सूखा	NN	0	n	m	sg	3	d
+हुआ	हो	VM	या	v	m	sg	any	
+सांवला	साँवला	JJ	0	n	m	sg		d
+चेहरा	चेहरा	NN	0	n	m	sg	3	d
+उत्तेजित	उत्तेजित	JJ	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+उठा	उठा	VAUX	0	v	any	any	any	
+.	.	SYM		punc				
+</s>
+<s>
+पल्लेदारी	पल्लेदारी	NN		unk				
+में	में	PSP		psp				
+उसे	उसे	PRP		unk				
+बहुत	बहुत	QF		adj	any	any		any
+कसाला	कसाला	NN		unk				
+करना	कर	VM	ना	v	m	sg	any	
+पड़ता	पड़ता	XC		adv				
+है	ही	NNP		adv				
+.	.	SYM		punc				
+</s>
+<s>
+यहां	यहाँ	PRP		adv				
+आपको	आप	PRP	को	pn	any	any	any	o
+मीडिया	मीडिया	XC	0	n	m	sg	3	d
+विजिबिलिटी	विजिबिलिटी	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+ऑप्शन	ऑप्शन	NN		unk				
+मिलेगा	मिल	VM	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+उन्होंने	उन्होंने	PRP		unk				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+उसके	उसके	PRP		unk				
+पास	पास	NST		adv				
+उनके	उनके	PRP		unk				
+घर	घर	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+चाभी	चाभी	NN	0	n	f	sg	3	d
+थी	था	VM	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+माहिका	माहिका	XC		unk				
+शर्मा	शर्मा	NNP		unk				
+मिस	मिस	XC	0	n	m	sg	3	d
+टीन	टीन	XC	0	n	f	sg	3	d
+नॉर्थ	नॉर्थ	XC		unk				
+ईस्ट	ईस्ट	XC		unk				
+टाइटल	टाइटल	NN		unk				
+फेमस	फेमस	NN		unk				
+हुई	हो	VM	या	v	f	sg	any	
+थीं	था	VAUX	था	v	f	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+तीसरे	तीसरा	QO	0	n	m	pl	3	d
+क्वार्टर	क्वार्टर	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+भारत	भारत	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+गेंद	गेंद	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+नियंत्रण	नियंत्रण	NN	0	n	m	sg	3	d
+बनाए	बना	VM	एं	v	any	sg	2	
+रखा	रखा	VAUX	0	v	any	any	any	
+.	.	SYM		punc				
+</s>
+<s>
+आमतौर	आमतौर	NN		unk				
+पर	पर	PSP		psp				
+यूजर	यूजर	NN		unk				
+ऐसे	ऐसे	DEM		adv				
+फोटो	फोटो	NN	0	n	m	sg	3	d
+और	और	CC		adv				
+विडियो	विडियो	NN		unk				
+को	को	PSP		psp				
+डिलीट	डिलीट	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+देते	दे	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+आप	आप	PRP	0	pn	any	any	any	o
+चाहे	चाहे	CC:?		adv				
+फटे	फटा	JJ		adj	m	sg		o
+पहनूं	पहन	VM	एं	v	any	sg	1	
+,	,	SYM		punc				
+पर	पर	PSP		psp				
+उसे	उसे	PRP		unk				
+फटे-पुराने	फटे-पुराने	VM		v	m	pl	any	
+नहीं	नहीं	NEG		adv				
+पहनने	पहन	VM	ना	v	m	pl	any	
+देती	दे	VAUX	ता	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+यह	यह	PRP	0	pn	any	sg	3	d
+भारतीय	भारतीय	JJ	0	n	m	sg	3	d
+गोलकीपर	गोलकीपर	JJ		unk				
+सविता	सविता	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+200	200	QC		num				
+वां	वां	NN		unk				
+अंतरराष्ट्रीय	अंतरराष्ट्रीय	JJ		adj	any	any		any
+मैच	मैच	NN	0	n	m	sg	3	d
+था	था	VM	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इसी	इसी	PRP		pn	any	sg	3	o
+से	से	PSP	0	v	any	any	any	
+वह	वह	PRP	0	pn	any	sg	3	d
+कभी-कभी	कभी-कभी	NN		unk				
+बहक	बहक	VM	0	v	any	any	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+पर	पर	PSP		psp				
+अब	अब	PRP		adv				
+मैं	मैं	PRP	0	pn	any	sg	1	d
+पक्की	पक्की	NN		unk				
+हो	हो	VM	0	v	any	any	any	
+गई	गई	VAUX		unk				
+हूं	है	VAUX	है	v	any	sg	1	
+.	.	SYM		punc				
+</s>
+<s>
+वहां	वहाँ	PRP		adv				
+तो	तो	RP		avy				
+हमला	हमला	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+वाले	वाला	PSP	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+सामने	सामना	NST	0	n	m	pl	3	d
+मस्तक	मस्तक	NN	0	n	m	sg	3	d
+झुकाने	झुका	VM	ना	v	m	pl	any	
+में	में	PSP		psp				
+ही	ही	RP		adv				
+कुशल	कुशल	JJ		adj	any	any		any
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+नहीं	नहीं	NEG		adv				
+,	,	SYM		punc				
+सभी	सभी	XC		punc				
+बड़े	बड़े	NNP		punc				
+चाव	चाव	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+उससे	उससे	PRP		unk				
+मिलतीं	मिल	VM	ता	v	f	pl	any	
+और	और	CC		adv				
+उसका	उसका	PRP	0	v	any	any	any	
+आदर-सत्कार	आदर-सत्कार	NN		unk				
+करतीं	कर	VM	ता	v	f	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+दूसरे	दूसरा	JJ	0	n	m	pl	3	d
+क्वॉर्टर	क्वॉर्टर	NN		unk				
+में	में	PSP		psp				
+दोनों	दोना	JJ	0	n	m	pl	3	o
+टीमों	टीम	NN	0	n	f	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+बीच	बीच	NST		psp				
+मुकाबला	मुकाबला	JJ	0	n	m	sg	3	d
+बराबरी	बराबरी	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+रहा	रह	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+लिए	ले	PSP	या	v	m	pl	any	
+आपको	आप	PRP	को	pn	any	any	any	o
+चैट	चैट	NN		unk				
+में	में	PSP		psp				
+जाकर	जा	VM	कर	v	any	any	any	
+ग्रुप	ग्रुप	NN	0	n	m	sg	3	d
+या	या	CC		avy				
+कॉन्टैक्ट	कॉन्टैक्ट	NN		unk				
+पर	पर	PSP		psp				
+टैप	टैप	NN		unk				
+करना	कर	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+भारत	भारत	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+पांच	पांच	QC		unk				
+मैचों	मैच	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+से	से	PSP	0	v	any	any	any	
+एक	एक	QC		adj	any	any		any
+जीता	जीता	XC		adj	m	sg		d
+,	,	SYM		punc				
+एक	एक	QC		adj	any	any		any
+हारा	हार	VM	या	v	m	sg	any	
+और	और	CC		adv				
+तीन	तीन	QC	0	n	m	sg	3	d
+ड्रॉ	ड्रॉ	NN		unk				
+खेले	खेल	VM	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+फिर	फिर	RB	0	v	any	any	any	
+किसी	किसी	PRP		unk				
+दिन	दिन	NN	0	n	m	sg	3	d
+झगड़ा	झगड़ा	VM		adj	any	any		any
+किया	कर	VAUX	या	v	m	sg	any	
+,	,	SYM		punc				
+तो	तो	RP		avy				
+या	या	CC		avy				
+वही	वही	PRP	0	n	f	sg	3	d
+रहेगा	रह	VM	गा	v	m	sg	2	
+,	,	SYM		punc				
+या	या	CC		avy				
+मैं	मैं	PRP	0	pn	any	sg	1	d
+ही	ही	RP		adv				
+रहूंगी	रहूंगी	VM		unk				
+.	.	SYM		punc				
+</s>
+<s>
+मुनिया	मुनिया	NN		unk				
+तीन	तीन	QC	0	n	m	sg	3	d
+ही	ही	RP		adv				
+दिन	दिन	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+यहां	यहाँ	PRP		adv				
+लड़कों	लड़कों	NN		unk				
+को	को	PSP		psp				
+खेलाने	खेलाने	VM		unk				
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+नौकर	नौकर	NN	0	n	m	sg	3	d
+हुई	हो	VM	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+यहां	यहाँ	PRP		adv				
+हम	हम	PRP		unk				
+आपको	आप	PRP	को	pn	any	any	any	o
+कुछ	कुछ	QF		adj	any	any		d
+ऐसी	ऐसी	PRP		adj	f	any		any
+की	कर	VM	या	v	f	sg	any	
+वॉट्सऐप	वॉट्सऐप	DEM		unk				
+ट्रिक्स	ट्रिक्स	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+बारे	बारे	PSP	0	n	m	sg	3	d
+में	में	PSP		psp				
+बता	बता	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+मैं	मैं	PRP	0	pn	any	sg	1	d
+आप	आप	PRP	0	pn	any	any	any	o
+नहीं	नहीं	NEG		adv				
+खाती	खा	VM	ता	v	f	sg	any	
+,	,	SYM		punc				
+उसे	उसे	PRP		unk				
+खिला	खिला	VM	0	v	any	any	any	
+देती	दे	VAUX	ता	v	f	sg	any	
+हूं	है	VAUX	है	v	any	sg	1	
+,	,	SYM		punc				
+क्योंकि	क्योंकि	CC		adv				
+वह	वह	PRP	0	pn	any	sg	3	d
+मर्द-बच्चा	मर्द-बच्चा	JJ		unk				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+ऐक्टर	ऐक्टर	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+मॉडल	मॉडल	XC		unk				
+माहिका	माहिका	XC		unk				
+शर्मा	शर्मा	NNP		unk				
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+बोल्ड	बोल्ड	NN		unk				
+अदाओं	अदा	NN	0	n	f	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+जानी	जान	VM	या	v	f	sg	any	
+जाती	जा	VAUX	ता	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+जब	जब	PRP		adv				
+मैं	मैं	PRP	0	pn	any	sg	1	d
+उसके	उसके	PRP		unk				
+लिए	ले	PSP	या	v	m	pl	any	
+इतना	इतना	QF		adj	m	sg		d
+करती	कर	VM	ता	v	f	sg	any	
+हूं	है	VAUX	है	v	any	sg	1	
+,	,	SYM		punc				
+तो	तो	CC		avy				
+मजाल	मजाल	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+,	,	SYM		punc				
+कि	कि	CC		avy				
+वह	वह	PRP	0	pn	any	sg	3	d
+मुझे	मुझे	PRP		unk				
+आंख	आंख	NN		unk				
+दिखाये	दिखा	VM	एं	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+लगा	लगा	VM	0	v	any	any	any	
+पैरों	पैरा	NN	0	n	m	pl	3	o
+पड़ने	पड़ने	NNP		punc				
+,	,	SYM		punc				
+घिघियाने	घिघिया	VM	ना	v	m	pl	any	
+,	,	SYM		punc				
+तब	तब	PRP		adv				
+मुझे	मुझे	PRP		unk				
+दया	दया	NN	0	n	f	sg	3	d
+आ	आ	VM		v	any	any	any	
+गयी	गयी	VAUX		unk				
+.	.	SYM		punc				
+</s>
+<s>
+ऐसा	ऐसा	PRP		adj	m	sg		d
+करते	कर	VM	ता	v	m	pl	any	
+ही	ही	RP		adv				
+ज्यादा	ज्यादा	QF		adj	m	sg		d
+से	से	PSP	0	v	any	any	any	
+कम	कम	QF		adj	any	any		any
+साइज	साइज	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+मीडिया	मीडिया	XC	0	n	m	sg	3	d
+चैट्स	चैट्स	NNP		unk				
+की	का	PSP	का	psp	f	sg		d
+एक	एक	QC		adj	any	any		any
+लिस्ट	लिस्ट	NN	0	n	f	sg	3	d
+तैयार	तैयार	JJ		adj	any	any		any
+हो	हो	VM	0	v	any	any	any	
+जाएगी	जा	VAUX	गा	v	f	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+आप	आप	PRP	0	pn	any	any	any	o
+यहां	यहाँ	PRP		adv				
+चुन	चुन	VM	0	v	any	any	any	
+सकते	सक	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+कि	कि	CC		avy				
+आपको	आप	PRP	को	pn	any	any	any	o
+कौन	कौन	WQ		avy				
+सी	सी	RP	0	v	any	any	any	
+चैट	चैट	NN		unk				
+को	को	PSP		psp				
+रखना	रख	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+और	और	CC		adv				
+किसे	किसे	PRP		unk				
+डिलीट	डिलीट	NN		unk				
+करना	कर	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अपने	अपना	PRP	0	n	m	pl	3	d
+घर	घर	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+आदमी	आदमी	NN	0	n	m	sg	3	d
+इसलिए	इसलिये	CC		avy				
+तो	तो	RP		avy				
+छाता-छोपता	छाता-छोपता	VM		v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+कि	कि	CC		avy				
+उससे	उससे	PRP		unk				
+बर्खा-बूंदी	बर्खा-बूंदी	NN		unk				
+में	में	PSP		psp				
+बचाव	बचाव	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+.	.	SYM		punc				
+</s>
+<s>
+अगर	अगर	CC		adv				
+यह	यह	PRP	0	pn	any	sg	3	d
+डर	डर	NN	0	n	m	sg	3	d
+लगा	लगा	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+,	,	SYM		punc				
+कि	कि	CC		avy				
+घर	घर	NN	0	n	m	sg	3	d
+न	न	NEG		adv				
+जाने	जान	VM	एं	v	any	sg	2	
+कब	कब	WQ		adv				
+गिर	गिर	VM	0	v	any	any	any	
+पड़ेगा	पूरा	XC	0	n	m	sg	3	d
+,	,	SYM		punc				
+तो	तो	CC		avy				
+ऐसे	ऐसे	DEM		adv				
+घर	घर	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+कौन	कौन	WQ		avy				
+रहेगा	रह	VM	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+साल	साल	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+शुरुआत	शुरुआत	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+LG	LG	NN		unk				
+ने	ने	PSP		psp				
+भी	भी	RP		adv				
+अपने	अपना	PRP	0	n	m	pl	3	d
+फोल्डेबल	फोल्डेबल	JJ		unk				
+फोन	फोन	NN	0	n	m	sg	3	d
+LG	LG	NN		unk				
+G	G	NN		unk				
+8	8	QC		num				
+X	X	NN		unk				
+ThinQ	ThinQ	NN		unk				
+को	को	PSP		psp				
+पेश	पेश	JJ	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+फ्रेंड्स	फ्रेंड्स	NN		unk				
+और	और	CC		adv				
+फैमिली	फैमिली	NN		unk				
+से	से	PSP	0	v	any	any	any	
+कनेक्ट	कनेक्ट	NN		unk				
+रहने	रह	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+यूजर्स	यूजर्स	NN		unk				
+इसका	इसका	PRP		pn	m	sg	3	d
+खूब	खूब	JJ		adj	any	any		any
+इस्तेमाल	इस्तेमाल	NN	0	n	m	sg	3	d
+करते	कर	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+यह	यह	PRP	0	pn	any	sg	3	d
+देखकर	देख	VM	कर	v	any	any	any	
+कहा	कह	VM	या	v	m	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+सकता	सक	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+आने	आ	VM	ना	v	m	pl	any	
+वाला	वाला	PSP	0	n	m	sg	3	d
+समय	समय	NN	0	n	m	sg	3	d
+फोल्डेबल	फोल्डेबल	JJ		unk				
+स्मार्टफोन	स्मार्टफोन	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+रहना	रह	VM	ना	v	m	sg	any	
+वाला	वाला	VAUX	0	n	m	sg	3	d
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+हाफटाइम	हाफटाइम	NN		unk				
+में	में	PSP		psp				
+हीश	हीश	JJ		unk				
+की	का	PSP	का	psp	f	sg		d
+जगह	जगह	NN		adv				
+आई	आ	VM	या	v	f	sg	any	
+एमी	एमी	XC		unk				
+टिनेंट	टिनेंट	NNP		unk				
+ने	ने	PSP		psp				
+40	40	QC		num				
+वें	वें	PRP		unk				
+मिनट	मिनट	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+गुरजीत	गुरजीत	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+गोल	गोल	NN	0	n	m	sg	3	d
+बचाया	बचा	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+जहां	जहाँ	PRP		adv				
+किसी	किसी	PRP		unk				
+महिला	महिला	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+दून	दून	NN	0	n	m	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+ली	ले	VAUX	या	v	f	sg	any	
+,	,	SYM		punc				
+या	या	CC		avy				
+शान	शान	NN	0	n	m	sg	3	d
+दिखायी	दिखा	VM	या	v	f	sg	any	
+,	,	SYM		punc				
+वहां	वहाँ	PRP		adv				
+जुगनू	जुगनू	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+त्योरियां	त्योरियां	NN		unk				
+बदलीं	बदल	VM	या	v	f	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+ऐसा	ऐसा	PRP		adj	m	sg		d
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+आगे	आगा	NST	0	n	m	pl	3	d
+आने	आ	VM	ना	v	m	pl	any	
+वाले	वाला	PSP	0	n	m	pl	3	d
+कोई	कोई	PRP	0	pn	any	sg	3	d
+भी	भी	RP		adv				
+मीडिया	मीडिया	XC	0	n	m	sg	3	d
+फाइल	फाइल	NN	0	n	m	sg	3	d
+फोन	फोन	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+गैलरी	गैलरी	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+नहीं	नहीं	NEG		adv				
+दिखेंगे	दिख	VM	गा	v	m	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+लिए	ले	PSP	या	v	m	pl	any	
+आपको	आप	PRP	को	pn	any	any	any	o
+वॉट्सऐप	वॉट्सऐप	DEM		unk				
+सेटिंग	सेटिंग	NN		unk				
+में	में	PSP		psp				
+जाकर	जा	VM	कर	v	any	any	any	
+डेटा	डेटा	XC		unk				
+ऐंड	ऐंड	XC		unk				
+स्टोरेज	स्टोरेज	XC		unk				
+यूसेज	यूसेज	XC		unk				
+ऑप्शन	ऑप्शन	NN		unk				
+में	में	PSP		psp				
+जाना	जान	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+साथ	साथ	NST		adv				
+ही	ही	RP		adv				
+नीचे	नीचा	NST	0	n	m	pl	3	d
+दिए	दे	VM	या	v	m	pl	any	
+गए	गए	VAUX		unk				
+फ्री	फ्री	XC		adj	f	any		any
+अप	अप	NN	0	n	m	sg	3	d
+स्पेस	स्पेस	XC		unk				
+ऑप्शन	ऑप्शन	NN		unk				
+में	में	PSP		psp				
+जाकर	जा	VM	कर	v	any	any	any	
+स्टोरेज	स्टोरेज	XC		unk				
+क्लियर	क्लियर	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+सकते	सक	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+यहां	यहाँ	PRP		adv				
+आप	आप	PRP	0	pn	any	any	any	o
+किसी	किसी	PRP		unk				
+एक	एक	QC		adj	any	any		any
+ग्रुप	ग्रुप	NN	0	n	m	sg	3	d
+या	या	CC		avy				
+कॉन्टैक्ट	कॉन्टैक्ट	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+द्वारा	द्वारा	PSP		psp				
+ली	ले	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+स्टोरेज	स्टोरेज	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+पा	पा	VM	0	v	any	any	any	
+सकते	सक	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+शहर	शहर	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+ऐसी	ऐसी	DEM		adj	f	any		any
+कोई	कोई	PRP	0	pn	any	sg	3	d
+महिला	महिला	NN	0	n	f	sg	3	d
+न	न	NEG		adv				
+थी	था	VM	था	v	f	sg	any	
+,	,	SYM		punc				
+जिसके	जो	PRP	का	pn	m	pl	3	d
+विषय	विषय	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+दो-चार	दो-चार	NN		unk				
+लुकी-छिपी	लुकी-छिपी	JJ		unk				
+बातें	बात	NN	0	n	f	pl	3	d
+उसे	उसे	PRP		unk				
+न	न	NEG		adv				
+मालूम	मालूम	JJ		adj	any	any		any
+हों	ह	VM	0	n	m	pl	3	o
+.	.	SYM		punc				
+</s>
+<s>
+ब्रिटेन	ब्रिटेन	NNP		unk				
+को	को	PSP		psp				
+तीन	तीन	QC	0	n	m	sg	3	d
+पेनल्टी	पेनल्टी	JJ		unk				
+कॉर्नर	कॉर्नर	NN		unk				
+मिले	मिल	VM	एं	v	any	sg	2	
+लेकिन	लेकिन	CC		avy				
+भारतीय	भारतीय	JJ	0	n	m	sg	3	d
+गोलकीपर	गोलकीपर	XC		unk				
+सविता	सविता	NN		unk				
+ने	ने	PSP		psp				
+तीनों	तीन	QC	0	n	m	pl	3	o
+को	को	PSP		psp				
+बचा	बचा	VM	0	v	any	any	any	
+लिया	ले	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+हालांकि	हालांकि	CC		unk				
+,	,	SYM		punc				
+एलजी	एलजी	XC		unk				
+अब	अब	PRP		adv				
+फोल्डेबल	फोल्डेबल	JJ		unk				
+फोन	फोन	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+सेगमेंट	सेगमेंट	NN		unk				
+में	में	PSP		psp				
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+पकड़	पकड़	NN		punc				
+को	को	PSP		psp				
+मजबूत	मजबूत	JJ		adj	any	any		any
+करने	कर	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+सोच	सोच	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+वॉट्सऐप	वॉट्सऐप	NN		unk				
+भी	भी	RP		adv				
+यूजर्स	यूजर्स	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+इन-ऐप	इन-ऐप	DEM		unk				
+एक्सपीरियंस	एक्सपीरियंस	NN		unk				
+तो	तो	RP		avy				
+बेहतर	बेहतर	JJ		adj	any	any		any
+बनाने	बना	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+नए-नए	नए-नए	JJ		unk				
+अपडेट	अपडेट	NN		unk				
+लाता	ला	VM	ता	v	m	sg	any	
+रहता	रह	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+खुशी	खुशी	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+जहिर	जहिर	NN		unk				
+करते	कर	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+रानी	रानी	XC	0	n	f	sg	3	d
+चटर्जी	चटर्जी	NNP		unk				
+ने	ने	PSP		psp				
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+कई	कई	QF		adj	any	any		d
+तस्वीरें	तस्वीर	NN	0	n	f	pl	3	d
+इंस्टाग्राम	इंस्टाग्राम	NN		unk				
+पर	पर	PSP		psp				
+शेयर	शेयर	NN	0	n	m	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+साथ	साथ	NST		adv				
+ही	ही	RP		adv				
+भारतीय	भारतीय	JJ	0	n	m	sg	3	d
+टीम	टीम	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+दौरे	दौरा	NN	0	n	m	pl	3	d
+का	का	PSP	का	psp	m	sg		d
+अंत	अंत	NN	0	n	m	sg	3	d
+ब्रिटेन	ब्रिटेन	NNP		unk				
+जैसी	जैसी	PSP		adj	f	any		any
+मजबूत	मजबूत	JJ		adj	any	any		any
+टीम	टीम	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+खिलाफ	खिलाफ	PSP:?		psp				
+ड्रॉ	ड्रॉ	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+किया	कर	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+उसका	उसका	PRP	0	v	any	any	any	
+आतंक	आतंक	NN	0	n	m	sg	3	d
+था	था	VM	था	v	m	sg	any	
+,	,	SYM		punc				
+कि	कि	CC		avy				
+ज्यों	ज्यों	NN		adv				
+ही	ही	RP		adv				
+वह	वह	PRP	0	pn	any	sg	3	d
+कमरे	कमरा	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+कदम	कदम	NN	0	n	m	sg	3	d
+रखती	रख	VM	ता	v	f	sg	any	
+,	,	SYM		punc				
+ओठों	ओठों	NN		unk				
+पर	पर	PSP		psp				
+खेलती	खेल	VM	ता	v	f	sg	any	
+हुई	हो	VAUX	या	v	f	sg	any	
+हंसी	हँसी	NN	0	n	f	sg		d
+जैसे	जैसे	CC		adv				
+रो	रो	XC	0	v	any	any	any	
+पड़ती	पड़ती	NNP		adv				
+थी	था	VM	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+जुगनू	जुगनू	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+दिल	दिल	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+हजारों	हजारा	QC	0	n	m	pl	3	o
+मुरदे	मुरदा	NN	0	n	m	pl	3	d
+गड़े	गड़े	JJ		adj	m	sg		o
+पड़े	पड़े	JJ		adj	m	sg		o
+थे	था	VM	था	v	m	pl	any	
+और	और	CC		adv				
+वह	वह	PRP	0	pn	any	sg	3	d
+जरूरत	जरूरत	NN		adv				
+पड़ने	पड़ने	NNP		punc				
+पर	पर	PSP		psp				
+उन्हें	उन्हें	PRP		unk				
+उखाड़	उखाड़	NNP		n	f	sg	3	d
+दिया	दे	VM	या	v	m	sg	any	
+करती	कर	VAUX	ता	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+धनियों	धनियों	NN		unk				
+को	को	PSP		psp				
+चोरों	चोर	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+भय	भय	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+निद्रा	निद्रा	NN	0	n	f	sg	3	d
+नहीं	नहीं	NEG		adv				
+आती	आ	VM	ता	v	f	sg	any	
+,	,	SYM		punc				
+मानियों	मानियों	NN		unk				
+को	को	PSP		psp				
+उसी	उसी	DEM		unk				
+भांति	भांति	NN		unk				
+मान	मान	VM	0	v	any	any	any	
+की	का	PSP	का	psp	f	sg		d
+रक्षा	रक्षा	NN	0	n	f	sg	3	d
+करनी	कर	VM	ना	v	f	sg	any	
+पड़ती	पड़ती	NNP		adv				
+है	है	VM	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+जिस	जो	PRP	0	pn	any	sg	3	o
+तेजी	तेजी	RB	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+दुनियाभर	दुनियाभर	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+स्मार्टफोन	स्मार्टफोन	NN		unk				
+कंपनियां	कंपनियां	NN		unk				
+अपना	अपना	PRP	0	n	m	sg	3	d
+स्मार्टफोन	स्मार्टफोन	NN		unk				
+लॉन्च	लॉन्च	VM		unk				
+करने	कर	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+कोशिश	कोशिश	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+लगी	लग	VAUX	या	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+उसका	उसका	PRP	0	v	any	any	any	
+काम	काम	NN	0	n	m	sg	3	d
+था	था	VM	था	v	m	sg	any	
+,	,	SYM		punc				
+महिला-आश्रम	महिला-आश्रम	NN		unk				
+में	में	PSP		psp				
+महिलाओं	महिला	NN	0	n	f	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+सेवा-टहल	सेवा-टहल	XC		unk				
+करना	कर	VM	ना	v	m	sg	any	
+,	,	SYM		punc				
+पर	पर	PSP		psp				
+महिलाएं	महिला	NN	0	n	f	pl		d
+उसकी	उसकी	PRP		unk				
+सूरत	सूरत	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+कांपती	कांपती	VM		unk				
+थीं	था	VAUX	था	v	f	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+Whatsapp	Whatsapp	NN		unk				
+इस	इस	DEM		pn	any	sg	3	o
+वक्त	वक्त	NN	0	n	m	sg	3	d
+दुनियाभर	दुनियाभर	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+करोड़ों	करोड़ों	NN		psp				
+यूजर्स	यूजर्स	NNP		unk				
+का	का	PSP	का	psp	m	sg		d
+सबसे	सबसे	INTF		adj	any	any		any
+पसंदीदा	पसंदीदा	JJ		adj	m	sg		d
+इंस्टैंट	इंस्टैंट	XC		unk				
+मेसेजिंग	मेसेजिंग	NNP		unk				
+ऐप	ऐप	NN		unk				
+बना	बना	VM	0	v	any	any	any	
+हुआ	हो	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+65	65	QC		num				
+वर्षीय	वर्षीय	JJ	0	n	m	sg	3	d
+ऐक्ट्रेस	ऐक्ट्रेस	XC		unk				
+डेमी	डेमी	XC		unk				
+एक	एक	QC		adj	any	any		any
+टीवी	टीवी	NN		unk				
+शो	शो	PSP	0	n	m	sg	3	d
+में	में	PSP		psp				
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+जीवनी	जीवनी	NN	0	n	f	sg	3	d
+'	'	SYM		punc				
+Inside	Inside	XC		unk				
+Out	Out	NNP		unk				
+'	'	SYM		punc				
+के	का	PSP	का	psp	m	sg		o
+प्रमोशन	प्रमोशन	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+पहुंची	पहुंची	VM		unk				
+थीं	था	VAUX	था	v	f	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+'	'	SYM		punc				
+तस्वीरों	तस्वीर	NN	0	n	f	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+रानी	रानी	NN	0	n	f	sg	3	d
+चटर्जी	चटर्जी	NNP		unk				
+ने	ने	PSP		psp				
+अवॉर्ड	अवॉर्ड	NN		unk				
+लेते	ले	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+अपना	अपना	PRP	0	n	m	sg	3	d
+एक	एक	QC		adj	any	any		any
+विडियो	विडियो	NN		unk				
+भी	भी	RP		adv				
+इंस्टाग्राम	इंस्टाग्राम	NN		unk				
+पर	पर	PSP		psp				
+शेयर	शेयर	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+शुरुआती	शुरुआती	JJ		unk				
+हमलों	हमला	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+फायदा	फायदा	NN	0	n	m	sg	3	d
+आठवें	आठवें	QO		unk				
+मिनट	मिनट	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+पेनल्टी	पेनल्टी	JJ		unk				
+कॉर्नर	कॉर्नर	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+रूप	रूप	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+मिला	मिला	VM	0	v	any	any	any	
+जिसे	जो	PRP	को	pn	any	sg	3	o
+नवजोत	नवजोत	NN		unk				
+ने	ने	PSP		psp				
+गोल	गोल	JJ		adj	any	any		any
+में	में	PSP		psp				
+बदला	बदल	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+ब्रिटेन	ब्रिटेन	NNP		unk				
+ने	ने	PSP		psp				
+हालांकि	हालांकि	CC		unk				
+आखिरी	आखिरी	JJ		adj	f	any		any
+पांच	पांच	XC		unk				
+मिनट	मिनट	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+दो	दो	QC	0	n	m	sg	3	d
+गोल	गोल	JJ		adj	any	any		any
+करके	कर	VM	कर	v	any	any	any	
+भारतीय	भारतीय	JJ	0	n	m	sg	3	d
+टीम	टीम	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+जीत	जीत	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+मंसूबों	मंसूबा	NN	0	n	m	pl	3	o
+पर	पर	PSP		psp				
+पानी	पानी	NN	0	n	m	sg	3	d
+फेर	फेर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+पहले	पहले	NST		adv				
+दो-चार	दो-चार	NN		unk				
+घरों	घर	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+चौका-बरतन	चौका-बरतन	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+चुकी	चुक	VAUX	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+,	,	SYM		punc				
+पर	पर	PSP		psp				
+रानियों	रानी	NN	0	n	f	pl	3	o
+से	से	PSP	0	v	any	any	any	
+अदब	अदब	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+बातें	बात	NN	0	n	f	pl	3	d
+करना	कर	VM	ना	v	m	sg	any	
+अभी	अभी	PRP		adv				
+न	न	NEG		adv				
+सीख	सीख	VM	0	v	any	any	any	
+पाई	पा	VAUX	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+उसकी	उसकी	PRP		unk				
+एक	एक	QC		adj	any	any		any
+कड़ी	कड़ी	XC		adj	f	any		any
+निगाह	निगाह	NN	0	n	f	sg	3	d
+अच्छे-	अच्छे-	JJ		unk				
+अच्छे	अच्छे	NN		adj	any	any		any
+को	को	PSP		psp				
+दहला	दहला	NN	0	n	m	sg	3	d
+देती	दे	VAUX	ता	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+,	,	SYM		punc				
+मगर	मगर	CC	0	n	m	sg	3	d
+यह	यह	PRP	0	pn	any	sg	3	d
+बात	बात	NN	0	n	f	sg	3	d
+न	न	NEG		adv				
+थी	था	VM	था	v	f	sg	any	
+कि	कि	CC		avy				
+स्त्रियां	स्त्रियां	NN		unk				
+उससे	उससे	PRP		unk				
+घृणा	घृणा	NN	0	n	f	sg	3	d
+करती	कर	VM	ता	v	f	sg	any	
+हों	ह	VAUX	0	n	m	pl	3	o
+.	.	SYM		punc				
+</s>
+<s>
+यही	यही	DEM		avy				
+कारण	कारण	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+हाल	हाल	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+कंपनी	कंपनी	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+एक	एक	QC		adj	any	any		any
+नए	नया	JJ		adj	m	sg		o
+किस्म	किस्म	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+फोल्डिंग	फोल्डिंग	XC		unk				
+स्मार्टफोन	स्मार्टफोन	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+कॉन्सेप्ट	कॉन्सेप्ट	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+पेटेंट	पेटेंट	NN	0	n	m	sg	3	d
+कराया	करा	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+चहकने	चहक	VM	ना	v	m	pl	any	
+वाली	वाली	PSP	0	n	f	sg	3	d
+आवाजें	आवाज	NN	0	n	f	pl	3	d
+जैसे	जैसे	RP		adv				
+बुझ	बुझ	VM	0	v	any	any	any	
+जाती	जा	VAUX	ता	v	f	sg	any	
+थीं	था	VAUX	था	v	f	pl	any	
+,	,	SYM		punc				
+मानो	मान	RP:?	एं	v	any	pl	2	
+उनके	उनके	PRP		unk				
+मुख	मुख	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+लोगों	लोग	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+अपने	अपना	PRP	0	n	m	pl	3	d
+पिछले	पिछला	JJ		adj	m	sg		o
+रहस्य	रहस्य	NN	0	n	m	sg	3	d
+अंकित	अंकित	JJ		adj	any	any		any
+नजर	नजर	NN	0	n	f	sg	3	d
+आते	आ	VM	ता	v	m	pl	any	
+हों	ह	VAUX	0	n	m	pl	3	o
+.	.	SYM		punc				
+</s>
+<s>
+जो	जो	PRP		avy				
+अपने	अपना	PRP	0	n	m	pl	3	d
+अतीत	अतीत	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+किसी	किसी	PRP		unk				
+भयंकर	भयंकर	JJ		adj	any	any		any
+जंतु	जंतु	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+समान	समान	PSP:?		psp				
+कटघरों	कटघरों	NN		unk				
+में	में	PSP		psp				
+बंद	बंद	JJ		adj	any	any		any
+करके	कर	VM	कर	v	any	any	any	
+न	न	NEG		adv				
+रखना	रख	VM	ना	v	m	sg	any	
+चाहता	चाह	VAUX	ता	v	m	sg	any	
+हो	हो	VAUX	0	v	any	any	any	
+.	.	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+अवॉर्ड	अवॉर्ड	NN		unk				
+को	को	PSP		psp				
+उन्होंने	उन्होंने	PRP		unk				
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+फिल्म	फिल्म	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+रहे	रह	VM	एं	v	any	sg	2	
+हर	हर	QF		adj	any	any		any
+छोटे-बड़े	छोटे-बड़े	JJ		punc				
+कलाकार	कलाकार	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+टेक्निशन	टेक्निशन	NN		unk				
+और	और	CC		adv				
+फैन्स	फैन्स	NN		unk				
+को	को	PSP		psp				
+समर्पित	समर्पित	JJ		adj	any	any		any
+किया	कर	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+वह	वह	PRP	0	pn	any	sg	3	d
+तब	तब	PRP		adv				
+15	15	QC		num				
+साल	साल	NN	0	n	m	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+थीं	था	VAUX	था	v	f	pl	any	
+,	,	SYM		punc				
+जब	जब	PRP		adv				
+एक	एक	QC		adj	any	any		any
+रात	रात	NN	0	n	f	sg	3	d
+वह	वह	PRP	0	pn	any	sg	3	d
+घर	घर	NN	0	n	m	sg	3	d
+लौटीं	लौट	VM	या	v	f	pl	any	
+और	और	CC		adv				
+उनके	उनके	PRP		unk				
+घर	घर	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+एक	एक	QC		adj	any	any		any
+बुजुर्ग	बुजुर्ग	JJ	0	n	m	sg	3	d
+आदमी	आदमी	NN	0	n	m	sg	3	d
+था	था	VM	था	v	m	sg	any	
+,	,	SYM		punc				
+जिन्हें	जो	PRP	को	pn	any	pl	3	o
+वे	वह	PRP	0	pn	any	pl	3	d
+जानती	जान	VM	ता	v	f	sg	any	
+थीं	था	VAUX	था	v	f	pl	any	
+.	.	SYM		punc				
+</s>
+<s>
+अपने	अपना	PRP	0	n	m	pl	3	d
+पड़ोसियों	पड़ोसियों	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+निंदा	निंदा	NN	0	n	f	sg	3	d
+सनातन	सनातन	JJ		adj	any	any		any
+से	से	PSP	0	v	any	any	any	
+मनुष्य	मनुष्य	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+मनोरंजन	मनोरंजन	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+विषय	विषय	NN	0	n	m	sg	3	d
+रही	रह	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+और	और	CC		adv				
+जुगनू	जुगनू	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+इसका	इसका	PRP		pn	m	sg	3	d
+काफी	काफी	QF	0	n	f	sg	3	d
+सामान	सामान	NN	0	n	m	sg	3	d
+था	था	VM	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+पिछले	पिछला	JJ		adj	m	sg		o
+मैच	मैच	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+पराजय	पराजय	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+सामना	सामना	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+वाली	वाली	PSP	0	n	f	sg	3	d
+भारतीय	भारतीय	JJ	0	n	m	sg	3	d
+टीम	टीम	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+आक्रामक	आक्रामक	JJ		adj	any	any		any
+शुरुआत	शुरुआत	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+और	और	CC		adv				
+मेजबान	मेजबान	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+हाफ	हाफ	NN		unk				
+में	में	PSP		psp				
+ही	ही	RP		adv				
+खेल	खेल	NN	0	n	m	sg	3	d
+होता	हो	VM	ता	v	m	sg	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+बता	बता	VM	0	v	any	any	any	
+दें	दे	VAUX	एं	v	any	pl	1	
+कि	कि	CC		avy				
+रानी	रानी	NN	0	n	f	sg	3	d
+चटर्जी	चटर्जी	NNP		unk				
+ने	ने	PSP		psp				
+साल	साल	NN	0	n	m	sg	3	d
+2004	2004	QC		num				
+में	में	PSP		psp				
+फिल्	फिल्	XC		psp				
+‍	‍	NNP		unk				
+म	म	SYM		n	m	sg	3	d
+'	'	SYM		punc				
+ससुरा	ससुरा	JJ		unk				
+बड़ा	बड़ा	XC		punc				
+पैसावाला	पैसावाला	NNP		unk				
+'	'	SYM		punc				
+से	से	PSP	0	v	any	any	any	
+भोजपुरी	भोजपुरी	JJ		adj	f	any		any
+सिनेमा	सिनेमा	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+डेब्यू	डेब्यू	XC		unk				
+किया	कर	VM	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+हॉलिवुड	हॉलिवुड	XC		unk				
+ऐक्ट्रेस	ऐक्ट्रेस	XC		unk				
+डेमी	डेमी	XC		unk				
+मूर	मूर	NN		unk				
+ने	ने	PSP		psp				
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+जिंदगी	जिंदगी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बारे	बारे	PSP	0	n	m	sg	3	d
+में	में	PSP		psp				
+एक	एक	QC		adj	any	any		any
+ऐसा	ऐसा	DEM		adj	m	sg		d
+खुलासा	खुलासा	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+जिसने	जो	PRP	ने	pn	any	sg	3	o
+उनके	उनके	PRP		unk				
+फैन्स	फैन्स	NN		unk				
+को	को	PSP		psp				
+हैरान	हैरान	VM		adj	any	any		any
+कर	कर	VAUX	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+हालांकि	हालांकि	CC		unk				
+,	,	SYM		punc				
+हम	हम	PRP		unk				
+आपको	आप	PRP	को	pn	any	any	any	o
+बता	बता	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+कि	कि	CC		avy				
+कैसे	कैसे	WQ		adv				
+आप	आप	PRP	0	pn	any	any	any	o
+उन	उन	DEM		unk				
+फोटो	फोटो	NN	0	n	m	sg	3	d
+और	और	CC		adv				
+विडियो	विडियो	NN		unk				
+को	को	PSP		psp				
+फोन	फोन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+ही	ही	RP		adv				
+रख	रख	VM	0	v	any	any	any	
+सकते	सक	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+और	और	CC		adv				
+इसे	इसे	PRP		pn	any	sg	3	o
+कोई	कोई	PRP	0	pn	any	sg	3	d
+देख	देख	VM	0	v	any	any	any	
+भी	भी	RP		adv				
+नहीं	नहीं	NEG		adv				
+पाएगा	पा	VM	गा	v	m	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+भोजपुरी	भोजपुरी	NN		adj	f	any		any
+ऐक्ट्रेस	ऐक्ट्रेस	XC		unk				
+रानी	रानी	XC	0	n	f	sg	3	d
+चटर्जी	चटर्जी	NNP		unk				
+को	को	PSP		psp				
+'	'	SYM		punc				
+दादा	दादा	NN	0	n	m	sg	3	d
+साहब	साहब	RP	0	n	m	sg	3	d
+फाल्के	फाल्के	JJ		unk				
+आइकन	आइकन	NN		unk				
+अवॉर्ड	अवॉर्ड	JJ		unk				
+क्वीन	क्वीन	NN		unk				
+ऑफ	ऑफ	PSP		unk				
+भोजपुरी	भोजपुरी	JJ		adj	f	any		any
+सिनेमा	सिनेमा	NN	0	n	m	sg	3	d
+'	'	SYM		punc				
+के	का	PSP	का	psp	m	sg		o
+सम्मान	सम्मान	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+नवाजा	नवाज	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+इन	इन	DEM		pn	any	pl	3	o
+तस्वीरों	तस्वीर	NN	0	n	f	pl	3	o
+में	में	PSP		psp				
+वह	वह	PRP	0	pn	any	sg	3	d
+अवॉर्ड	अवॉर्ड	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+नजर	नजर	NN	0	n	f	sg	3	d
+आ	आ	VM		v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+हैं	है	VAUX	है	v	any	pl	1	
+जिसपर	जो	PRP	पर	pn	any	sg	3	o
+'	'	SYM		punc				
+दादा	दादा	NN	0	n	m	sg	3	d
+साहब	साहब	RP	0	n	m	sg	3	d
+फाल्के	फाल्के	JJ		unk				
+आइकन	आइकन	NN		unk				
+अवॉर्ड	अवॉर्ड	JJ		unk				
+फिल्म	फिल्म	NN	0	n	f	sg	3	d
+2019	2019	QC		num				
+'	'	SYM		punc				
+लिखा	लिखा	VM	0	v	any	any	any	
+हुआ	हो	VAUX	या	v	m	sg	any	
+नजर	नजर	NN	0	n	f	sg	3	d
+आ	आ	VM		v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+उसकी	उसकी	PRP		unk				
+चाल	चाल	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+बिल्लियों	बिल्ली	NN	0	n	f	pl	3	o
+का-सा	का-सा	NN		unk				
+संयम	संयम	NN	0	n	m	sg	3	d
+था	था	VM	था	v	m	sg	any	
+,	,	SYM		punc				
+दबे	दब	JJ	एं	v	any	sg	2	
+पांव	पाँव	NN	0	n	m	sg		d
+धीरे-धीरे	धीरे-धीरे	NN		unk				
+चलती	चल	VM	ता	v	f	sg	any	
+,	,	SYM		punc				
+पर	पर	PSP		psp				
+शिकार	शिकार	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+आहट	आहट	NN	0	n	f	sg	3	d
+पाते	पा	VM	ता	v	m	pl	any	
+ही	ही	RP		adv				
+,	,	SYM		punc				
+जस्त	जस्त	JJ		unk				
+मारने	मार	VM	ना	v	m	pl	any	
+को	को	PSP		psp				
+तैयार	तैयार	JJ		adj	any	any		any
+हो	हो	VM	0	v	any	any	any	
+जाती	जा	VAUX	ता	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+हर	हर	QF		adj	any	any		any
+यूजर	यूजर	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+कॉन्टैक्ट	कॉन्टैक्ट	NN		unk				
+लिस्ट	लिस्ट	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+न	न	NEG		adv				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+ऐसा	ऐसा	PRP		adj	m	sg		d
+जरूर	जरूर	RB		adv				
+होता	हो	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+जिसके	जो	PRP	का	pn	m	pl	3	d
+द्वारा	द्वारा	PSP		psp				
+भेजे	भेज	VM	एं	v	any	sg	2	
+गए	गए	VAUX		unk				
+फोटो	फोटो	NN	0	n	m	sg	3	d
+और	और	CC		adv				
+विडियो	विडियो	NN		unk				
+को	को	PSP		psp				
+छिपा	छिपा	VM	0	v	any	any	any	
+के	का	PSP	का	psp	m	sg		o
+रखने	रख	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+जरूरत	जरूरत	NN		adv				
+पड़ती	पड़ती	XC		adv				
+है	ही	NNP		adv				
+.	.	SYM		punc				
+</s>
+<s>
+अपडेट्स	अपडेट्स	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+जरिए	जरिये	PSP		psp				
+ऐप	ऐप	NN		unk				
+में	में	PSP		psp				
+नए	नया	JJ		adj	m	sg		o
+फीचर	फीचर	NN		unk				
+तो	तो	CC		avy				
+जुड़	जुड़	NN		unk				
+जाते	जा	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+,	,	SYM		punc				
+लेकिन	लेकिन	CC		avy				
+वॉट्सऐप	वॉट्सऐप	NN		unk				
+में	में	PSP		psp				
+कुछ	कुछ	QF		adj	any	any		d
+ऐसी	ऐसी	DEM		adj	f	any		any
+ट्रिक्स	ट्रिक्स	NN		unk				
+भी	भी	RP		adv				
+हैं	है	VM	है	v	any	pl	1	
+जिनके	जो	PRP	का	pn	m	pl	3	d
+जरिए	जरिये	PSP		psp				
+चैटिंग	चैटिंग	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+मजा	मजा	NN	0	n	m	sg	3	d
+दोगुना	दोगुना	VM		adj	m	sg		d
+हो	हो	VAUX	0	v	any	any	any	
+सकता	सक	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+.	.	SYM		punc				
+</s>
+<s>
+नवजोत	नवजोत	XC		unk				
+कौर	कौर	NN	0	n	m	sg	3	d
+और	और	CC		adv				
+गुरजीत	गुरजीत	XC		unk				
+कौर	कौर	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+गोल	गोल	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+मदद	मदद	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+भारतीय	भारतीय	JJ	0	n	m	sg	3	d
+महिला	महिला	NN	0	n	f	sg	3	d
+हॉकी	हॉकी	JJ		unk				
+टीम	टीम	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+इंग्लैंड	इंग्लैंड	NNP		unk				
+दौरे	दौरा	NN	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+अपने	अपना	PRP	0	n	m	pl	3	d
+आखिरी	आखिरी	JJ		adj	f	any		any
+मैच	मैच	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+ब्रिटेन	ब्रिटेन	NNP		unk				
+को	को	PSP		psp				
+2	2	QC		num				
+-	-	SYM		punc				
+2	2	QC		num				
+से	से	PSP	0	v	any	any	any	
+ड्रॉ	ड्रॉ	NN		unk				
+पर	पर	PSP		psp				
+रोका	रोक	VM	या	v	m	sg	any	
+.	.	SYM		punc				
+</s>
+<s>
+होस्ट	होस्ट	NN		unk				
+से	से	PSP	0	v	any	any	any	
+हुई	हो	VM	या	v	f	sg	any	
+बातचीत	बातचीत	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+ऐक्ट्रेस	ऐक्ट्रेस	NN		unk				
+ने	ने	PSP		psp				
+अपने	अपना	PRP	0	n	m	pl	3	d
+इस	इस	DEM		pn	any	sg	3	o
+बुरे	बुरा	JJ		adj	m	sg		o
+वक्त	वक्त	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+याद	याद	NN	0	n	f	sg	3	d
+करते	कर	VM	ता	v	m	pl	any	
+हुए	हो	VAUX	या	v	m	pl	any	
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+उनकी	उनकी	PRP		unk				
+मां	माँ	NN	0	n	f	sg		d
+उन्हें	उन्हें	PRP		unk				
+बार	बार	RP		adv				
+लेकर	ले	VM	कर	v	any	any	any	
+जातीं	जा	VAUX	ता	v	f	pl	any	
+,	,	SYM		punc				
+ताकि	ताकि	CC		avy				
+मर्द	मर्द	NN	0	n	m	sg	3	d
+उन्हें	उन्हें	PRP		unk				
+नोटिस	नोटिस	NN	0	n	m	sg	3	d
+करें	कर	VM	एं	v	any	pl	1	
+.	.	SYM		punc				
+</s>
+<s>
+वॉट्सऐप	वॉट्सऐप	NN		unk				
+पर	पर	PSP		psp				
+आप	आप	PRP	0	pn	any	any	any	o
+टेक्स्ट	टेक्स्ट	NN		unk				
+मेसेज	मेसेज	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+ही	ही	RP		adv				
+स्टिकर्स	स्टिकर्स	NN		unk				
+,	,	SYM		punc				
+GIF	GIF	NN		unk				
+,	,	SYM		punc				
+या	या	CC		avy				
+किसी	किसी	PRP		unk				
+भी	भी	RP		adv				
+भेजी	भेज	VM	या	v	f	sg	any	
+या	या	CC		avy				
+रिसीव	रिसीव	NN		unk				
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+मीडिया	मीडिया	XC	0	n	m	sg	3	d
+फाइल	फाइल	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+खास	खास	JJ		adj	any	any		any
+कॉन्टैक्ट	कॉन्टैक्ट	NN		unk				
+या	या	CC		avy				
+ग्रुप	ग्रुप	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+डिलीट	डिलीट	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+सकते	सक	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+.	.	SYM		punc				
+</s>
