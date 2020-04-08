@@ -1,0 +1,47 @@
+if findAnnToUdTag == True:
+    ud = []
+    for tag in tags:
+        if tag in acl:
+            ud.append('acl')
+        elif tag in neg:
+            ud.append('neg')
+        elif tag in dislocated:
+            ud.append('dislocated')
+        elif tag in nmod:
+            ud.append('nmod')
+        elif tag in iobj:
+            ud.append('iobj')
+        elif tag in punct:
+            ud.append('punct')
+        elif tag in vocative:
+            ud.append('vocative')
+        elif tag in case:
+            ud.append('case')
+        elif tag in advmod:
+            ud.append('advmod')
+        elif tag in dep:
+            ud.append('dep')
+        elif tag in compound:
+            ud.append('compound')
+        elif tag in det:
+            ud.append('det')
+        elif tag in dobj:
+            ud.append('dobj')
+        elif tag in amod:
+            ud.append('amod')
+        elif tag in parataxis:
+            ud.append('parataxis')
+        elif tag in ccomp:
+            ud.append('ccomp')
+        elif tag in xcomp:
+            ud.append('xcomp')
+        elif tag in aux:
+            ud.append('aux')
+        elif tag in auxpass:
+            ud.append('auxpass')
+        elif tag in nsubj:
+            ud.append('nsubj')
+        elif tag in nsubjpass:
+            ud.append('nsubjpass')
+        elif tag in advcl:
+            ud.append('advcl')

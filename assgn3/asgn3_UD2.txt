@@ -1,0 +1,1781 @@
+<s>	
+नासा	nsubj
+ने	case
+इसकी	nmod
+पुष्टि	compound
+की	root
+है	aux
+</s>	
+<s>	
+रूस	nmod
+लैंडर	obj
+को	case
+रद्द	compound
+करने	nmod
+का	mark
+मतलब	root
+था	cop
+</s>	
+<s>	
+इसका	nmod
+आकार	nsubj
+क्रिकेट	compound
+बॉल	nmod
+की	case
+तरह	case
+गोल	root
+है	cop
+</s>	
+<s>	
+कि	mark
+मिशन	nsubj
+प्रोफ़ाइल	nsubj
+परिवर्तित	compound
+हो	root
+जाएगी	aux
+</s>	
+<s>	
+यह	det
+दूरी	nsubj
+पृथ्वी	nmod
+के	case
+व्यास	nmod
+का	case
+३०	nummod
+गुना	root
+है	cop
+</s>	
+<s>	
+यह	nsubj
+केवल	dep
+लैंडर	obl
+के	case
+साथ	case
+संवाद	compound
+कर	root
+सकता	aux
+है	aux:pass
+</s>	
+<s>	
+इन	det
+सब	nmod
+का	case
+विकास	compound
+इसरो	nsubj:pass
+द्वारा	case
+किया	root
+गया	aux:pass
+है	aux:pass
+</s>	
+<s>	
+उड़ान	nmod
+के	case
+समय	case
+इसका	nmod
+वजन	nsubj
+लगभग	dep
+3,850	nummod
+किलो	root
+था	cop
+</s>	
+<s>	
+उड़ान	obl
+के	case
+समय	case
+इसका	nmod
+वजन	nsubj
+लगभग	dep
+1400	nummod
+किलो	xcomp
+होगा	root
+</s>	
+<s>	
+लैंडर	nmod
+तथा	cc
+रोवर	conj
+का	case
+वजन	nsubj
+लगभग	dep
+1250	nummod
+किलो	xcomp
+होगा	root
+</s>	
+<s>	
+दोबारा	advmod
+से	dep
+लैन्डर	obl
+से	case
+संपर्क	compound
+किया	root
+जा	aux:pass
+रहा	aux:pass
+है	aux:pass
+</s>	
+<s>	
+चन्द्रमा	nmod
+पर	case
+गुरुत्वाकर्षण	nsubj
+पृथ्वी	nmod
+से	case
+१/६	root
+है	cop
+</s>	
+<s>	
+पृथ्वी	nmod
+की	case
+तुलना	case
+में	case
+यह	nsubj
+सौवें	amod
+भाग	nmod
+से	case
+भी	dep
+कम	root
+है	cop
+</s>	
+<s>	
+4th	nummod
+देश	nsubj
+जो	nsubj
+चांद	nmod
+की	case
+सतह	obl
+पर	case
+सॉफ्ट	compound
+लैंडिंग	compound
+करेगा	root
+</s>	
+<s>	
+और	cc
+इससे	obl
+जुड़े	acl
+प्रौद्योगिकियों	nmod
+का	case
+अध्ययन	compound
+किया	root
+</s>	
+<s>	
+चन्द्रमा	nsubj
+पृथ्वी	nmod
+का	case
+एकमात्र	amod
+प्राकृतिक	amod
+उपग्रह	root
+है	cop
+</s>	
+<s>	
+पृथ्वी	nmod
+से	case
+चन्द्रमा	nmod
+की	case
+दूरी	nsubj
+३८४,४०३	nummod
+किलोमीटर	root
+है	cop
+</s>	
+<s>	
+परंतु	cc
+अभी	obl
+चंद्रयान-2	obl
+से	case
+संपर्क	compound
+नहीं	advmod
+हो	root
+पाया	aux
+है	aux:pass
+</s>	
+<s>	
+तथा	cc
+अभियान	obj
+को	case
+2016	obl
+के	case
+लिये	case
+पुनर्निर्धारित	compound
+किया	root
+</s>	
+<s>	
+इसके	nmod
+चार	nummod
+पहिए	nsubj
+स्वतंत्र	amod
+स्टीयरिंग	obl
+में	case
+सक्षम	compound
+होंगे	root
+</s>	
+<s>	
+परंतु	cc
+अभियान	obj
+को	case
+जनवरी	compound
+2013	obl
+में	case
+स्थगित	compound
+कर	root
+दिया	aux:pass
+गया	aux:pass
+</s>	
+<s>	
+यह	nsubj
+सौर	compound
+मंडल	nmod
+का	case
+पाचवाँ,सबसे	amod
+विशाल	amod
+प्राकृतिक	amod
+उपग्रह	root
+है	cop
+</s>	
+<s>	
+अन्तरिक्ष	obl
+में	case
+मानव	nsubj
+सिर्फ	dep
+चन्द्रमा	obl
+पर	case
+ही	dep
+कदम	compound
+रख	root
+सका	aux
+है	aux:pass
+</s>	
+<s>	
+क्योंकि	mark
+रूस	nmod
+लैंडर	obj
+को	case
+समय	obl
+पर	case
+विकसित	compound
+करने	obl
+में	mark
+असमर्थ	obj
+था	root
+</s>	
+<s>	
+लैंडर	nsubj
+किसी	nsubj
+भी	dep
+वैज्ञानिक	amod
+गतिविधियों	obj
+प्रदर्शन	compound
+नहीं	advmod
+करेंगे	root
+</s>	
+<s>	
+सूर्य	nmod
+के	case
+बाद	case
+आसमान	nmod
+में	case
+सबसे	advmod
+अधिक	det
+चमकदार	amod
+निकाय	compound
+चन्द्रमा	root
+है	cop
+</s>	
+<s>	
+जब	obl
+रूस	nsubj
+ने	case
+2015	obl
+से	case
+पहले	case
+लैंडर	nmod
+के	case
+विकास	obl
+में	case
+अपनी	nmod
+असमर्थता	compound
+जताई	root
+</s>	
+<s>	
+हालांकि	mark
+,	punct
+रूस	nsubj
+ने	case
+मई	compound
+2010	obl
+को	case
+रोवर	obj
+को	case
+डिजाइन	compound
+करने	obj
+से	mark
+मना	compound
+कर	root
+दिया	aux
+</s>	
+<s>	
+चंद्रमा	nmod
+का	case
+करीब	dep
+1-100	nummod
+नैनोटेस्ला	nmod
+का	case
+एक	nummod
+बाह्य	amod
+चुम्बकीय	amod
+क्षेत्र	root
+है	cop
+</s>	
+<s>	
+आंकड़ों	obj
+को	case
+चंद्रयान-2	compound
+कक्षयान	nmod
+के	case
+माध्यम	obl
+से	case
+पृथ्वी	obl
+पर	case
+भेजा	root
+जायेगा	aux:pass
+</s>	
+<s>	
+पहिएदार	nmod
+रोवर	compound
+चंद्र	nsubj
+सतह	obl
+पर	case
+चलेगा	root
+और	cc
+जगह	nmod
+का	case
+रासायनिक	amod
+विश्लेषण	compound
+करेगा	conj
+</s>	
+<s>	
+कुल	det
+10	nummod
+बिजली	nmod
+की	case
+मोटरों	nmod
+कर्षण	nmod
+और	cc
+स्टीयरिंग	conj
+के	case
+लिए	case
+इस्तेमाल	root
+कि	dep
+जाएगी	cop
+</s>	
+<s>	
+इसके	obl
+बाद	case
+,	punct
+इसरो	nsubj
+ने	case
+रोवर	nmod
+के	case
+डिजाइन	obj
+और	cc
+निर्माण	conj
+खुद	nmod
+करने	nmod
+का	mark
+फैसला	compound
+किया	root
+</s>	
+<s>	
+तथा	cc
+भारत	nsubj
+ने	case
+चंद्र	compound
+मिशन	obj
+को	case
+स्वतंत्र	amod
+रूप	advmod
+से	case
+विकसित	compound
+करने	nmod
+का	mark
+फैसला	compound
+किया	root
+</s>	
+<s>	
+समुद्री	amod
+ज्वार	nmod
+और	cc
+भाटा	conj
+चन्द्रमा	nmod
+की	case
+गुरुत्वाकर्षण	nsubj
+शक्ति	obl
+के	case
+कारण	case
+आते	root
+हैं	aux
+</s>	
+<s>	
+अभियान	obj
+को	case
+जीएसएलवी	nmod
+संस्करण	obj
+3	compound
+प्रक्षेपण	compound
+यान	nsubj:pass
+द्वारा	case
+प्रक्षेपित	compound
+किया	root
+गया	aux:pass
+</s>	
+<s>	
+हालांकि	mark
+इसरो	nsubj
+ने	case
+चंद्रयान	compound
+-2	compound
+कार्यक्रम	obl
+के	case
+अनुसार	case
+पेलोड	iobj
+को	case
+अंतिम	amod
+रूप	compound
+दिया	root
+</s>	
+<s>	
+दिसंबर	compound
+2015	obl
+को	case
+,	punct
+इस	det
+अभियान	obl
+के	case
+लिये	case
+603	case
+करोड़	nummod
+रुपये	nmod
+की	case
+लागत	obj
+आवंटित	compound
+की	root
+गई	aux:pass
+</s>	
+<s>	
+और	cc
+यह	nsubj
+खुद	obl
+से	case
+नहीं	advmod
+चमकता	root
+बल्कि	mark
+यह	nsubj
+तो	dep
+सूर्य	nmod
+के	case
+प्रकाश	obl
+से	case
+प्रकाशित	compound
+होता	advcl
+है	aux
+</s>	
+<s>	
+चंद्रमा	nmod
+की	case
+सतह	obl
+पर	case
+लैंडिंग	obl
+के	case
+लिए	case
+अनुसंधान	compound
+दल	nsubj
+ने	case
+लैंडिंग	compound
+विधि	nmod
+की	case
+पहचान	compound
+की	root
+</s>	
+<s>	
+धरती	obl
+के	case
+बाद	case
+चांद	obl
+पर	case
+भौगोलिक	amod
+आधिपत्य	nmod
+की	case
+होड़	obl
+में	case
+भारत	nsubj
+अग्रणी	compound
+बनकर	advcl
+उभरेगा	root
+.	punct
+</s>	
+<s>	
+संचार	nsubj
+,	punct
+सेंसर	compound
+प्रोद्योगिकी	nmod
+के	case
+क्षेत्र	obl
+में	case
+ISRO	nmod
+की	case
+क्षमता	nmod
+का	case
+प्रदर्शन	compound
+होगा	root
+</s>	
+<s>	
+चांद	obl
+पर	case
+मिशन	obj
+भेजने	amod
+वाले	mark
+तीन	nummod
+ताकतवर	amod
+देशों	nmod
+के	case
+क्लब	nmod
+का	case
+चौथा	amod
+सदस्य	xcomp
+बन	root
+जाएगा	aux
+.	punct
+</s>	
+<s>	
+इनमें	nmod
+से	case
+कुछ	nmod
+के	case
+नाम	nsubj
+विद्वानों	root
+,	punct
+वैज्ञानिकों	conj
+,	punct
+कलाकारों	conj
+और	cc
+खोजकर्ताओँ	conj
+पर	case
+हैं	cop
+</s>	
+<s>	
+बृहस्पति	nmod
+के	case
+उपग्रह	compound
+lo	nmod
+के	case
+बाद	case
+चन्द्रमा	nsubj
+दूसरा	amod
+सबसे	advmod
+अधिक	det
+घनत्व	nmod
+वाला	case
+उपग्रह	root
+है	cop
+</s>	
+<s>	
+प्रारंभिक	amod
+योजना	obl
+में	case
+रोवर	obj
+को	case
+रूस	obl
+में	case
+डिजाइन	obl
+और	cc
+भारत	conj
+में	case
+निर्मित	compound
+किया	root
+जाना	aux:pass
+था	aux:pass
+</s>	
+<s>	
+तो	mark
+भारतीय	amod
+अधिकारियों	nsubj
+ने	case
+स्वतंत्र	amod
+रूप	advmod
+से	case
+लैंडर	obj
+को	case
+विकसित	compound
+करने	nmod
+का	mark
+निर्णय	compound
+लिया	root
+</s>	
+<s>	
+ऑर्बिटर	obl
+और	cc
+उसके	nmod
+जीएसएलवी	nmod
+प्रक्षेपण	compound
+यान	obl
+के	case
+बीच	case
+इंटरफेस	iobj
+को	case
+अंतिम	amod
+रूप	compound
+दे	root
+दिया	aux
+है	aux:pass
+</s>	
+<s>	
+पृथ्वी-	compound
+चन्द्रमा-सूर्य	compound
+ज्यामिति	obl
+के	case
+कारण	case
+"	punct
+चन्द्र	compound
+दशा	nsubj
+"	punct
+हर	det
+२९.५	nummod
+दिनों	obl
+में	case
+बदलती	root
+है	aux
+</s>	
+<s>	
+इस	det
+अभियान	nmod
+में	case
+भारत	advmod
+में	case
+निर्मित	amod
+एक	nummod
+चंद्र	compound
+कक्षयान	nsubj
+,	punct
+एक	nummod
+रोवर	conj
+एवं	cc
+एक	nummod
+लैंडर	conj
+शामिल	root
+हैं	cop
+</s>	
+<s>	
+प्रारंभ	nmod
+में	case
+,	punct
+लैंडर	obj
+रूस	nsubj:pass
+द्वारा	case
+भारत	obl
+के	case
+साथ	case
+सहयोग	obl
+से	case
+विकसित	compound
+किए	nmod
+जाने	aux:pass
+की	mark
+उम्मीद	root
+थी	cop
+</s>	
+<s>	
+ISRO	nmod
+की	case
+शक्तिशाली	amod
+रॉकेट	obj
+व	cc
+भारी-भरकम	amod
+पेलोड	conj
+छोड़ने	nmod
+की	mark
+क्षमता	nmod
+का	case
+दुनिया	nsubj
+को	case
+पता	compound
+चला	root
+.	punct
+</s>	
+<s>	
+चंद्रमा	nmod
+के	case
+ऑक्सीजन	nsubj
+समस्थानिक	amod
+अनुपात	nsubj
+पृथ्वी	obl
+के	case
+लिए	case
+अनिवार्य	amod
+रूप	advmod
+से	case
+समान	xcomp
+दिखते	root
+हैं	aux
+</s>	
+<s>	
+पहला	amod
+भारतीय	amod
+मिशन	root
+,	punct
+जो	nsubj
+घरेलू	amod
+तकनीक	obl
+के	case
+साथ	case
+चंद्र	nmod
+क्षेत्र	nmod
+का	case
+पता	compound
+लगाने	nmod
+का	mark
+प्रयास	compound
+करेगा	acl:relcl
+</s>	
+<s>	
+लैंडर	obj
+को	case
+चंद्र	compound
+सतह	obl
+पर	case
+एक	nummod
+नरम	amod
+लैंडिंग	obj
+को	case
+निष्पादित	compound
+करने	advcl
+के	mark
+लिए	mark
+डिज़ाइन	compound
+किया	root
+गया	aux:pass
+है	aux:pass
+</s>	
+<s>	
+चंद्रमा	nsubj
+एक	nummod
+विभेदित	amod
+निकाय	root
+है	cop
+जिसका	nmod
+भूरसायानिक	amod
+रूप	nmod
+से	case
+तीन	nummod
+भाग	nsubj
+क्रष्ट	nmod
+,	punct
+मेंटल	conj
+और	cc
+कोर	conj
+है	cop
+</s>	
+<s>	
+पहला	amod
+भारतीय	amod
+मिशन	root
+,	punct
+जो	nsubj
+घरेलू	amod
+तकनीक	obl
+के	case
+साथ	case
+चंद्र	compound
+सतह	obl
+पर	case
+एक	nummod
+soft	compound
+लैंडिंग	nmod
+का	case
+प्रयास	compound
+करेगा	acl:relcl
+</s>	
+<s>	
+लैंडर	nmod
+के	case
+मुख्य	amod
+इंजन	obj
+को	case
+सफलतापूर्वक	advmod
+513	nummod
+सेकंड	nmod
+की	case
+अवधि	obl
+के	case
+लिए	case
+परीक्षण	compound
+किया	root
+जा	aux:pass
+चुका	aux:pass
+है	aux:pass
+</s>	
+<s>	
+कोर	nmod
+के	case
+चारों	nummod
+ओर	case
+५००	nummod
+किलोमीटर	nmod
+की	case
+त्रिज्या	nmod
+के	case
+साथ	case
+एक	nummod
+आंशिक	amod
+रूप	advmod
+से	case
+पिघली	compound
+हुई	acl
+सीमा	compound
+परत	root
+है	cop
+</s>	
+<s>	
+२००८	obl
+में	case
+चंद्रयान	nmod
+अंतरिक्ष	compound
+यान	nsubj
+ने	case
+चन्द्रमा	obl
+पर	case
+सतह	obj
+जल	compound
+बर्फ	nmod
+के	case
+अस्तित्व	nmod
+की	case
+पुष्टि	compound
+की	root
+है	aux
+</s>	
+<s>	
+2022	advmod
+में	case
+प्रस्तावित	amod
+भारत	nmod
+के	case
+अंतरिक्ष	obl
+में	case
+मानव	compound
+मिशन	compound
+”	compound
+गगणयान	compound
+मिशन	compound
+”	nmod
+का	case
+रास्ता	nsubj
+साफ	compound
+होगा	root
+.	punct
+</s>	
+<s>	
+इन	det
+अंतरिक्ष	compound
+अभियानों	nsubj
+ने	case
+चंद्रमा	obl
+पर	case
+जल-बर्फ	nmod
+की	case
+खोज	nmod
+की	case
+पुष्टि	obl
+के	case
+लिए	case
+विशिष्ठ	amod
+योगदान	obj
+दिया	root
+है	aux
+</s>	
+<s>	
+यह	nsubj
+500	nummod
+मीटर	obl
+	punct
+½-a-km	nmod
+	punct
+तक	dislocated
+यात्रा	compound
+कर	root
+सकता	aux
+है	aux:pass
+और	cc
+इसके	nmod
+कामकाज	obl
+के	case
+लिए	case
+सौर	compound
+ऊर्जा	nmod
+का	case
+लाभ	compound
+उठाता	conj
+है	aux
+</s>	
+<s>	
+ऑर्बिटर	nmod
+का	case
+मिशन	nsubj
+जीवन	nsubj
+एक	nummod
+वर्ष	root
+है	cop
+और	cc
+इसे	obj
+100X100	nummod
+किमी	advmod
+लंबी	amod
+चंद्र	nsubj:pass
+ध्रुवीय	amod
+कक्षा	obl
+में	case
+रखा	conj
+जाएगा	aux:pass
+</s>	
+<s>	
+फ्रांस	nmod
+का	case
+अमेरिका	obl
+के	case
+बाद	case
+भारत	nsubj
+भी	dep
+सैन्य	amod
+दृष्टि	advmod
+से	case
+महत्वपूर्ण	amod
+स्पेस	compound
+कमांड	nmod
+वाला	case
+देश	xcomp
+बन	root
+सकता	aux
+है	aux:pass
+.	punct
+</s>	
+<s>	
+ऑर्बिटर	nmod
+तथा	cc
+रोवर	conj
+की	case
+मुख्य	amod
+जिम्मेदारी	nsubj
+इसरो	obl
+की	case
+होगी	root
+तथा	cc
+रोसकोसमोस	compound
+लैंडर	obl
+के	case
+लिए	case
+जिम्मेदार	compound
+होगा	conj
+.	punct
+</s>	
+<s>	
+सेंसर	advmod
+और	cc
+सॉफ्टवेयर	conj
+के	case
+बंद	amod
+लूप	compound
+सत्यापन	compound
+परीक्षण	nsubj
+2016	obl
+के	case
+मध्य	case
+में	case
+परीक्षण	compound
+करने	nmod
+की	mark
+योजना	obj
+बनाई	root
+है	aux
+</s>	
+<s>	
+इस	det
+टकराव	obl
+के	case
+कारण	case
+पृथ्वी	nmod
+के	case
+23.5	nummod
+डिग्री	nsubj
+झुका	acl
+हुआ	aux
+धुरी	nsubj
+भी	dep
+उत्पन्न	compound
+हुई	root
+,	punct
+जिससे	obl
+मौसम	nsubj
+उत्पन्न	compound
+हो	acl:relcl
+गया	aux
+</s>	
+<s>	
+चंद्रमा	nmod
+के	case
+दक्षिण	compound
+ध्रुवीय	amod
+क्षेत्र	nmod
+पर	case
+एक	nummod
+Soft	compound
+लैंडिंग	nmod
+का	case
+संचालन	compound
+करने	amod
+वाला	mark
+पहला	amod
+अंतरिक्ष	compound
+मिशन	root
+हैं	cop
+</s>	
+<s>	
+तीन	nummod
+पेलोड	nsubj
+नए	root
+हैं	cop
+,	punct
+जबकि	cc
+दो	nummod
+अन्य	amod
+चंद्रयान-1	compound
+ऑर्बिटर	obl
+पर	case
+भेजे	amod
+जाने	aux:pass
+वाले	mark
+पेलोड	nmod
+के	case
+उन्नत	amod
+संस्करण	conj
+हैं	cop
+</s>	
+<s>	
+रोवर	nmod
+का	case
+वजन	nsubj
+27	nummod
+किग्रा	root
+है	cop
+और	cc
+सौर	compound
+ऊर्जा	nsubj
+द्वारा	case
+संचालित	compound
+होगा	conj
+</s>	
+<s>	
+ऐसा	obj
+माना	root
+जाता	aux:pass
+है	aux:pass
+कि	mark
+करीब	dep
+४.५	dep
+अरब	nummod
+वर्ष	obl
+पहले	case
+पृथ्वी	obl
+के	case
+साथ	case
+विशाल	amod
+टक्कर	nmod
+की	case
+घटना	nsubj
+ने	case
+इसका	nmod
+गठन	compound
+किया	acl
+है	aux
+</s>	
+<s>	
+यह	nsubj:pass
+एक	nummod
+चंद्र	compound
+दिन	obl
+के	case
+लिए	case
+कार्य	obj
+करने	advcl
+के	mark
+लिए	mark
+डिज़ाइन	compound
+किया	root
+गया	aux:pass
+है	aux:pass
+,	punct
+जो	nsubj
+लगभग	dep
+14	nummod
+पृथ्वी	nmod
+दिनों	acl:relcl
+के	case
+बराबर	case
+है	cop
+</s>	
+<s>	
+चंद्रयान	compound
+2	nmod
+के	case
+लैंडर	nmod
+का	case
+नाम	obj
+भारतीय	compound
+अंतरिक्ष	compound
+कार्यक्रम	nmod
+के	case
+जनक	nmod
+डॉ	compound
+विक्रम	compound
+ए	compound
+साराभाई	nmod
+के	case
+नाम	obl
+पर	case
+रखा	root
+गया	aux:pass
+है	aux:pass
+</s>	
+<s>	
+चन्द्रमा	nmod
+की	case
+सतह	obl
+से	case
+टकराने	amod
+वाले	mark
+चंद्रयान-1	nmod
+के	case
+मून	compound
+इम्पैक्ट	compound
+प्रोब	obl
+के	case
+विपरीत	case
+,	punct
+लैंडर	nsubj
+धीरे-धीरे	advmod
+नीचे	obl
+उतरेगा	root
+</s>	
+<s>	
+चंद्रमा	obl
+के	case
+लिए	case
+भविष्य	nmod
+की	case
+मानवयुक्त	compound
+मिशन	compound
+योजना	compound
+सरकार	obl
+के	case
+साथ	case
+साथ	obl
+निजी	amod
+वित्त	amod
+पोषित	amod
+प्रयासों	obl
+से	case
+बनाई	root
+गई	aux:pass
+है	aux:pass
+</s>	
+<s>	
+चंद्रमा	nmod
+के	case
+अकेले	amod
+नजदीकी	amod
+पक्ष	nmod
+में	case
+ही	dep
+१	nummod
+किमी	advmod
+से	case
+ज्यादा	amod
+चौड़ाई	nmod
+के	case
+लगभग	dep
+३,००,०००	nummod
+खड्डों	nsubj
+के	case
+होने	nmod
+का	mark
+अनुमान	root
+है	cop
+</s>	
+<s>	
+चंद्रयान	compound
+2	nmod
+का	case
+रोवर	compound
+प्रज्ञान	nmod
+नाम	nmod
+का	case
+6	nummod
+पहियों	nmod
+वाला	case
+रोबोट	amod
+वाहन	root
+है	cop
+,	punct
+जो	nsubj
+संस्कृत	obl
+में	case
+""	punct
+ज्ञान	nmod
+""	punct
+का	case
+अनुवाद	compound
+करता	acl:relcl
+है	aux
+</s>	
+<s>	
+हांलाकि	compound
+चंद्रयान-२	nmod
+के	case
+ऑर्बिटर	nsubj
+ने	case
+अपने	nmod
+हाई	compound
+रिजोल्यूशन	compound
+कैमरा	nmod
+से	case
+चंद्रमा	nmod
+के	case
+सतह	root
+कि	mark
+कुछ	det
+बेहतरीन	amod
+चित्र	obj
+लिया	obj
+है	aux
+</s>	
+<s>	
+नियंत्रण	nmod
+और	cc
+मोटर	compound
+गतिशीलता	compound
+-	punct
+रोवर	nmod
+के	case
+छह	nummod
+पहियों	nmod
+होंगे,प्रत्येक	nsubj
+स्वतंत्र	amod
+बिजली	nmod
+की	case
+मोटर	obl
+के	case
+द्वारा	case
+संचालित	compound
+होंगे	root
+</s>	
+<s>	
+पहिएदार	nmod
+रोवर	nsubj
+चन्द्रमा	nmod
+की	case
+सतह	obl
+पर	case
+चलेगा	root
+तथा	cc
+वहीं	obl
+पर	case
+विश्लेषण	obl
+के	case
+लिए	case
+मिट्टी	nmod
+या	cc
+चट्टान	conj
+के	case
+नमूनों	obj
+को	case
+एकत्र	compound
+करेगा	conj
+</s>	
+<s>	
+सफल	compound
+होने	obl
+पर	mark
+,	punct
+चंद्रयान	nmod
+-2	nsubj
+सबसे	advmod
+दक्षिणी	amod
+चंद्र	compound
+लैंडिंग	obl
+होगा	root
+,	punct
+जिसका	nmod
+लक्ष्य	nsubj
+67	nummod
+°	compound
+S	obl
+या	cc
+70	nummod
+°	nmod
+अक्षांश	conj
+पर	case
+उतरना	acl:relcl
+होगा	aux
+</s>	
+<s>	
+8	compound
+सितंबर	compound
+2019	obl
+को	case
+इसरो	nsubj:pass
+द्वारा	case
+सूचना	compound
+दी	root
+गई	aux:pass
+कि	mark
+ओरबिटर	nsubj:pass
+द्\u200dवारा	case
+लिए	acl
+गए	aux:pass
+ऊष्माचित्र	obl
+से	case
+विक्रम	compound
+लैंडर	nmod
+का	case
+पता	compound
+चल	obj
+गया	aux
+है	aux:pass
+</s>	
+<s>	
+सन्	nmod
+१९६९	nmod
+से	case
+१९७२	obl
+के	case
+बीच	case
+छह	nummod
+मानवयुक्त	compound
+यान	nsubj
+ने	case
+चन्द्रमा	nmod
+की	case
+धरती	obl
+पर	case
+कदम	compound
+रखा	root
+जिसमे	obl
+से	case
+अपोलो-११	nsubj
+ने	case
+सबसे	amod
+पहले	obl
+कदम	compound
+रखा	acl:relcl
+</s>	
+<s>	
+श्री	compound
+विक्रम	nmod
+के	case
+पास	case
+,	punct
+बैंगलोर	nmod
+के	case
+पास	case
+बयालू	nmod
+में	case
+आईडीएसएन	obl
+के	case
+साथ-साथ	case
+ऑर्बिटर	obl
+और	cc
+रोवर	conj
+के	case
+साथ	case
+संवाद	compound
+करने	nmod
+की	mark
+क्षमता	root
+है	cop
+</s>	
+<s>	
+स्वदेशी	amod
+लैंडर	nmod
+की	case
+प्रारंभिक	amod
+कॉन्फ़िगरेशन	nmod
+का	case
+अध्ययन	nsubj
+2013	nmod
+में	case
+अंतरिक्ष	compound
+अनुप्रयोग	nmod
+केंद्र	compound
+SAC	nmod
+	punct
+,अहमदाबाद	nmod
+द्वारा	case
+पूरा	root
+कि	mark
+गयी	cop
+</s>	
+<s>	
+अंतरिक्ष	compound
+यान	nmod
+के	case
+डिजाइन	obj
+को	case
+अगस्त	compound
+2009	obl
+में	case
+पूर्ण	compound
+कर	root
+लिया	aux:pass
+गया	aux:pass
+जिसमे	obl
+दोनों	nummod
+देशों	nmod
+के	case
+वैज्ञानिकों	nsubj
+ने	case
+अपना	nmod
+संयुक्त	amod
+योगदान	obj
+दिया	acl:relcl
+.	punct
+</s>	
+<s>	
+चंद्रमा	nsubj
+""	punct
+बाह्य	amod
+अंतरिक्ष	compound
+संधि	obl
+""	punct
+के	case
+तहत	case
+रहता	root
+है	aux
+जिससे	nmod
+यह	nsubj
+शांतिपूर्ण	amod
+उद्देश्यों	nmod
+की	case
+खोज	nmod
+के	case
+लिए	case
+सभी	det
+राष्ट्रों	nmod
+के	case
+लिए	case
+मुक्त	acl:relcl
+है	cop
+</s>	
+<s>	
+भारत	nsubj
+ने	case
+चंद्रयान-2	iobj
+को	case
+22	compound
+जुलाई	compound
+2019	obl
+को	case
+श्रीहरिकोटा	nmod
+रेंज	obl
+से	case
+भारतीय	amod
+समयानुसार	nmod
+02:43	compound
+अपराह्न	obl
+को	case
+सफलता	obj
+पूर्वक	acl
+प्रक्षेपित	compound
+किया	root
+</s>	
+<s>	
+त्रिविम	amod
+कैमरा	advmod
+आधारित	amod
+3डी	compound
+दृष्टि	compound
+-	punct
+जमीन	compound
+टीम	obj
+को	case
+रोवर	compound
+नियंत्रित	obl
+के	case
+लिए	case
+रोवर	nmod
+के	case
+आसपास	case
+के	case
+इलाके	nmod
+की	case
+एक	nummod
+3डी	amod
+दृश्य	obj
+को	case
+प्रदान	compound
+करेगा	root
+</s>	
+<s>	
+दिनांक	nsubj
+07	compound
+सितंबर	compound
+2019	obl
+को	case
+रात्रि	nmod
+02	nummod
+बजे	obl
+चंद्रमा	nmod
+के	case
+धरातल	obl
+से	case
+02.1	nummod
+किमी	obl
+ऊपर	case
+विक्रम	compound
+लेंडर	nmod
+का	case
+इसरो	obl
+से	case
+फिलहाल	advmod
+सम्पर्क	compound
+टूट	root
+गया	aux
+है	aux:pass
+</s>	
+<s>	
+अगर	mark
+थिया	nsubj
+एक	nummod
+अलग	amod
+प्रोटॉपलैनेट	obl
+था	cop
+,	punct
+तो	mark
+शायद	advmod
+पृथ्वी	obl
+से	case
+एक	nummod
+अलग	amod
+ऑक्सीजन	compound
+आइसोटोप	nsubj
+हस्ताक्षर	compound
+होता	root
+,	punct
+जैसा	cc
+कि	mark
+अलग-अलग	det
+मिश्रित	amod
+पदार्थ	nsubj
+होता	advcl
+</s>	
+<s>	
+रोसकोसमोस	obj
+को	case
+बाद	obl
+में	case
+मंगल	nmod
+ग्रह	obl
+के	case
+लिए	case
+भेज़े	acl
+फोबोस-ग्रन्ट	compound
+अभियान	obl
+मे	case
+मिली	acl
+विफलता	obl
+के	case
+कारण	case
+चंद्रयान	compound
+-2	compound
+कार्यक्रम	obl
+से	case
+अलग	compound
+कर	root
+दिया	aux:pass
+गया	aux:pass
+</s>	
+<s>	
+चंद्रयान-2	obl
+में	case
+रखे	acl
+गए	aux:pass
+पेलोड	obl
+से	case
+मिलने	amod
+वाले	mark
+डाटा	obl
+से	case
+वहां	obl
+पानी	nmod
+और	cc
+खनिजों	conj
+की	case
+मौजूदगी	nmod
+का	case
+पता	compound
+चलेगा	root
+जिससे	obl
+वैज्ञानिक	amod
+प्रयोग	nsubj
+शुरु	compound
+होंगे	acl:relcl
+.	punct
+</s>	
+<s>	
+चन्द्रमा	nmod
+की	case
+तात्कालिक	amod
+कक्षीय	compound
+दूरी	nsubj
+,	punct
+पृथ्वी	nmod
+के	case
+व्यास	nmod
+का	case
+३०	nummod
+गुना	acl:relcl
+है	cop
+इसीलिए	obl
+आसमान	obl
+में	case
+सूर्य	nmod
+और	cc
+चन्द्रमा	conj
+का	case
+आकार	nsubj
+हमेशा	advmod
+सामान	obj
+नजर	compound
+आता	root
+है	aux
+</s>	
+<s>	
+इसरो	nsubj
+ने	case
+लैंडिंग	compound
+साइट	nmod
+का	case
+चयन	compound
+करने	advcl
+के	mark
+लिए	mark
+और	det
+लैंडर	nmod
+के	case
+सेंसर	nmod
+की	case
+क्षमता	nmod
+का	case
+आकलन	compound
+करने	obl
+में	mark
+सहायता	obl
+के	case
+लिए	case
+चुनलेरे	obl
+में	case
+करीब	dep
+10	nummod
+क्रेटर	obj
+बनाए	root
+</s>	
+<s>	
+सोवियत	compound
+राष्ट्	nmod
+का	case
+लूना-१	nsubj
+पहला	amod
+अन्तरिक्ष	compound
+यान	root
+था	cop
+जो	nsubj
+चन्द्रमा	obl
+के	case
+पास	case
+से	case
+गुजरा	acl:relcl
+था	aux
+लेकिन	cc
+लूना-२	nsubj
+पहला	amod
+यान	conj
+था	cop
+जो	nsubj
+चन्द्रमा	nmod
+की	case
+धरती	obl
+पर	case
+उतरा	acl:relcl
+था	aux
+</s>	
+<s>	
+इस	det
+अभियान	obj
+को	case
+श्रीहरिकोटा	compound
+द्वीप	nmod
+के	case
+सतीश	compound
+धवन	nmod
+अंतरिक्ष	compound
+केंद्र	obl
+से	case
+भूस्थिर	compound
+उपग्रह	compound
+प्रक्षेपण	compound
+यान	compound
+संस्करण	compound
+3	obl
+(	punct
+GSLV	compound
+Mk-III	nmod
+)	punct
+द्वारा	dislocated
+भेजा	root
+गया	aux:pass
+था	aux:pass
+</s>	
+<s>	
+ऑर्बिटर	nsubj
+100	nummod
+किलोमीटर	nmod
+की	case
+ऊंचाई	obl
+पर	case
+चन्द्रमा	nmod
+की	case
+परिक्रमा	compound
+करेगा	root
+.	punct
+</s>	
+<s>	
+लॉन्च	nmod
+के	case
+समय	obl
+,	punct
+चंद्रयान	nsubj
+2	compound
+ऑर्बिटर	compound
+बयालू	obl
+के	case
+साथ-साथ	case
+विक्रम	compound
+लैंडर	obl
+में	case
+भारतीय	compound
+डीप	compound
+स्पेस	compound
+नेटवर्क	nmod
+(	punct
+आईडीएसएन	nmod
+)	punct
+के	punct
+साथ	dislocated
+संचार	compound
+करने	obl
+में	mark
+सक्षम	compound
+होगा	root
+</s>	

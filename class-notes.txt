@@ -1,7 +1,0 @@
-## 4th Feb 2020
-
-- Identify finite verb in the sentence
-- In case of compound, 2 finites need to be identified 
-
-- All 
-- jo- det to subj of firts clause; wo- subj of the second clause and the verb of the fist cluase will be acl:relcl to the main verb

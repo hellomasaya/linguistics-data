@@ -1,0 +1,958 @@
+<sentence1>
+1	यह	यह	DEM	DEM	_	2	nmod__adj	_	_
+2	जूते	जूते	NN	NN	_	4	k1	_	_
+3	उसके	उसके	PRP	PRP	_	2	r6	_	_
+4	हैं	हैं	VAUX	VAUX	_	0	root	_	_
+----------------------------------------
+<sentence2>
+1	यह	यह	PRP	PRP	_	5	k1	_	_
+2	40	40	QC	QC	_	3	nmod__adj	_	_
+3	मीटर	मीटर	NN	NN	_	4	jjmod	_	_
+4	ऊँची	ऊँची	JJ	JJ	_	5	k1s	_	_
+5	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence3>
+1	सुनहरी	सुनहरी	JJ	JJ	_	4	k1	_	_
+2	एक	एक	QC	QC	_	3	nmod__adj	_	_
+3	जासूस	जासूस	NN	NN	_	4	k1s	_	_
+4	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence4>
+1	राजा	राजा	NNP	NNP	_	3	k1	_	_
+2	नतमस्तक	नतमस्तक	JJ	JJ	_	3	pof	_	_
+3	हो	हो	VM	VM	_	0	root	_	_
+4	गया	गया	VAUX	VAUX	_	3	lwg__vaux	_	_
+----------------------------------------
+<sentence5>
+1	माही	माही	NNP	NNP	_	4	k1	_	_
+2	अब	अब	PRP	PRP	_	4	k7t	_	_
+3	शादीशुदा	शादीशुदा	JJ	JJ	_	4	k1s	_	_
+4	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence6>
+1	वह	वह	PRP	PRP	_	2	nmod__adj	_	_
+2	लड़की	लड़की	NN	NN	_	4	k1	_	_
+3	हैरान	हैरान	JJ	JJ	_	4	k1s	_	_
+4	रह	रह	VM	VM	_	0	root	_	_
+5	गई	गई	VAUX	VAUX	_	4	lwg__vaux	_	_
+----------------------------------------
+<sentence7>
+1	तुमने	तुमने	PRP	PRP	_	4	k1	_	_
+2	अच्छी	अच्छी	JJ	JJ	_	3	nmod__adj	_	_
+3	बात	बात	NN	NN	_	4	k2	_	_
+4	कही	कही	VM	VM	_	0	root	_	_
+5	है	है	VAUX	VAUX	_	4	lwg__vaux	_	_
+----------------------------------------
+<sentence8>
+1	पणजी	पणजी	NNP	NNP	_	5	k1	_	_
+2	गोवा	गोवा	NNP	NNP	_	4	r6	_	_
+3	की	की	PSP	PSP	_	2	lwg__psp	_	_
+4	राजधानी	राजधानी	NN	NN	_	5	k1s	_	_
+5	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence9>
+1	वे	वे	PRP	PRP	_	4	k1	_	_
+2	दरबार	दरबार	NN	NN	_	3	k2p	_	_
+3	छोड़कर	छोड़कर	VM	VM	_	4	vmod	_	_
+4	चले	चले	VM	VM	_	0	root	_	_
+5	गये	गये	VAUX	VAUX	_	4	lwg__vaux	_	_
+----------------------------------------
+<sentence10>
+1	राज	राज	NNP	NNP	_	3	k1	_	_
+2	रोमांचित	रोमांचित	JJ	JJ	_	3	pof	_	_
+3	हो	हो	VM	VM	_	0	root	_	_
+4	जाता	जाता	VAUX	VAUX	_	3	lwg__vaux	_	_
+5	है	है	VAUX	VAUX	_	4	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence11>
+1	गोवा	गोवा	NNP	NNP	_	5	k1	_	_
+2	एक	एक	QC	QC	_	4	nmod__adj	_	_
+3	छोटा-सा	छोटा-सा	JJ	JJ	_	4	nmod__adj	_	_
+4	राज्य	राज्य	NN	NN	_	5	k1s	_	_
+5	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence12>
+1	मैं	मैं	PRP	PRP	_	6	k1	_	_
+2	घर	घर	NN	NN	_	6	k5	_	_
+3	से	से	PSP	PSP	_	2	lwg__psp	_	_
+4	नौ	नौ	QC	QC	_	5	nmod__adj	_	_
+5	बजे	बजे	NN	NN	_	6	k7t	_	_
+6	निकला	निकला	VM	VM	_	0	root	_	_
+7	था	था	VAUX	VAUX	_	6	lwg__vaux	_	_
+----------------------------------------
+<sentence13>
+1	इस	इस	DEM	DEM	_	2	nmod__adj	_	_
+2	बाग	बाग	NN	NN	_	5	k7p	_	_
+3	में	में	PSP	PSP	_	2	lwg__psp	_	_
+4	ऊँचा	ऊँचा	JJ	JJ	_	5	pof	_	_
+5	उठा	उठा	VM	VM	_	6	nmod__k1inv	_	_
+6	पथ	पथ	NN	NN	_	7	k1	_	_
+7	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence14>
+1	ऊँचाई	ऊँचाई	NN	NN	_	3	r6	_	_
+2	का	का	PSP	PSP	_	1	lwg__psp	_	_
+3	ध्यान	ध्यान	NN	NN	_	4	pof	_	_
+4	रखा	रखा	VM	VM	_	0	root	_	_
+5	गया	गया	VAUX	VAUX	_	4	lwg__vaux	_	_
+6	है	है	VAUX	VAUX	_	5	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence15>
+1	उसने	उसने	PRP	PRP	_	5	k1	_	_
+2	यहां	यहां	PRP	PRP	_	5	k7p	_	_
+3	एक	एक	QC	QC	_	4	nmod__adj	_	_
+4	बावली	बावली	NN	NN	_	5	k2	_	_
+5	बनवायी	बनवायी	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence16>
+1	प्रेम	प्रेम	NN	NN	_	4	k1	_	_
+2	अपने	अपने	PRP	PRP	_	3	r6	_	_
+3	घर	घर	NN	NN	_	4	k2p	_	_
+4	चला	चला	VM	VM	_	0	root	_	_
+5	जाता	जाता	VAUX	VAUX	_	4	lwg__vaux	_	_
+6	है	है	VAUX	VAUX	_	5	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence17>
+1	ये	ये	PRP	PRP	_	6	k1	_	_
+2	दिल्ली	दिल्ली	NNP	NNP	_	6	rd	_	_
+3	के	के	PSP	PSP	_	2	lwg__psp	_	_
+4	पूर्वी	पूर्वी	JJ	JJ	_	5	nmod__adj	_	_
+5	ओर	ओर	NST	NST	_	2	lwg__psp	_	_
+6	हैं	हैं	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence18>
+1	वह	वह	PRP	PRP	_	5	k1	_	_
+2	अपने	अपने	PRP	PRP	_	3	r6	_	_
+3	कमरे	कमरे	NN	NN	_	5	k7p	_	_
+4	में	में	PSP	PSP	_	3	lwg__psp	_	_
+5	रो	रो	VM	VM	_	0	root	_	_
+6	रही	रही	VAUX	VAUX	_	5	lwg__vaux	_	_
+7	थी	थी	VAUX	VAUX	_	6	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence19>
+1	इसके	इसके	PRP	PRP	_	5	k7	_	_
+2	पीछे	पीछे	NST	NST	_	1	lwg__psp	_	_
+3	दीवाने	दीवाने	NN	NN	_	5	k1	_	_
+4	खास	खास	JJ	JJ	_	3	lwg_k1	_	_
+5	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence20>
+1	इसमें	इसमें	PRP	PRP	_	6	k7	_	_
+2	उसकी	उसकी	PRP	PRP	_	4	r6	_	_
+3	मुख्य	मुख्य	JJ	JJ	_	4	nmod__adj	_	_
+4	रुचि	रुचि	NN	NN	_	6	k1	_	_
+5	भी	भी	RP	RP	_	4	lwg__rp	_	_
+6	थी	थी	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence21>
+1	आठवाँ	आठवाँ	QO	QO	_	2	nmod__adj	_	_
+2	बम	बम	NN	NN	_	4	k2	_	_
+3	निष्क्रिय	निष्क्रिय	JJ	JJ	_	4	pof	_	_
+4	पाया	पाया	VM	VM	_	0	root	_	_
+5	गया	गया	VAUX	VAUX	_	4	lwg__vaux	_	_
+----------------------------------------
+<sentence22>
+1	जयपुर	जयपुर	NNP	NNP	_	3	r6	_	_
+2	की	की	PSP	PSP	_	1	lwg__psp	_	_
+3	रंगत	रंगत	NN	NN	_	5	k1	_	_
+4	अब	अब	PRP	PRP	_	5	k7t	_	_
+5	बदल	बदल	VM	VM	_	0	root	_	_
+6	रही	रही	VAUX	VAUX	_	5	lwg__vaux	_	_
+7	है	है	VAUX	VAUX	_	6	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence23>
+1	वह	वह	PRP	PRP	_	6	k1	_	_
+2	पहले	पहले	NST	NST	_	6	k7t	_	_
+3	माही	माही	NNP	NNP	_	6	k7p	_	_
+4	के	के	PSP	PSP	_	3	lwg__psp	_	_
+5	पास	पास	NST	NST	_	3	lwg__psp	_	_
+6	जाता	जाता	VM	VM	_	0	root	_	_
+7	है	है	VAUX	VAUX	_	6	lwg__vaux	_	_
+----------------------------------------
+<sentence24>
+1	यही	यही	PRP	PRP	_	5	k1	_	_
+2	इसकी	इसकी	PRP	PRP	_	4	r6	_	_
+3	चार	चार	QC	QC	_	4	nmod__adj	_	_
+4	दीवारी	दीवारी	NN	NN	_	5	k2	_	_
+5	बनाती	बनाती	VM	VM	_	0	root	_	_
+6	है	है	VAUX	VAUX	_	5	lwg__vaux	_	_
+----------------------------------------
+<sentence25>
+1	यह	यह	PRP	PRP	_	7	k1	_	_
+2	भारत	भारत	NNP	NNP	_	6	r6	_	_
+3	का	का	PSP	PSP	_	2	lwg__psp	_	_
+4	अति	अति	INTF	INTF	_	5	jjmod__intf	_	_
+5	प्राचीन	प्राचीन	JJ	JJ	_	6	nmod__adj	_	_
+6	नगर	नगर	NN	NN	_	7	k1s	_	_
+7	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence26>
+1	मैंने	मैंने	PRP	PRP	_	5	k1	_	_
+2	तुम्हें	तुम्हें	PRP	PRP	_	5	k2	_	_
+3	कुछ	कुछ	PRP	PRP	_	5	k2	_	_
+4	नहीं	नहीं	NEG	NEG	_	5	lwg__neg	_	_
+5	कहा	कहा	VM	VM	_	0	root	_	_
+6	था	था	VAUX	VAUX	_	5	lwg__vaux	_	_
+----------------------------------------
+<sentence27>
+1	आरफा	आरफा	NNP	NNP	_	6	k1	_	_
+2	एक	एक	QC	QC	_	3	nmod__adj	_	_
+3	बच्ची	बच्ची	NN	NN	_	6	k4	_	_
+4	को	को	PSP	PSP	_	3	lwg__psp	_	_
+5	जन्म	जन्म	NN	NN	_	6	pof	_	_
+6	देती	देती	VM	VM	_	0	root	_	_
+7	है	है	VAUX	VAUX	_	6	lwg__vaux	_	_
+----------------------------------------
+<sentence28>
+1	आरफ़ा	आरफ़ा	NNPC	NNPC	_	2	pof__cn	_	_
+2	सुल्तान	सुल्तान	NNP	NNP	_	6	ras-k1	_	_
+3	के	के	PSP	PSP	_	2	lwg__psp	_	_
+4	साथ	साथ	NST	NST	_	2	lwg__psp	_	_
+5	नहीं	नहीं	NEG	NEG	_	6	lwg__neg	_	_
+6	आती	आती	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence29>
+1	जय	जय	NNPC	NNPC	_	2	pof__cn	_	_
+2	सुनहरी	सुनहरी	NNP	NNP	_	5	k2	_	_
+3	को	को	PSP	PSP	_	2	lwg__psp	_	_
+4	आज़ाद	आज़ाद	JJ	JJ	_	5	pof	_	_
+5	कर	कर	VM	VM	_	0	root	_	_
+6	देता	देता	VAUX	VAUX	_	5	lwg__vaux	_	_
+7	है	है	VAUX	VAUX	_	6	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence30>
+1	हमारी	हमारी	PRP	PRP	_	2	r6	_	_
+2	कक्षा	कक्षा	NN	NN	_	6	k7	_	_
+3	में	में	PSP	PSP	_	2	lwg__psp	_	_
+4	पचास	पचास	QC	QC	_	5	nmod__adj	_	_
+5	लड़के	लड़के	NN	NN	_	6	k1	_	_
+6	हैं	हैं	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence31>
+1	यह	यह	DEM	DEM	_	2	nmod__adj	_	_
+2	मकबरा	मकबरा	NN	NN	_	6	k1	_	_
+3	मुमताज	मुमताज	NNP	NNP	_	6	rt	_	_
+4	के	के	PSP	PSP	_	3	lwg__psp	_	_
+5	लिये	लिये	PSP	PSP	_	3	lwg__psp	_	_
+6	बना	बना	VM	VM	_	0	root	_	_
+7	था	था	VAUX	VAUX	_	6	lwg__vaux	_	_
+----------------------------------------
+<sentence32>
+1	पूरा	पूरा	JJ	JJ	_	2	nmod__adj	_	_
+2	माहौल	माहौल	NN	NN	_	4	k1	_	_
+3	चमत्कारी	चमत्कारी	JJ	JJ	_	4	pof	_	_
+4	हो	हो	VM	VM	_	0	root	_	_
+5	जाता	जाता	VAUX	VAUX	_	4	lwg__vaux	_	_
+6	है	है	VAUX	VAUX	_	5	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence33>
+1	राज	राज	NNPC	NNPC	_	2	pof__cn	_	_
+2	गायत्री	गायत्री	NNP	NNP	_	5	r6	_	_
+3	के	के	PSP	PSP	_	2	lwg__psp	_	_
+4	कई	कई	QF	QF	_	5	nmod__adj	_	_
+5	पत्र	पत्र	NN	NN	_	6	k1	_	_
+6	पाता	पाता	VM	VM	_	0	root	_	_
+7	है	है	VAUX	VAUX	_	6	lwg__vaux	_	_
+----------------------------------------
+<sentence34>
+1	बाजार	बाजार	NN	NN	_	6	k7p	_	_
+2	के	के	PSP	PSP	_	1	lwg__psp	_	_
+3	सामने	सामने	NST	NST	_	1	lwg__psp	_	_
+4	दीवाने	दीवाने	NN	NN	_	6	k1	_	_
+5	आम	आम	JJ	JJ	_	4	lwg_k1	_	_
+6	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence35>
+1	यह	यह	PRP	PRP	_	5	k2	_	_
+2	सफेद	सफेद	JJ	JJ	_	3	nmod__adj	_	_
+3	संगमरमर	संगमरमर	NN	NN	_	5	k3	_	_
+4	से	से	PSP	PSP	_	3	lwg__psp	_	_
+5	बनाया	बनाया	VM	VM	_	0	root	_	_
+6	गया	गया	VAUX	VAUX	_	5	lwg__vaux	_	_
+7	है	है	VAUX	VAUX	_	6	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence36>
+1	यह	यह	PRP	PRP	_	3	k1	_	_
+2	ऊपर	ऊपर	NST	NST	_	3	k7	_	_
+3	बने	बने	VM	VM	_	4	nmod__k1inv	_	_
+4	छज्जे	छज्जे	NN	NN	_	7	k5	_	_
+5	से	से	PSP	PSP	_	4	lwg__psp	_	_
+6	सम्मिलित	सम्मिलित	JJ	JJ	_	7	k1s	_	_
+7	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence37>
+1	यहाँ	यहाँ	PRP	PRP	_	6	k7p	_	_
+2	कई	कई	QF	QF	_	5	nmod__adj	_	_
+3	लोकप्रिय	लोकप्रिय	JJ	JJ	_	5	nmod__adj	_	_
+4	फुटबाल	फुटबाल	JJ	JJ	_	3	mod	_	_
+5	क्लब	क्लब	NN	NN	_	6	k1	_	_
+6	हैं	हैं	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence38>
+1	हर	हर	QF	QF	_	2	nmod__adj	_	_
+2	आदमी	आदमी	NN	NN	_	5	k1	_	_
+3	को	को	PSP	PSP	_	2	lwg__psp	_	_
+4	खाना	खाना	NN	NN	_	5	k2	_	_
+5	बनाना	बनाना	VM	VM	_	6	k2	_	_
+6	सीखना	सीखना	VM	VM	_	0	root	_	_
+7	चाहिए	चाहिए	VAUX	VAUX	_	6	lwg__vaux	_	_
+----------------------------------------
+<sentence39>
+1	उन्हे	उन्हे	PRP	PRP	_	7	k4a	_	_
+2	अपने	अपने	PRP	PRP	_	4	r6	_	_
+3	अकलमंद	अकलमंद	JJ	JJ	_	4	nmod__adj	_	_
+4	बेटे	बेटे	NN	NN	_	7	k7	_	_
+5	पर	पर	PSP	PSP	_	4	lwg__psp	_	_
+6	नाज़	नाज़	JJ	JJ	_	7	k1s	_	_
+7	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence40>
+1	इसकी	इसकी	PRP	PRP	_	2	r6	_	_
+2	नींव	नींव	NN	NN	_	6	k2	_	_
+3	बड़े	बड़े	JJ	JJ	_	4	nmod__adj	_	_
+4	वास्तुकारों	वास्तुकारों	NN	NN	_	6	k1	_	_
+5	ने	ने	PSP	PSP	_	4	lwg__psp	_	_
+6	रखी	रखी	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence41>
+1	जिसके	जिसके	PRP	PRP	_	6	k7t	_	_
+2	बाद	बाद	NST	NST	_	1	lwg__psp	_	_
+3	सीधे	सीधे	JJ	JJ	_	4	nmod__adj	_	_
+4	स्वतंत्रता	स्वतंत्रता	NN	NN	_	6	k1	_	_
+5	ही	ही	RP	RP	_	4	lwg__rp	_	_
+6	मिली	मिली	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence42>
+1	अली	अली	NNPC	NNPC	_	2	pof__cn	_	_
+2	शिना	शिना	NNP	NNP	_	6	k2	_	_
+3	को	को	PSP	PSP	_	2	lwg__psp	_	_
+4	रस्सी	रस्सी	NN	NN	_	6	k3	_	_
+5	से	से	PSP	PSP	_	4	lwg__psp	_	_
+6	बाँध	बाँध	VM	VM	_	0	root	_	_
+7	देता	देता	VAUX	VAUX	_	6	lwg__vaux	_	_
+8	है	है	VAUX	VAUX	_	7	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence43>
+1	यह	यह	DEM	DEM	_	2	nmod__adj	_	_
+2	साईकल	साईकल	NN	NN	_	7	k1	_	_
+3	तुम्हारे	तुम्हारे	PRP	PRP	_	7	rt	_	_
+4	लिए	लिए	PSP	PSP	_	3	lwg__psp	_	_
+5	बहुत	बहुत	QF	QF	_	6	nmod__adj	_	_
+6	छोटी	छोटी	JJ	JJ	_	7	k1s	_	_
+7	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence44>
+1	यह	यह	DEM	DEM	_	2	nmod__adj	_	_
+2	साथी	साथी	NN	NN	_	7	k1	_	_
+3	इमारतें	इमारतें	NN	NN	_	7	k7p	_	_
+4	1643	1643	NNP	NNP	_	7	k7t	_	_
+5	में	में	PSP	PSP	_	4	lwg__psp	_	_
+6	पुरी	पुरी	NNP	NNP	_	7	pof	_	_
+7	हुईं	हुईं	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence45>
+1	मुख्य	मुख्य	JJ	JJ	_	2	nmod__adj	_	_
+2	द्वार	द्वार	NN	NN	_	7	k1	_	_
+3	भी	भी	RP	RP	_	2	lwg__rp	_	_
+4	एक	एक	QC	QC	_	6	nmod__adj	_	_
+5	स्मारक	स्मारक	NNC	NNC	_	6	pof__cn	_	_
+6	स्वरूप	स्वरूप	NN	NN	_	7	k1	_	_
+7	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence46>
+1	दोनों	दोनों	QC	QC	_	7	k1	_	_
+2	ही	ही	RP	RP	_	1	lwg__rp	_	_
+3	लाल	लाल	JJ	JJ	_	5	nmod__adj	_	_
+4	बलुआ	बलुआ	NNPC	NNPC	_	5	pof__cn	_	_
+5	पत्थर	पत्थर	NN	NN	_	7	k1	_	_
+6	के	के	PSP	PSP	_	5	lwg__psp	_	_
+7	बने	बने	VM	VM	_	0	root	_	_
+8	हैं	हैं	VAUX	VAUX	_	7	lwg__vaux	_	_
+----------------------------------------
+<sentence47>
+1	सुल्तान	सुल्तान	NNP	NNP	_	5	k1	_	_
+2	उसके	उसके	PRP	PRP	_	5	ras-k1	_	_
+3	साथ	साथ	NST	NST	_	2	lwg__psp	_	_
+4	दिल्ली	दिल्ली	NNP	NNP	_	5	k2p	_	_
+5	चले	चले	VM	VM	_	0	root	_	_
+6	जाता	जाता	VAUX	VAUX	_	5	lwg__vaux	_	_
+7	है	है	VAUX	VAUX	_	6	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence48>
+1	इसका	इसका	PRP	PRP	_	2	r6	_	_
+2	महत्व	महत्व	NN	NN	_	8	k1	_	_
+3	समय	समय	NN	NN	_	5	r6	_	_
+4	की	की	PSP	PSP	_	3	lwg__psp	_	_
+5	सीमाओं	सीमाओं	NN	NN	_	7	k5	_	_
+6	से	से	PSP	PSP	_	5	lwg__psp	_	_
+7	बढ़कर	बढ़कर	VM	VM	_	8	vmod	_	_
+8	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence49>
+1	यह	यह	PRP	PRP	_	7	k1	_	_
+2	स्वतंत्रता	स्वतंत्रता	NN	NN	_	7	k7t	_	_
+3	के	के	PSP	PSP	_	2	lwg__psp	_	_
+4	बाद	बाद	NST	NST	_	2	lwg__psp	_	_
+5	1947	1947	NNP	NNP	_	7	k7t	_	_
+6	में	में	PSP	PSP	_	5	lwg__psp	_	_
+7	हुआ	हुआ	VM	VM	_	0	root	_	_
+8	था	था	VAUX	VAUX	_	7	lwg__vaux	_	_
+----------------------------------------
+<sentence50>
+1	वे	वे	DEM	DEM	_	2	nmod__adj	_	_
+2	लोग	लोग	NN	NN	_	8	k1	_	_
+3	गाइड	गाइड	NN	NN	_	8	k7	_	_
+4	के	के	PSP	PSP	_	3	lwg__psp	_	_
+5	रूप	रूप	PSP	PSP	_	3	lwg__psp	_	_
+6	में	में	PSP	PSP	_	3	lwg__psp	_	_
+7	कार्य	कार्य	NN	NN	_	8	pof	_	_
+8	करते	करते	VM	VM	_	0	root	_	_
+9	है	है	VAUX	VAUX	_	8	lwg__vaux	_	_
+----------------------------------------
+<sentence51>
+1	इस	इस	DEM	DEM	_	2	nmod__adj	_	_
+2	वर्ज़न	वर्ज़न	NN	NN	_	8	k7	_	_
+3	में	में	PSP	PSP	_	2	lwg__psp	_	_
+4	कई	कई	QF	QF	_	6	nmod__adj	_	_
+5	अन्य	अन्य	JJ	JJ	_	6	nmod__adj	_	_
+6	खूबियां	खूबियां	NN	NN	_	8	k1	_	_
+7	भी	भी	RP	RP	_	6	lwg__rp	_	_
+8	हैं	हैं	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence52>
+1	यहां	यहां	PRP	PRP	_	7	k7p	_	_
+2	छोटे-बड़े	छोटे-बड़े	JJ	JJ	_	6	nmod__adj	_	_
+3	लगभग	लगभग	RP	RP	_	4	lwg__rp	_	_
+4	40	40	QC	QC	_	6	nmod__adj	_	_
+5	समुद्री	समुद्री	JJ	JJ	_	6	nmod__adj	_	_
+6	तट	तट	NN	NN	_	7	k1	_	_
+7	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence53>
+1	गोवा	गोवा	NNP	NNP	_	7	k7p	_	_
+2	में	में	PSP	PSP	_	1	lwg__psp	_	_
+3	सबसे	सबसे	INTF	INTF	_	4	jjmod__intf	_	_
+4	लोकप्रिय	लोकप्रिय	JJ	JJ	_	5	nmod__adj	_	_
+5	खेल	खेल	NN	NN	_	7	k1	_	_
+6	फुटबाल	फुटबाल	NN	NN	_	7	k1s	_	_
+7	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence54>
+1	चिराग	चिराग	NNPC	NNPC	_	2	pof__cn	_	_
+2	सिंह	सिंह	NNP	NNP	_	7	k1	_	_
+3	उसे	उसे	PRP	PRP	_	7	k2	_	_
+4	गलत	गलत	JJ	JJ	_	5	nmod__adj	_	_
+5	राह	राह	NN	NN	_	7	k7	_	_
+6	पर	पर	PSP	PSP	_	5	lwg__psp	_	_
+7	ले	ले	VM	VM	_	0	root	_	_
+8	जाता	जाता	VAUX	VAUX	_	7	lwg__vaux	_	_
+9	है	है	VAUX	VAUX	_	8	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence55>
+1	राज	राज	NNP	NNP	_	9	r6	_	_
+2	का	का	PSP	PSP	_	1	lwg__psp	_	_
+3	अब	अब	PRP	PRP	_	9	k7t	_	_
+4	सिडनी	सिडनी	NNP	NNP	_	9	k7p	_	_
+5	में	में	PSP	PSP	_	4	lwg__psp	_	_
+6	एक	एक	QC	QC	_	8	nmod__adj	_	_
+7	सफल	सफल	JJ	JJ	_	8	nmod__adj	_	_
+8	कॅरियर	कॅरियर	NN	NN	_	9	k1	_	_
+9	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence56>
+1	मेरा	मेरा	PRP	PRP	_	2	r6	_	_
+2	आज	आज	NN	NN	_	8	k7t	_	_
+3	अंग्रेज़ी	अंग्रेज़ी	NN	NN	_	4	k2	_	_
+4	पढ़ने	पढ़ने	VM	VM	_	6	r6	_	_
+5	का	का	PSP	PSP	_	4	lwg__psp	_	_
+6	मन	मन	NN	NN	_	8	k1	_	_
+7	नहीं	नहीं	NEG	NEG	_	8	lwg__neg	_	_
+8	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence57>
+1	तभी	तभी	PRP	PRP	_	8	rh	_	_
+2	से	से	PSP	PSP	_	1	lwg__psp	_	_
+3	शहर	शहर	NN	NN	_	5	r6	_	_
+4	का	का	PSP	PSP	_	3	lwg__psp	_	_
+5	नाम	नाम	NN	NN	_	8	k1	_	_
+6	गुलाबी	गुलाबी	JJ	JJ	_	7	nmod__adj	_	_
+7	नगरी	नगरी	NN	NN	_	8	k1	_	_
+8	पड़ा	पड़ा	VM	VM	_	0	root	_	_
+9	है	है	VAUX	VAUX	_	8	lwg__vaux	_	_
+----------------------------------------
+<sentence58>
+1	जयपुर	जयपुर	NNP	NNP	_	7	k2	_	_
+2	को	को	PSP	PSP	_	1	lwg__psp	_	_
+3	भारत	भारत	NNP	NNP	_	5	r6	_	_
+4	का	का	PSP	PSP	_	3	lwg__psp	_	_
+5	पेरिस	पेरिस	NNP	NNP	_	7	k2g	_	_
+6	भी	भी	RP	RP	_	5	lwg__rp	_	_
+7	कहा	कहा	VM	VM	_	0	root	_	_
+8	जाता	जाता	VAUX	VAUX	_	7	lwg__vaux	_	_
+9	है	है	VAUX	VAUX	_	8	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence59>
+1	कुछ	कुछ	QF	QF	_	2	nmod__adj	_	_
+2	समय	समय	NN	NN	_	6	k7t	_	_
+3	बाद	बाद	NST	NST	_	2	lwg__psp	_	_
+4	आरफा	आरफा	NNP	NNP	_	6	k1	_	_
+5	पहलवानी	पहलवानी	NN	NN	_	6	k2	_	_
+6	छोड़	छोड़	VM	VM	_	0	root	_	_
+7	देती	देती	VAUX	VAUX	_	6	lwg__vaux	_	_
+8	है	है	VAUX	VAUX	_	7	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence60>
+1	इसका	इसका	PRP	PRP	_	2	r6-k2	_	_
+2	निर्माण	निर्माण	NN	NN	_	7	k1	_	_
+3	सन्	सन्	NNPC	NNPC	_	4	pof__cn	_	_
+4	१६४८	१६४८	NNP	NNP	_	7	k7t	_	_
+5	में	में	PSP	PSP	_	4	lwg__psp	_	_
+6	पूर्ण	पूर्ण	JJ	JJ	_	7	pof	_	_
+7	हुआ	हुआ	VM	VM	_	0	root	_	_
+8	था	था	VAUX	VAUX	_	7	lwg__vaux	_	_
+----------------------------------------
+<sentence61>
+1	उससे	उससे	PRP	PRP	_	7	rh	_	_
+2	पानी	पानी	NN	NN	_	4	k7p	_	_
+3	ऊपर	ऊपर	NST	NST	_	2	lwg__psp	_	_
+4	बने	बने	VM	VM	_	5	nmod__k1inv	_	_
+5	टैंक	टैंक	NN	NN	_	7	k7p	_	_
+6	में	में	PSP	PSP	_	5	lwg__psp	_	_
+7	भरा	भरा	VM	VM	_	0	root	_	_
+8	जाता	जाता	VAUX	VAUX	_	7	lwg__vaux	_	_
+9	था	था	VAUX	VAUX	_	8	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence62>
+1	भारत	भारत	NNP	NNP	_	7	k7p	_	_
+2	में	में	PSP	PSP	_	1	lwg__psp	_	_
+3	दिल्ली	दिल्ली	NNP	NNP	_	6	r6	_	_
+4	का	का	PSP	PSP	_	3	lwg__psp	_	_
+5	ऐतिहासिक	ऐतिहासिक	JJ	JJ	_	6	nmod__adj	_	_
+6	महत्त्व	महत्त्व	NN	NN	_	7	k1	_	_
+7	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence63>
+1	अंत	अंत	NN	NN	_	8	k7t	_	_
+2	में	में	PSP	PSP	_	1	lwg__psp	_	_
+3	कबीर	कबीर	NNP	NNP	_	8	k2	_	_
+4	को	को	PSP	PSP	_	3	lwg__psp	_	_
+5	जय	जय	NNP	NNP	_	6	ccof	_	_
+6	और	और	CC	CC	_	8	k2	_	_
+7	अली	अली	NNP	NNP	_	6	ccof	_	_
+8	घेर	घेर	VM	VM	_	0	root	_	_
+9	लेते	लेते	VAUX	VAUX	_	8	lwg__vaux	_	_
+10	हैं	हैं	VAUX	VAUX	_	9	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence64>
+1	उसकी	उसकी	PRP	PRP	_	2	r6	_	_
+2	सौतेली	सौतेली	NN	NN	_	3	k1	_	_
+3	बहने	बहने	VM	VM	_	0	vmod	_	_
+4	अलग	अलग	JJ	JJ	_	5	nmod__adj	_	_
+5	स्थान	स्थान	NN	NN	_	7	k7	_	_
+6	पर	पर	PSP	PSP	_	5	lwg__psp	_	_
+7	रहते	रहते	VM	VM	_	0	root	_	_
+8	हैं	हैं	VAUX	VAUX	_	7	lwg__vaux	_	_
+----------------------------------------
+<sentence65>
+1	लाहौर	लाहौर	NNP	NNP	_	2	nmod__adj	_	_
+2	दरवाज़े	दरवाज़े	NN	NN	_	6	k1	_	_
+3	इसका	इसका	PRP	PRP	_	5	r6	_	_
+4	मुख्य	मुख्य	JJ	JJ	_	5	nmod__adj	_	_
+5	प्रवेशद्वार	प्रवेशद्वार	NN	NN	_	6	k1	_	_
+6	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence66>
+1	इस	इस	DEM	DEM	_	2	nmod__adj	_	_
+2	सड़क	सड़क	NN	NN	_	5	r6	_	_
+3	का	का	PSP	PSP	_	2	lwg__psp	_	_
+4	दक्षिणी	दक्षिणी	JJ	JJ	_	5	nmod__adj	_	_
+5	छोर	छोर	NN	NN	_	9	k7p	_	_
+6	दिल्ली	दिल्ली	NNP	NNP	_	7	nmod__adj	_	_
+7	गेट	गेट	NN	NN	_	9	k7p	_	_
+8	पर	पर	PSP	PSP	_	7	lwg__psp	_	_
+9	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence67>
+1	यह	यह	PRP	PRP	_	8	k1	_	_
+2	दिल्ली	दिल्ली	NNP	NNP	_	3	nmod__adj	_	_
+3	शहर	शहर	NN	NN	_	7	r6	_	_
+4	की	की	PSP	PSP	_	3	lwg__psp	_	_
+5	सातवीं	सातवीं	QO	QO	_	7	nmod__adj	_	_
+6	मुस्लिम	मुस्लिम	JJ	JJ	_	7	nmod__adj	_	_
+7	नगरी	नगरी	NN	NN	_	8	k1s	_	_
+8	थी	थी	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence68>
+1	इसका	इसका	PRP	PRP	_	2	r6	_	_
+2	मेहराब	मेहराब	NN	NN	_	8	k1	_	_
+3	ताजमहल	ताजमहल	NNP	NNP	_	5	r6	_	_
+4	के	के	PSP	PSP	_	3	lwg__psp	_	_
+5	मेहराब	मेहराब	NN	NN	_	8	rd	_	_
+6	की	की	PSP	PSP	_	5	lwg__psp	_	_
+7	प्रति	प्रति	PSP	PSP	_	5	lwg__psp	_	_
+8	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence69>
+1	परंतु	परंतु	CC	CC	_	0	root	_	_
+2	इसके	इसके	PRP	PRP	_	4	r6	_	_
+3	पूर्ण	पूर्ण	JJ	JJ	_	4	nmod__adj	_	_
+4	साक्ष्य	साक्ष्य	NN	NN	_	7	k1	_	_
+5	उपलब्ध	उपलब्ध	JJ	JJ	_	7	pof	_	_
+6	नहीं	नहीं	NEG	NEG	_	7	lwg__neg	_	_
+7	हैं	हैं	VM	VM	_	1	ccof	_	_
+----------------------------------------
+<sentence70>
+1	महाभारत	महाभारत	NNP	NNP	_	2	nmod__adj	_	_
+2	काल	काल	NN	NN	_	7	k7	_	_
+3	में	में	PSP	PSP	_	2	lwg__psp	_	_
+4	इसका	इसका	PRP	PRP	_	5	r6	_	_
+5	नाम	नाम	NN	NN	_	7	k1	_	_
+6	इन्द्रप्रस्थ	इन्द्रप्रस्थ	NNP	NNP	_	7	k7p	_	_
+7	था	था	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence71>
+1	ये	ये	DEM	DEM	_	3	nmod__adj	_	_
+2	फारसी	फारसी	NNC	NNC	_	3	pof__cn	_	_
+3	लिपिक	लिपिक	NN	NN	_	5	nmod	_	_
+4	अमानत	अमानत	NNPC	NNPC	_	5	pof__cn	_	_
+5	खां	खां	NNP	NNP	_	8	k1	_	_
+6	द्वारा	द्वारा	PSP	PSP	_	5	lwg__psp	_	_
+7	सृजित	सृजित	JJ	JJ	_	8	pof	_	_
+8	हैं	हैं	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence72>
+1	लालकिला	लालकिला	NNP	NNP	_	2	nmod__adj	_	_
+2	सलीमगढ़	सलीमगढ़	NNP	NNP	_	5	r6	_	_
+3	के	के	PSP	PSP	_	2	lwg__psp	_	_
+4	पूर्वी	पूर्वी	JJ	JJ	_	5	nmod__adj	_	_
+5	छोर	छोर	NN	NN	_	8	k7p	_	_
+6	पर	पर	PSP	PSP	_	5	lwg__psp	_	_
+7	स्थित	स्थित	JJ	JJ	_	8	k1s	_	_
+8	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence73>
+1	इसे	इसे	PRP	PRP	_	7	k2	_	_
+2	ब्रिटिश	ब्रिटिश	JJ	JJ	_	3	nmod__adj	_	_
+3	सेना	सेना	NN	NN	_	5	r6	_	_
+4	का	का	PSP	PSP	_	3	lwg__psp	_	_
+5	मुख्यालय	मुख्यालय	NN	NN	_	7	k2s	_	_
+6	भी	भी	RP	RP	_	5	lwg__rp	_	_
+7	बनाया	बनाया	VM	VM	_	0	root	_	_
+8	गया	गया	VAUX	VAUX	_	7	lwg__vaux	_	_
+----------------------------------------
+<sentence74>
+1	यह	यह	DEM	DEM	_	2	nmod__adj	_	_
+2	मकबरे	मकबरे	NN	NN	_	3	ccof	_	_
+3	एवं	एवं	CC	CC	_	8	k1	_	_
+4	मुख्यद्वार	मुख्यद्वार	NN	NN	_	3	ccof	_	_
+5	के	के	PSP	PSP	_	4	lwg__psp	_	_
+6	मध्य	मध्य	NST	NST	_	4	lwg__psp	_	_
+7	में	में	PSP	PSP	_	6	lwg__psp	_	_
+8	बना	बना	VM	VM	_	0	root	_	_
+9	है	है	VAUX	VAUX	_	8	lwg__vaux	_	_
+----------------------------------------
+<sentence75>
+1	यह	यह	PRP	PRP	_	8	k1	_	_
+2	सात	सात	QC	QC	_	3	nmod__adj	_	_
+3	आश्चर्यों	आश्चर्यों	NN	NN	_	5	r6	_	_
+4	की	की	PSP	PSP	_	3	lwg__psp	_	_
+5	सूची	सूची	NN	NN	_	8	k7	_	_
+6	में	में	PSP	PSP	_	5	lwg__psp	_	_
+7	भी	भी	RP	RP	_	5	lwg__rp	_	_
+8	आता	आता	VM	VM	_	0	root	_	_
+9	रहा	रहा	VAUX	VAUX	_	8	lwg__vaux	_	_
+10	है	है	VAUX	VAUX	_	9	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence76>
+1	आजाद	आजाद	NNP	NNP	_	3	nmod__adj	_	_
+2	हिन्द	हिन्द	NNPC	NNPC	_	3	pof__cn	_	_
+3	फौज	फौज	NN	NN	_	7	k7p	_	_
+4	पर	पर	PSP	PSP	_	3	lwg__psp	_	_
+5	मुकद्मा	मुकद्मा	NN	NN	_	7	k2	_	_
+6	यहीं	यहीं	PRP	PRP	_	7	k7t	_	_
+7	चलाया	चलाया	VM	VM	_	0	root	_	_
+8	गया	गया	VAUX	VAUX	_	7	lwg__vaux	_	_
+9	था	था	VAUX	VAUX	_	8	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence77>
+1	मुगल	मुगल	NNC	NNC	_	2	pof__cn	_	_
+2	बादशाह	बादशाह	NN	NN	_	8	k1	_	_
+3	यहीं	यहीं	PRP	PRP	_	8	k7	_	_
+4	पर	पर	PSP	PSP	_	3	lwg__psp	_	_
+5	जनता	जनता	NN	NN	_	7	r6	_	_
+6	की	की	PSP	PSP	_	5	lwg__psp	_	_
+7	फरियाद	फरियाद	NN	NN	_	8	k2	_	_
+8	सुनते	सुनते	VM	VM	_	0	root	_	_
+9	थे	थे	VAUX	VAUX	_	8	lwg__vaux	_	_
+----------------------------------------
+<sentence78>
+1	इसका	इसका	PRP	PRP	_	2	r6	_	_
+2	मूल-आधार	मूल-आधार	NN	NN	_	7	k1	_	_
+3	एक	एक	QC	QC	_	6	nmod__adj	_	_
+4	विशाल	विशाल	JJ	JJ	_	6	nmod__adj	_	_
+5	बहु-कक्षीय	बहु-कक्षीय	JJ	JJ	_	4	mod	_	_
+6	संरचना	संरचना	NN	NN	_	7	k1s	_	_
+7	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence79>
+1	उसकी	उसकी	PRP	PRP	_	2	r6	_	_
+2	मृत्यु	मृत्यु	NN	NN	_	9	k1	_	_
+3	भी	भी	RP	RP	_	2	lwg__rp	_	_
+4	इसी	इसी	DEM	DEM	_	5	nmod__adj	_	_
+5	किले	किले	NN	NN	_	9	k7p	_	_
+6	में	में	PSP	PSP	_	5	lwg__psp	_	_
+7	1517	1517	NNP	NNP	_	9	k7p	_	_
+8	में	में	PSP	PSP	_	7	lwg__psp	_	_
+9	हुई	हुई	VM	VM	_	0	root	_	_
+10	थी	थी	VAUX	VAUX	_	9	lwg__vaux	_	_
+----------------------------------------
+<sentence80>
+1	फ़िल्म	फ़िल्म	NN	NN	_	3	r6	_	_
+2	का	का	PSP	PSP	_	1	lwg__psp	_	_
+3	संगीत	संगीत	NN	NN	_	6	nmod	_	_
+4	ए	ए	NNPC	NNPC	_	6	pof__cn	_	_
+5	आर	आर	NNPC	NNPC	_	6	pof__cn	_	_
+6	रहमान	रहमान	NNP	NNP	_	8	k1	_	_
+7	द्वारा	द्वारा	PSP	PSP	_	6	lwg__psp	_	_
+8	रचा	रचा	VM	VM	_	0	root	_	_
+9	गया	गया	VAUX	VAUX	_	8	lwg__vaux	_	_
+10	है	है	VAUX	VAUX	_	9	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence81>
+1	जहाँ	जहाँ	PRP	PRP	_	7	k7p	_	_
+2	बादशाह	बादशाह	NN	NN	_	7	k1	_	_
+3	अपने	अपने	PRP	PRP	_	4	r6	_	_
+4	मंत्रियों	मंत्रियों	NN	NN	_	7	ras-k1	_	_
+5	से	से	PSP	PSP	_	4	lwg__psp	_	_
+6	बातचीत	बातचीत	NN	NN	_	7	pof	_	_
+7	करते	करते	VM	VM	_	0	root	_	_
+8	थे	थे	VAUX	VAUX	_	7	lwg__vaux	_	_
+----------------------------------------
+<sentence82>
+1	आस	आस	NN	NN	_	9	k7p	_	_
+2	पास	पास	NST	NST	_	1	lwg__psp	_	_
+3	सभी	सभी	QF	QF	_	4	nmod__adj	_	_
+4	जगह	जगह	NN	NN	_	9	k7p	_	_
+5	सुन्दर	सुन्दर	JJ	JJ	_	6	nmod__adj	_	_
+6	फूलों	फूलों	NN	NN	_	8	r6	_	_
+7	की	की	PSP	PSP	_	6	lwg__psp	_	_
+8	क्यारियाँ	क्यारियाँ	NN	NN	_	9	k1	_	_
+9	हैं	हैं	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence83>
+1	इन	इन	PRP	PRP	_	10	k7	_	_
+2	पर	पर	PSP	PSP	_	1	lwg__psp	_	_
+3	वही	वही	DEM	DEM	_	4	nmod__adj	_	_
+4	कमलाकार	कमलाकार	NNP	NNP	_	10	k1	_	_
+5	आकृति	आकृति	NN	NN	_	6	ccof	_	_
+6	एवं	एवं	CC	CC	_	10	k1s	_	_
+7	किरीट	किरीट	NNPC	NNPC	_	8	pof__cn	_	_
+8	कलश	कलश	NN	NN	_	6	ccof	_	_
+9	भी	भी	RP	RP	_	8	lwg__rp	_	_
+10	हैं	हैं	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence84>
+1	तब	तब	PRP	PRP	_	10	k7t	_	_
+2	इस	इस	DEM	DEM	_	3	nmod__adj	_	_
+3	किले	किले	NN	NN	_	10	k7p	_	_
+4	में	में	PSP	PSP	_	3	lwg__psp	_	_
+5	इब्राहिम	इब्राहिम	NNP	NNP	_	7	r6	_	_
+6	के	के	PSP	PSP	_	5	lwg__psp	_	_
+7	स्थान	स्थान	NN	NN	_	10	k7	_	_
+8	पर	पर	PSP	PSP	_	7	lwg__psp	_	_
+9	बाबर	बाबर	NNP	NNP	_	10	k1	_	_
+10	आया	आया	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence85>
+1	रास्ते	रास्ते	NN	NN	_	9	k7p	_	_
+2	में	में	PSP	PSP	_	1	lwg__psp	_	_
+3	,	,	SYM	SYM	_	1	rsym	_	_
+4	माही	माही	NNP	NNP	_	9	k4a	_	_
+5	को	को	PSP	PSP	_	4	lwg__psp	_	_
+6	राज	राज	NNP	NNP	_	9	k5	_	_
+7	से	से	PSP	PSP	_	6	lwg__psp	_	_
+8	प्यार	प्यार	NN	NN	_	9	pof	_	_
+9	हो	हो	VM	VM	_	0	root	_	_
+10	जाता	जाता	VAUX	VAUX	_	9	lwg__vaux	_	_
+11	है	है	VAUX	VAUX	_	10	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence86>
+1	लाल	लाल	NNPC	NNPC	_	2	pof__cn	_	_
+2	किला	किला	NN	NN	_	8	k1	_	_
+3	हमारे	हमारे	PRP	PRP	_	4	r6	_	_
+4	इतिहास	इतिहास	NN	NN	_	5	ccof	_	_
+5	और	और	CC	CC	_	8	k7	_	_
+6	स्मृतियों	स्मृतियों	NN	NN	_	5	ccof	_	_
+7	से	से	PSP	PSP	_	6	lwg__psp	_	_
+8	जुड़ा	जुड़ा	VM	VM	_	0	root	_	_
+9	है	है	VAUX	VAUX	_	8	lwg__vaux	_	_
+----------------------------------------
+<sentence87>
+1	इसका	इसका	PRP	PRP	_	2	r6-k2	_	_
+2	निर्माण	निर्माण	NN	NN	_	7	pof	_	_
+3	मुगल	मुगल	NNPC	NNPC	_	4	pof__cn	_	_
+4	सम्राट,	सम्राट,	NN	NN	_	5	nmod__adj	_	_
+5	शाहजहां	शाहजहां	NNP	NNP	_	7	k1	_	_
+6	ने	ने	PSP	PSP	_	5	lwg__psp	_	_
+7	कराया	कराया	VM	VM	_	0	root	_	_
+8	था	था	VAUX	VAUX	_	7	lwg__vaux	_	_
+----------------------------------------
+<sentence88>
+1	इस	इस	PRP	PRP	_	3	r6	_	_
+2	का	का	PSP	PSP	_	1	lwg__psp	_	_
+3	निर्माण	निर्माण	NN	NN	_	9	pof	_	_
+4	शाहजहाँ	शाहजहाँ	NNP	NNP	_	9	k1	_	_
+5	ने	ने	PSP	PSP	_	4	lwg__psp	_	_
+6	सन्	सन्	NNPC	NNPC	_	7	pof__cn	_	_
+7	1648	1648	NNP	NNP	_	9	k7t	_	_
+8	में	में	PSP	PSP	_	7	lwg__psp	_	_
+9	कराया	कराया	VM	VM	_	0	root	_	_
+10	था	था	VAUX	VAUX	_	9	lwg__vaux	_	_
+----------------------------------------
+<sentence89>
+1	शाहजहाँ	शाहजहाँ	NNP	NNP	_	3	r6	_	_
+2	की	की	PSP	PSP	_	1	lwg__psp	_	_
+3	कब्र	कब्र	NN	NN	_	4	nmod	_	_
+4	मुमताज	मुमताज	NNP	NNP	_	6	r6	_	_
+5	की	की	PSP	PSP	_	4	lwg__psp	_	_
+6	कब्र	कब्र	NN	NN	_	8	r6	_	_
+7	के	के	PSP	PSP	_	6	lwg__psp	_	_
+8	दक्षिण	दक्षिण	JJC	JJC	_	10	k7p	_	_
+9	ओर	ओर	NST	NST	_	8	lwg__psp	_	_
+10	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence90>
+1	जयपुर	जयपुर	NNP	NNP	_	9	k4	_	_
+2	को	को	PSP	PSP	_	1	lwg__psp	_	_
+3	पिंक	पिंक	NNPC	NNPC	_	4	pof__cn	_	_
+4	सिटी	सिटी	NN	NN	_	5	ccof	_	_
+5	अथवा	अथवा	CC	CC	_	9	k7p	_	_
+6	गुलाबी	गुलाबी	NNC	NNC	_	7	pof__cn	_	_
+7	नगरी	नगरी	NN	NN	_	5	ccof	_	_
+8	भी	भी	RP	RP	_	7	lwg__rp	_	_
+9	कहते	कहते	VM	VM	_	0	root	_	_
+10	है	है	VAUX	VAUX	_	9	lwg__vaux	_	_
+----------------------------------------
+<sentence91>
+1	लाल	लाल	NNPC	NNPC	_	2	pof__cn	_	_
+2	किले	किले	NN	NN	_	10	k2	_	_
+3	को	को	PSP	PSP	_	2	lwg__psp	_	_
+4	रेड	रेड	NNPC	NNPC	_	5	pof__cn	_	_
+5	फोर्ट	फोर्ट	NNP	NNP	_	7	r6	_	_
+6	के	के	PSP	PSP	_	5	lwg__psp	_	_
+7	नाम	नाम	NN	NN	_	10	k2s	_	_
+8	से	से	PSP	PSP	_	7	lwg__psp	_	_
+9	भी	भी	RP	RP	_	7	lwg__rp	_	_
+10	जाना	जाना	VM	VM	_	0	root	_	_
+11	जाता	जाता	VAUX	VAUX	_	10	lwg__vaux	_	_
+12	है	है	VAUX	VAUX	_	11	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence92>
+1	इसकी	इसकी	PRP	PRP	_	2	r6	_	_
+2	दीवारें	दीवारें	NN	NN	_	7	k2	_	_
+3	,	,	SYM	SYM	_	2	rsym	_	_
+4	काफी	काफी	QF	QF	_	5	nmod__adj	_	_
+5	सुचिक्कनता	सुचिक्कनता	NN	NN	_	7	adv	_	_
+6	से	से	PSP	PSP	_	5	lwg__psp	_	_
+7	तराशी	तराशी	VM	VM	_	0	root	_	_
+8	गईं	गईं	VAUX	VAUX	_	7	lwg__vaux	_	_
+9	हैं	हैं	VAUX	VAUX	_	8	lwg__vaux_cont	_	_
+----------------------------------------
+<sentence93>
+1	यह	यह	DEM	DEM	_	2	nmod__adj	_	_
+2	प्रतिबिम्ब	प्रतिबिम्ब	NN	NN	_	8	k1	_	_
+3	इसकी	इसकी	PRP	PRP	_	4	r6	_	_
+4	सुंदरता	सुंदरता	NN	NN	_	8	k2	_	_
+5	को	को	PSP	PSP	_	4	lwg__psp	_	_
+6	चार	चार	QC	QC	_	7	nmod__adj	_	_
+7	चाँद	चाँद	NN	NN	_	8	pof	_	_
+8	लगाता	लगाता	VM	VM	_	0	root	_	_
+9	है	है	VAUX	VAUX	_	8	lwg__vaux	_	_
+----------------------------------------
+<sentence94>
+1	मेरे	मेरे	PRP	PRP	_	2	r6	_	_
+2	ब्रदर	ब्रदर	NN	NN	_	4	r6	_	_
+3	की	की	PSP	PSP	_	2	lwg__psp	_	_
+4	दुल्हन	दुल्हन	NN	NN	_	9	k1	_	_
+5	एक	एक	QC	QC	_	7	nmod__adj	_	_
+6	भारतीय	भारतीय	JJ	JJ	_	7	nmod__adj	_	_
+7	बॉलीवुड	बॉलीवुड	NNP	NNP	_	8	nmod__adj	_	_
+8	फ़िल्म	फ़िल्म	NN	NN	_	9	k1s	_	_
+9	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence95>
+1	दिल्ली	दिल्ली	NNP	NNP	_	4	r6	_	_
+2	का	का	PSP	PSP	_	1	lwg__psp	_	_
+3	लाल	लाल	NNPC	NNPC	_	4	pof__cn	_	_
+4	किला	किला	NNP	NNP	_	9	k1	_	_
+5	एक	एक	QC	QC	_	8	nmod__adj	_	_
+6	प्रसिद्ध	प्रसिद्ध	JJ	JJ	_	8	nmod__adj	_	_
+7	ऐतिहासिक	ऐतिहासिक	JJ	JJ	_	6	mod	_	_
+8	इमारत	इमारत	NN	NN	_	9	k1s	_	_
+9	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence96>
+1	इस	इस	DEM	DEM	_	2	nmod__adj	_	_
+2	किले	किले	NN	NN	_	9	k2	_	_
+3	को	को	PSP	PSP	_	2	lwg__psp	_	_
+4	पाँचवे	पाँचवे	QO	QO	_	6	nmod__adj	_	_
+5	मुग़ल	मुग़ल	JJ	JJ	_	6	nmod__adj	_	_
+6	शासक	शासक	NN	NN	_	7	nmod	_	_
+7	शाहजहाँ	शाहजहाँ	NNP	NNP	_	9	k1	_	_
+8	ने	ने	PSP	PSP	_	7	lwg__psp	_	_
+9	बनवाया	बनवाया	VM	VM	_	0	root	_	_
+10	था	था	VAUX	VAUX	_	9	lwg__vaux	_	_
+----------------------------------------
+<sentence97>
+1	लालकिला	लालकिला	NNP	NNP	_	10	k1	_	_
+2	दिल्ली	दिल्ली	NNP	NNP	_	10	k7p	_	_
+3	में	में	PSP	PSP	_	2	lwg__psp	_	_
+4	यमुना	यमुना	NNP	NNP	_	7	r6	_	_
+5	के	के	PSP	PSP	_	4	lwg__psp	_	_
+6	पश्चिमी	पश्चिमी	JJ	JJ	_	7	nmod__adj	_	_
+7	तट	तट	NN	NN	_	10	k7p	_	_
+8	पर	पर	PSP	PSP	_	7	lwg__psp	_	_
+9	स्थित	स्थित	JJ	JJ	_	10	pof	_	_
+10	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence98>
+1	लाल	लाल	NNPC	NNPC	_	11	k1	_	_
+2	किला	किला	NN	NN	_	1	lwg_k1	_	_
+3	हमारे	हमारे	PRP	PRP	_	4	r6	_	_
+4	राष्ट्र	राष्ट्र	NN	NN	_	6	r6	_	_
+5	के	के	PSP	PSP	_	4	lwg__psp	_	_
+6	गौरव	गौरव	NN	NN	_	7	ccof	_	_
+7	और	और	CC	CC	_	10	r6	_	_
+8	स्वाभिमान	स्वाभिमान	NN	NN	_	7	ccof	_	_
+9	का	का	PSP	PSP	_	8	lwg__psp	_	_
+10	प्रतीक	प्रतीक	NN	NN	_	11	k1s	_	_
+11	है	है	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence99>
+1	मुगल	मुगल	NNPC	NNPC	_	2	nmod__adj	_	_
+2	सम्राटों	सम्राटों	NN	NN	_	12	k1	_	_
+3	ने	ने	PSP	PSP	_	2	lwg__psp	_	_
+4	दिल्ली	दिल्ली	NNP	NNP	_	5	ccof	_	_
+5	और	और	CC	CC	_	12	k7p	_	_
+6	आगरा	आगरा	NNP	NNP	_	5	ccof	_	_
+7	में	में	PSP	PSP	_	6	lwg__psp	_	_
+8	ऐतिहासिक	ऐतिहासिक	JJ	JJ	_	9	nmod__adj	_	_
+9	भवनों	भवनों	NN	NN	_	11	r6-k2	_	_
+10	का	का	PSP	PSP	_	9	lwg__psp	_	_
+11	निर्माण	निर्माण	NN	NN	_	12	pof	_	_
+12	किया	किया	VM	VM	_	0	root	_	_
+----------------------------------------
+<sentence100>
+1	भारत	भारत	NNP	NNP	_	4	r6	_	_
+2	के	के	PSP	PSP	_	1	lwg__psp	_	_
+3	स्वतंत्रता	स्वतंत्रता	NNC	NNC	_	11	k7t	_	_
+4	दिवस	दिवस	NN	NN	_	4	lwg_k7t	_	_
+5	पर	पर	PSP	PSP	_	4	lwg__psp	_	_
+6	प्रधानमंत्री	प्रधानमंत्री	NNP	NNP	_	11	k1	_	_
+7	यहाँ	यहाँ	PRP	PRP	_	11	k7p	_	_
+8	राष्ट्रीय	राष्ट्रीय	JJ	JJ	_	9	nmod__adj	_	_
+9	ध्वज	ध्वज	NN	NN	_	11	k2	_	_
+10	को	को	PSP	PSP	_	9	lwg__psp	_	_
+11	फहराते	फहराते	VM	VM	_	0	root	_	_
+12	हैं	हैं	VAUX	VAUX	_	11	lwg__vaux	_	_
+----------------------------------------

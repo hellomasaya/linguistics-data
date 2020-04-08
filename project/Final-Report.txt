@@ -1,0 +1,61 @@
+Tasks for the final report 
+
+
+Section 1: Discuss the tags with examples from your mothertongue
+
+Table format is also fine
+--------------------------------------------------
+Tag	Example			Linguistic Cues
+--------------------------------------------------
+k1	Ram has come		NP-<0 marked>
+	rAma ne KAnA KAyA.	NP ne
+
+Table 1: Anncorra tags
+Table 2: UD tags
+---------------------------------------------------------------------------------
+Section 2:  Linguistic Challenges with Annotation
+
+2.1. Differential Object marking
+2.2. Non-Nominative Subjects
+2.3. Complex Predicates
+2.4. Non-finite clauses: Conditional, Concessive, Relative, participial clauses
+2.5. Ambiguity (Coordination, Attachment)
+2.6. Ellipsis
+2.7. Non-projectivity
+	Ex 1: I saw a man yesterday who was singing
+	Ex 2: A hearing is scheduled on the issue today
+	Ex 3: To his wife, John gave a fantastic gift
+	Ex 4: Which house, John bought?
+2.8 Particles
+---------------------------------------------------------------------------------
+
+Section 3: Statistics of Tags
+
+3.1. Tags and Markers
+k1  0,-ne
+
+3.2. Markers and Tags
+0  k1, k2
+
+3.3. n-gram of Tags
+
+
+---------------------------------------------------------------------------------
+Section 4: Training UD and Anncorra annotated data (LTRC Hindi Data)
+
+Train the same data  and find out the unlabeled attachment score (UAS) and labeled attachment score (LAS)
+-Testing can be done on:
+  1. trained data
+  2. assignment data
+
+---------------------------------------------------------------------------------
+
+Section 5: Discussions 
+
+5.1. Comparision of Anncorra and UD
+5.2. Need for New Tags (Language independent)
+	5.2.1 Interchunk tags
+	5.2.2 Intrachunk tags
+
+
+---------------------------------------------------------------------------------
