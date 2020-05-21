@@ -1,0 +1,345 @@
+main, lwg\_\_vaux, lwg\_\_vaux\_cont, rsym & 1828\\
+\hline
+r6, lwg\_\_psp, k7, lwg\_\_psp & 1519\\
+\hline
+ccof, lwg\_\_vaux, lwg\_\_vaux\_cont, rsym & 1463\\
+\hline
+lwg\_\_psp, pof, main, lwg\_\_vaux & 1393\\
+\hline
+pof, main, lwg\_\_vaux, rsym & 1296\\
+\hline
+lwg\_\_psp, pof, ccof, lwg\_\_vaux & 1138\\
+\hline
+k1, lwg\_\_psp, main, k2 & 1093\\
+\hline
+pof, main, lwg\_\_vaux, lwg\_\_vaux\_cont & 1016\\
+\hline
+lwg\_\_psp, nmod\_\_adj, r6, lwg\_\_psp & 995\\
+\hline
+pof, ccof, lwg\_\_vaux, rsym & 947\\
+\hline
+pof, ccof, lwg\_\_vaux, lwg\_\_vaux\_cont & 937\\
+\hline
+lwg\_\_psp, nmod\_\_adj, k7, lwg\_\_psp & 772\\
+\hline
+r6-k2, lwg\_\_psp, pof, main & 641\\
+\hline
+lwg\_\_psp, r6, lwg\_\_psp, nmod\_\_adj & 629\\
+\hline
+pof\_\_cn, pof\_\_cn, r6, lwg\_\_psp & 595\\
+\hline
+lwg\_\_vaux, lwg\_\_vaux\_cont, lwg\_\_vaux\_cont, rsym & 593\\
+\hline
+r6, lwg\_\_psp, r6, lwg\_\_psp & 584\\
+\hline
+lwg\_\_psp, pof\_\_cn, r6, lwg\_\_psp & 557\\
+\hline
+lwg\_\_psp, r6-k2, lwg\_\_psp, pof & 506\\
+\hline
+r6, lwg\_\_psp, nmod, pof\_\_cn & 501\\
+\hline
+r6-k2, lwg\_\_psp, pof, ccof & 484\\
+\hline
+lwg\_\_psp, pof, main, rsym & 483\\
+\hline
+k7, lwg\_\_psp, r6, lwg\_\_psp & 478\\
+\hline
+pof\_\_cn, pof\_\_cn, k1, lwg\_\_psp & 474\\
+\hline
+lwg\_\_psp, r6, lwg\_\_psp, k1 & 470\\
+\hline
+lwg\_\_psp, rt, lwg\_\_psp, lwg\_\_psp & 464\\
+\hline
+lwg\_\_psp, r6, lwg\_\_psp, k2 & 463\\
+\hline
+pof\_\_cn, r6, lwg\_\_psp, nmod\_\_adj & 460\\
+\hline
+r6, lwg\_\_psp, k2, lwg\_\_psp & 449\\
+\hline
+lwg\_\_psp, lwg\_\_psp, r6, lwg\_\_psp & 446\\
+\hline
+pof\_\_cn, k1, lwg\_\_psp, main & 440\\
+\hline
+nmod\_\_adj, r6, lwg\_\_psp, nmod\_\_adj & 437\\
+\hline
+r6, lwg\_\_psp, nmod\_\_adj, k1 & 431\\
+\hline
+lwg\_\_psp, main, lwg\_\_vaux, lwg\_\_vaux\_cont & 426\\
+\hline
+lwg\_\_psp, nmod\_\_adj, k2, lwg\_\_psp & 409\\
+\hline
+nmod\_\_adj, r6-k2, lwg\_\_psp, pof & 401\\
+\hline
+lwg\_\_psp, main, lwg\_\_vaux, rsym & 400\\
+\hline
+lwg\_\_psp, nmod\_\_adj, k7p, lwg\_\_psp & 390\\
+\hline
+k7, lwg\_\_psp, lwg\_\_psp, lwg\_\_psp & 389\\
+\hline
+nmod\_\_adj, r6, lwg\_\_psp, k2 & 388\\
+\hline
+nmod\_\_adj, r6, lwg\_\_psp, k1 & 383\\
+\hline
+ccof, rsym, ccof, rsym & 383\\
+\hline
+pof\_\_cn, ccof, rsym, pof\_\_cn & 381\\
+\hline
+k2, main, lwg\_\_vaux, rsym & 374\\
+\hline
+k2, pof, main, lwg\_\_vaux & 358\\
+\hline
+lwg\_\_psp, k7, lwg\_\_psp, nmod\_\_adj & 352\\
+\hline
+lwg\_\_psp, ccof, lwg\_\_vaux, lwg\_\_vaux\_cont & 348\\
+\hline
+pof\_\_cn, pof\_\_cn, pof\_\_cn, pof\_\_cn & 342\\
+\hline
+k1, lwg\_\_psp, r6, lwg\_\_psp & 340\\
+\hline
+pof, rt, lwg\_\_psp, lwg\_\_psp & 337\\
+\hline
+lwg\_\_psp, k7, lwg\_\_psp, pof & 337\\
+\hline
+ccof, lwg\_\_vaux, lwg\_\_vaux\_cont, lwg\_\_vaux\_cont & 337\\
+\hline
+lwg\_\_psp, r6, lwg\_\_psp, k7 & 336\\
+\hline
+lwg\_\_psp, main, k2, k1 & 336\\
+\hline
+k2, pof, ccof, lwg\_\_vaux & 333\\
+\hline
+lwg\_\_psp, k2, main, lwg\_\_vaux & 329\\
+\hline
+nmod\_\_adj, k7, lwg\_\_psp, nmod\_\_adj & 329\\
+\hline
+main, lwg\_\_vaux, lwg\_\_vaux\_cont, lwg\_\_vaux\_cont & 328\\
+\hline
+pof\_\_cn, r6, lwg\_\_psp, k7 & 327\\
+\hline
+rt, lwg\_\_psp, lwg\_\_psp, nmod\_\_adj & 315\\
+\hline
+lwg\_\_psp, pof, ccof, rsym & 315\\
+\hline
+k1, lwg\_\_psp, k7t, lwg\_\_psp & 312\\
+\hline
+k7p, lwg\_\_psp, r6, lwg\_\_psp & 309\\
+\hline
+nmod, pof\_\_cn, k1, lwg\_\_psp & 306\\
+\hline
+lwg\_\_psp, k7t, lwg\_\_psp, lwg\_\_psp & 305\\
+\hline
+nmod\_\_adj, r6, lwg\_\_psp, k7 & 305\\
+\hline
+lwg\_\_psp, ccof, lwg\_\_vaux, rsym & 301\\
+\hline
+rsym, ccof, rsym, ccof & 296\\
+\hline
+k2, ccof, lwg\_\_vaux, rsym & 295\\
+\hline
+k2, main, lwg\_\_vaux, lwg\_\_vaux\_cont & 294\\
+\hline
+lwg\_\_psp, k1, main, k2 & 291\\
+\hline
+lwg\_\_psp, nmod\_\_adj, k1, lwg\_\_psp & 287\\
+\hline
+lwg\_\_psp, main, k2, nmod\_\_adj & 286\\
+\hline
+lwg\_\_psp, k2, ccof, lwg\_\_vaux & 283\\
+\hline
+nmod\_\_adj, k2, lwg\_\_psp, pof & 282\\
+\hline
+nmod\_\_adj, pof\_\_cn, k1, lwg\_\_psp & 281\\
+\hline
+lwg\_\_psp, nmod\_\_adj, k7t, lwg\_\_psp & 278\\
+\hline
+pof\_\_cn, r6, lwg\_\_psp, nmod & 275\\
+\hline
+ccof, r6, ccof, lwg\_\_psp & 270\\
+\hline
+r6, lwg\_\_psp, nmod\_\_adj, nmod\_\_adj & 268\\
+\hline
+ccof, rsym, pof\_\_cn, ccof & 267\\
+\hline
+k2, ccof, lwg\_\_vaux, lwg\_\_vaux\_cont & 265\\
+\hline
+lwg\_\_psp, pof, vmod, lwg\_\_vaux & 263\\
+\hline
+k7, lwg\_\_psp, pof, ccof & 263\\
+\hline
+lwg\_\_psp, k7, lwg\_\_psp, lwg\_\_psp & 261\\
+\hline
+pof\_\_cn, k1, lwg\_\_psp, nmod\_\_adj & 261\\
+\hline
+lwg\_\_psp, k2, lwg\_\_psp, pof & 259\\
+\hline
+r6, lwg\_\_psp, nmod\_\_adj, k2 & 257\\
+\hline
+r6, lwg\_\_psp, k1, main & 255\\
+\hline
+nmod\_\_adj, k7, lwg\_\_psp, lwg\_\_psp & 254\\
+\hline
+pof, r6-k2, lwg\_\_psp, pof & 253\\
+\hline
+lwg\_\_neg, ccof, lwg\_\_vaux, rsym & 252\\
+\hline
+r6, lwg\_\_psp, k2, pof & 250\\
+\hline
+k7, lwg\_\_psp, pof, main & 247\\
+\hline
+k7, lwg\_\_psp, main, lwg\_\_vaux & 244\\
+\hline
+lwg\_\_psp, lwg\_\_psp, k1, lwg\_\_psp & 244\\
+\hline
+r6, lwg\_\_psp, k1, lwg\_\_psp & 242\\
+\hline
+main, k2, r6, lwg\_\_psp & 241\\
+\hline
+nmod\_\_adj, rt, lwg\_\_psp, lwg\_\_psp & 239\\
+\hline
+r6, lwg\_\_psp, k1, ccof & 239\\
+\hline
+r6, lwg\_\_psp, k7p, lwg\_\_psp & 238\\
+\hline
+nmod\_\_adj, k7, lwg\_\_psp, pof & 237\\
+\hline
+pof\_\_cn, pof\_\_cn, ccof, rsym & 237\\
+\hline
+lwg\_\_psp, pof, rt, lwg\_\_psp & 236\\
+\hline
+nmod\_\_adj, pof\_\_cn, r6, lwg\_\_psp & 235\\
+\hline
+lwg\_\_psp, pof, r6, lwg\_\_psp & 233\\
+\hline
+lwg\_\_psp, pof\_\_cn, k1, lwg\_\_psp & 230\\
+\hline
+k7t, lwg\_\_psp, lwg\_\_psp, nmod\_\_adj & 228\\
+\hline
+lwg\_\_psp, pof\_\_cn, k7, lwg\_\_psp & 227\\
+\hline
+k1, main, k2, nmod\_\_adj & 226\\
+\hline
+pof\_\_cn, r6, lwg\_\_psp, k1 & 226\\
+\hline
+lwg\_\_psp, nmod\_\_adj, r6-k2, lwg\_\_psp & 226\\
+\hline
+nmod\_\_adj, k7t, lwg\_\_psp, lwg\_\_psp & 226\\
+\hline
+k1, lwg\_\_psp, k1, main & 221\\
+\hline
+k1, main, k2, k1 & 219\\
+\hline
+k7, lwg\_\_psp, k1, lwg\_\_psp & 218\\
+\hline
+pof, lwg\_\_neg, ccof, lwg\_\_vaux & 216\\
+\hline
+k1, nmod\_\_adj, r6, lwg\_\_psp & 214\\
+\hline
+k1, nmod\_\_adj, k7, lwg\_\_psp & 214\\
+\hline
+r6, lwg\_\_psp, nmod\_\_adj, k7 & 213\\
+\hline
+lwg\_\_psp, pof\_\_cn, pof\_\_cn, pof\_\_cn & 211\\
+\hline
+k7t, lwg\_\_psp, r6, lwg\_\_psp & 210\\
+\hline
+pof\_\_cn, r6, lwg\_\_psp, k2 & 210\\
+\hline
+pof\_\_cn, r6, lwg\_\_psp, pof\_\_cn & 209\\
+\hline
+lwg\_\_psp, r6, lwg\_\_psp, pof\_\_cn & 209\\
+\hline
+k2, lwg\_\_psp, pof, ccof & 209\\
+\hline
+lwg\_\_psp, k2, pof, ccof & 209\\
+\hline
+lwg\_\_psp, k2, pof, main & 208\\
+\hline
+rsym, pof\_\_cn, ccof, rsym & 205\\
+\hline
+lwg\_\_psp, k1, lwg\_\_psp, nmod\_\_adj & 202\\
+\hline
+r6, lwg\_\_psp, r6-k2, lwg\_\_psp & 201\\
+\hline
+k1, k1s, main, rs & 201\\
+\hline
+lwg\_\_psp, nmod\_\_adj, nmod, pof\_\_cn & 201\\
+\hline
+lwg\_\_psp, nmod, pof\_\_cn, pof\_\_cn & 200\\
+\hline
+pof\_\_cn, pof\_\_cn, pof\_\_cn, r6 & 199\\
+\hline
+k2, lwg\_\_psp, pof, main & 199\\
+\hline
+lwg\_\_neg, ccof, lwg\_\_vaux, lwg\_\_vaux\_cont & 199\\
+\hline
+nmod\_\_adj, k7, lwg\_\_psp, r6 & 198\\
+\hline
+lwg\_\_psp, k7, lwg\_\_psp, k1 & 194\\
+\hline
+r6, lwg\_\_psp, nmod\_\_adj, r6 & 194\\
+\hline
+nmod, pof\_\_cn, pof\_\_cn, k1 & 193\\
+\hline
+r6, lwg\_\_psp, rt, lwg\_\_psp & 192\\
+\hline
+lwg\_\_psp, k1s, main, rsym & 191\\
+\hline
+lwg\_\_psp, k1, main, rsym & 190\\
+\hline
+r6, lwg\_\_psp, k7t, lwg\_\_psp & 190\\
+\hline
+r6, lwg\_\_psp, nmod\_\_adj, nmod & 190\\
+\hline
+rt, lwg\_\_psp, lwg\_\_psp, pof\_\_cn & 189\\
+\hline
+nmod\_\_adj, k2, main, lwg\_\_vaux & 189\\
+\hline
+pof\_\_cn, k1, lwg\_\_psp, k7t & 188\\
+\hline
+r6, lwg\_\_psp, k2, main & 188\\
+\hline
+k1, pof, ccof, lwg\_\_vaux & 187\\
+\hline
+k1, lwg\_\_psp, nmod\_\_adj, k2 & 185\\
+\hline
+nmod\_\_relc, lwg\_\_vaux, lwg\_\_vaux\_cont, rsym & 184\\
+\hline
+nmod\_\_adj, nmod\_\_adj, r6, lwg\_\_psp & 184\\
+\hline
+k7, lwg\_\_psp, nmod\_\_adj, k2 & 183\\
+\hline
+pof\_\_cn, pof\_\_cn, pof\_\_cn, ccof & 182\\
+\hline
+lwg\_\_psp, nmod\_\_adj, k2, pof & 181\\
+\hline
+nmod\_\_adj, k7, lwg\_\_psp, k1 & 181\\
+\hline
+lwg\_\_psp, pof, lwg\_\_neg, ccof & 181\\
+\hline
+k7, lwg\_\_psp, nmod\_\_adj, k1 & 179\\
+\hline
+lwg\_\_psp, nmod, pof\_\_cn, k1 & 179\\
+\hline
+lwg\_\_psp, main, k2, pof\_\_cn & 178\\
+\hline
+nmod\_\_adj, k7, lwg\_\_psp, pof\_\_cn & 176\\
+\hline
+k7, lwg\_\_psp, ccof, lwg\_\_vaux & 175\\
+\hline
+lwg\_\_psp, lwg\_\_psp, nmod\_\_adj, k1 & 173\\
+\hline
+r6, lwg\_\_psp, k1, nmod\_\_adj & 172\\
+\hline
+k1, lwg\_\_psp, k4, lwg\_\_psp & 172\\
+\hline
+nmod\_\_adj, k7p, lwg\_\_psp, nmod\_\_adj & 171\\
+\hline
+lwg\_\_psp, k1, ccof, rsym & 171\\
+\hline
+nmod\_\_adj, pof, ccof, lwg\_\_vaux & 170\\
+\hline
+r6, lwg\_\_psp, nmod\_\_adj, k7p & 168\\
+\hline
+lwg\_\_psp, k1s, ccof, rsym & 167\\
+\hline
+k7t, lwg\_\_psp, lwg\_\_psp, k1 & 166

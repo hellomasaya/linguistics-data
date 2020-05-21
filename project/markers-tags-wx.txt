@@ -1,0 +1,793 @@
+jZrie, k3, 1
+
+KilAPZ, vmod, 2
+
+hewu, rt, 1
+
+se lekara, rsp, 16
+se lekara, nmod, 4
+se lekara, vmod, 3
+se lekara, ccof, 2
+
+se bawOra, ras-k1, 1
+
+se pare, k1s, 1
+se pare, nmod, 1
+
+se alaga, vmod, 1
+
+se, k5, 1037
+se, adv, 445
+se, k2, 443
+se, rh, 401
+se, lwg\_\_psp, 303
+se, k7t, 298
+se, k3, 297
+se, k4, 275
+se, ras-k1, 235
+se, jjmod, 228
+se, ccof, 166
+se, nmod, 164
+se, rsp, 120
+se, k7p, 79
+se, k7, 62
+se, vmod, 61
+se, rt, 46
+se, ras-k2, 41
+se, lwg\_\_vaux, 30
+se, rsym, 28
+se, k1, 11
+se, k1u, 10
+se, rd, 7
+se, k1s, 7
+se, k2p, 7
+se, k2s, 6
+se, r6, 5
+se, k2g, 5
+se, lwg\_\_rp, 4
+se, pof\_\_redup, 4
+se, k2u, 4
+se, jk1, 3
+se, k4a, 3
+se, k7a, 3
+se, k7u, 2
+se, pof, 2
+se, sent-adv, 2
+se, ras-r6-k2, 2
+se, ras-rt, 1
+se, ras-k4a, 1
+se, nmod\_\_adj, 1
+se, ras-pof, 1
+
+sI, k1s, 1
+
+sahiwa, ccof, 26
+sahiwa, vmod, 14
+sahiwa, ras-k1, 9
+sahiwa, ras-k2, 7
+sahiwa, nmod, 2
+sahiwa, rsym, 1
+sahiwa, ras-k7, 1
+sahiwa, ras-k7p, 1
+sahiwa, adv, 1
+
+sarIKe, k7pu, 1
+
+sarIKI, nmod, 2
+
+sarIKA, k1u, 1
+
+samewa, vmod, 50
+samewa, ccof, 43
+samewa, ras-k1, 14
+samewa, ras-k2, 5
+samewa, nmod, 3
+samewa, ras-pof, 1
+samewa, ras-k7, 1
+samewa, ras-r6, 1
+samewa, rsym, 1
+
+samAna, k1u, 1
+samAna, k2s, 1
+
+samaya, k7t, 1
+
+vAloM se, k5, 1
+vAloM se, k4, 1
+
+vAloM meM, k7, 8
+
+vAloM para, k7, 2
+
+vAloM ne, k1, 2
+
+vAloM xvArA, k1, 1
+
+vAloM ko, k4, 8
+vAloM ko, k2, 3
+vAloM ko, k1, 2
+vAloM ko, ccof, 2
+
+vAloM ke viruxXa, vmod, 1
+
+vAloM ke lie, rt, 4
+
+vAloM ke bAre, k7, 1
+
+vAloM ke KilAPZ, vmod, 1
+
+vAloM ke, r6, 2
+vAloM ke, vmod, 1
+
+vAloM kI, r6, 5
+vAloM kI, ccof, 1
+vAloM kI, nmod, 1
+
+vAloM kA, r6, 1
+vAloM kA, k1, 1
+
+vAloM, ccof, 1
+
+vAle para, k7, 1
+
+vAle ne, k1, 2
+
+vAle ko, k2, 1
+
+vAle ke lie, rt, 2
+
+vAle ke bAre, k7, 1
+
+vAle ke, vmod, 3
+vAle ke, r6, 1
+vAle ke, k7, 1
+
+vAle, nmod, 352
+vAle, lwg\_\_vaux, 35
+vAle, nmod\_\_k1inv, 15
+vAle, k1, 12
+vAle, ccof, 10
+vAle, k1s, 2
+vAle, nmod\_\_relc, 1
+vAle, r6, 1
+vAle, pof\_\_cn, 1
+vAle, nmod\_\_k2inv, 1
+vAle, nmod\_\_pofinv, 1
+vAle, jjmod, 1
+vAle, k7t, 1
+vAle, ras-neg, 1
+
+vAlI, nmod, 204
+vAlI, lwg\_\_vaux, 16
+vAlI, nmod\_\_k1inv, 12
+vAlI, ccof, 11
+vAlI, nmod\_\_k2inv, 1
+vAlI, r6, 1
+vAlI, jjmod, 1
+
+vAlA, nmod, 36
+vAlA, k1s, 7
+vAlA, ccof, 4
+vAlA, lwg\_\_vaux, 3
+vAlA, k1, 2
+vAlA, nmod\_\_k1inv, 2
+vAlA, rsym, 1
+vAlA, k2s, 1
+
+vajaha se, rh, 1
+
+lie, rt, 141
+lie, k4a, 1
+lie, r6, 1
+lie, vmod, 1
+
+lAyaka, vmod, 2
+lAyaka, k1s, 1
+lAyaka, k1, 1
+
+meM se, k5, 37
+meM se, k7, 14
+meM se, nmod, 4
+meM se, ccof, 3
+meM se, k7p, 1
+
+meM bawOra, k7p, 3
+meM bawOra, k7t, 1
+
+meM, k7, 4180
+meM, k7p, 2827
+meM, k7t, 670
+meM, ccof, 263
+meM, lwg\_\_psp, 182
+meM, jjmod, 137
+meM, nmod, 131
+meM, lwg\_\_rp, 70
+meM, rsym, 42
+meM, adv, 22
+meM, k2p, 18
+meM, k2, 14
+meM, lwg\_\_vaux, 8
+meM, pof, 7
+meM, k1, 7
+meM, sent-adv, 5
+meM, rt, 4
+meM, rd, 4
+meM, vmod, 3
+meM, k1s, 2
+meM, pof\_\_redup, 1
+meM, pof\_\_cn, 1
+meM, r6, 1
+meM, k5, 1
+meM, k2s, 1
+meM, nmod\_\_adj, 1
+meM, k2u, 1
+meM, k1u, 1
+
+me, k7, 1
+
+muwAbika, k7a, 13
+muwAbika, k7, 1
+
+maxxenajZra, k7a, 1
+
+maxxenajara, k7a, 4
+maxxenajara, jjmod, 1
+
+bAvajUxa, vmod, 10
+bAvajUxa, k7a, 4
+
+bAre meM, k7, 105
+
+bAbawa, k7, 5
+bAbawa, nmod, 1
+bAbawa, k2, 1
+
+banAma, nmod, 1
+
+baxale, vmod, 3
+
+bawOra, k2, 2
+bawOra, lwg\_\_rp, 2
+bawOra, nmod, 2
+bawOra, main, 1
+bawOra, vmod, 1
+bawOra, ccof, 1
+bawOra, nmod\_\_relc, 1
+
+bakOla, </s>, 10
+
+POYra, pof\_\_cn, 1
+
+prawi, rd, 2
+prawi, k3, 1
+prawi, rt, 1
+
+para se, ccof, 1
+para se, k5, 1
+para se, k7, 1
+
+para, k7, 2364
+para, k7p, 615
+para, ccof, 102
+para, lwg\_\_vaux, 63
+para, k7t, 54
+para, jjmod, 54
+para, nmod, 33
+para, lwg\_\_psp, 32
+para, k2, 26
+para, adv, 16
+para, vmod, 15
+para, rsym, 14
+para, k2p, 11
+para, pof\_\_redup, 7
+para, rh, 6
+para, k1, 3
+para, rt, 2
+para, nmod\_\_adj, 2
+para, k4, 1
+para, main, 1
+para, k5, 1
+
+ne bawOra, k1, 1
+
+ne, k1, 4916
+ne, ccof, 144
+ne, rsym, 48
+ne, lwg\_\_rp, 4
+ne, pk1, 3
+ne, r6, 2
+ne, k2, 1
+ne, r6-k1, 1
+
+xvArA, k1, 294
+xvArA, jjmod, 40
+xvArA, k3, 29
+xvArA, ccof, 19
+xvArA, nmod, 11
+xvArA, rsym, 8
+xvArA, k2, 3
+xvArA, r6-k1, 1
+xvArA, mk1, 1
+xvArA, jk1, 1
+xvArA, k7p, 1
+
+wahawa, k7a, 31
+wahawa, k7, 2
+wahawa, vmod, 1
+
+wale, k7, 2
+wale, k7p, 1
+
+waka se, k5, 1
+
+waka meM, k7, 2
+
+waka ke lie, rt, 8
+waka ke lie, k7t, 5
+
+waka ke, r6, 6
+waka ke, k7t, 1
+
+waka kI, r6, 7
+waka kI, r6-k2, 4
+waka kI, r6-k1, 3
+waka kI, rsym, 1
+
+waka kA, r6, 11
+waka kA, r6-k2, 2
+
+waka, k7t, 440
+waka, k7, 79
+waka, k7p, 33
+waka, k2p, 20
+waka, sent-adv, 17
+waka, lwg\_\_psp, 14
+waka, ccof, 11
+waka, vmod, 9
+waka, k1s, 8
+waka, nmod, 6
+waka, k2, 6
+waka, k1, 5
+waka, pof, 3
+waka, lwg\_\_vaux, 3
+waka, jjmod, 2
+waka, rs, 2
+waka, adv, 2
+waka, pof\_\_redup, 1
+waka, k2s, 1
+waka, k4, 1
+waka, k5, 1
+waka, r6, 1
+
+jEse, ccof, 44
+jEse, nmod, 23
+jEse, k1u, 7
+jEse, rsym, 5
+jEse, k2u, 4
+jEse, k7u, 3
+jEse, lwg\_\_rp, 2
+jEse, k7pu, 1
+jEse, lwg\_\_vaux, 1
+
+jEsI, ccof, 13
+jEsI, nmod, 9
+jEsI, k1u, 5
+jEsI, k2u, 4
+jEsI, rsym, 3
+jEsI, k7t, 1
+jEsI, k7u, 1
+
+jEsA, nmod, 6
+jEsA, k2u, 3
+jEsA, k1u, 2
+jEsA, adv, 1
+jEsA, k7pu, 1
+
+jAnabUJakara, k1, 1
+
+jariye, k3, 1
+
+jarie, k3, 9
+jarie, rh, 1
+
+calawe, rh, 12
+calawe, vmod, 6
+
+KilAPa, vmod, 15
+KilAPa, jjmod, 1
+KilAPa, k7a, 1
+
+ko bawOra, k2, 1
+
+ko, k2, 2769
+ko, k4, 1439
+ko, k7t, 1009
+ko, k1, 367
+ko, ccof, 288
+ko, k4a, 243
+ko, rt, 93
+ko, rsym, 42
+ko, jjmod, 15
+ko, nmod, 13
+ko, k7p, 12
+ko, lwg\_\_vaux, 11
+ko, vmod, 5
+ko, jk1, 4
+ko, lwg\_\_rp, 4
+ko, k2g, 4
+ko, k2s, 3
+ko, r6, 3
+ko, nmod\_\_emph, 2
+ko, k7, 2
+ko, k5, 1
+ko, k2p, 1
+ko, rh, 1
+ko, r6-k1, 1
+ko, k1s, 1
+ko, lwg\_\_psp, 1
+ko, nmod\_\_k2inv, 1
+ko, rs, 1
+
+ke jZrie, k3, 6
+
+ke KilAPZ, jjmod, 1
+ke KilAPZ, vmod, 1
+
+ke sivA, ccof, 1
+
+ke silasile meM, k7, 1
+
+ke sAWa, ccof, 1
+
+ke samAnAMwara, nmod, 1
+
+ke samAna, k1u, 5
+ke samAna, k7p, 1
+ke samAna, k1s, 1
+ke samAna, nmod, 1
+ke samAna, k7pu, 1
+
+ke samaya meM, k7t, 1
+
+ke samaya para, k7t, 1
+
+ke samaya, k7t, 1
+
+ke saMbaMXa meM, k7, 5
+
+ke viroXasvarUpa, rh, 1
+
+ke viruxXa, vmod, 4
+
+ke viparIwa, k1s, 1
+
+ke vAswe, rt, 3
+
+ke liye, rt, 1
+
+ke lie, rt, 1565
+ke lie, ccof, 75
+ke lie, nmod, 13
+ke lie, lwg\_\_vaux, 13
+ke lie, jjmod, 12
+ke lie, rh, 10
+ke lie, r6, 9
+ke lie, rsym, 8
+ke lie, k7t, 5
+ke lie, k2, 4
+ke lie, k4, 3
+ke lie, k1, 2
+ke lie, lwg\_\_rp, 2
+ke lie, vmod, 1
+ke lie, k1s, 1
+
+ke rUpa meM, k7, 2
+ke rUpa meM, k7p, 1
+ke rUpa meM, k1u, 1
+
+ke muwAbikZ, k7a, 10
+ke muwAbikZ, k7, 1
+
+ke muwAbikZ, k7, 1
+
+ke muwAbika, k7a, 266
+ke muwAbika, ccof, 1
+ke muwAbika, rsym, 1
+
+ke mukAbale, k1u, 2
+ke mukAbale, k2u, 1
+ke mukAbale, k7, 1
+
+ke mArPawa, adv, 1
+
+ke maxxenajZra, k7a, 5
+ke maxxenajZra, rsym, 1
+ke maxxenajZra, ccof, 1
+
+ke maxxenajara, k7a, 25
+ke maxxenajara, vmod, 4
+ke maxxenajara, k7, 3
+ke maxxenajara, lwg\_\_vaux, 1
+ke maxxenajara, ccof, 1
+ke maxxenajara, rsym, 1
+
+ke maxxejanara, k7a, 1
+
+ke BI, k1, 1
+
+ke bAvajUxa, vmod, 62
+ke bAvajUxa, lwg\_\_vaux, 5
+ke bAvajUxa, k7a, 3
+
+ke bAre meM, k7, 192
+ke bAre meM, ccof, 21
+ke bAre meM, lwg\_\_vaux, 5
+ke bAre meM, k2, 3
+ke bAre meM, nmod, 3
+ke bAre meM, lwg\_\_psp, 2
+ke bAre meM, r6, 1
+ke bAre meM, k7p, 1
+
+ke bAbawa, k2, 1
+ke bAbawa, vmod, 1
+
+ke bAxa, k7t, 2
+
+ke barAbara, vmod, 2
+ke barAbara, k1s, 2
+ke barAbara, rsym, 2
+
+ke baxale meM, k7, 2
+
+ke baxale, pof\_\_cn, 2
+ke baxale, vmod, 2
+ke baxale, nmod, 1
+ke baxale, rsym, 1
+ke baxale, k7, 1
+
+ke bajAya, vmod, 10
+ke bajAya, ras-neg, 8
+ke bajAya, ccof, 1
+
+ke bajAe, ras-neg, 4
+ke bajAe, vmod, 1
+ke bajAe, k7, 1
+
+ke PalasvarUpa, ccof, 1
+
+ke prawi, rd, 45
+ke prawi, ccof, 4
+ke prawi, nmod, 2
+ke prawi, k2, 2
+ke prawi, k7, 1
+
+ke pariNAmasvarUpa, rh, 2
+
+ke nAwe, rh, 2
+ke nAwe, vmod, 2
+ke nAwe, ccof, 1
+ke nAwe, k7, 1
+
+ke xvArA, k1, 5
+ke xvArA, k3, 3
+ke xvArA, ccof, 2
+
+ke wOra para, k7, 5
+ke wOra para, vmod, 2
+
+ke wahawa, k7a, 125
+ke wahawa, ccof, 6
+ke wahawa, rsym, 6
+
+ke jEsA, k1u, 1
+
+ke jariye, k3, 18
+ke jariye, lwg\_\_rp, 2
+ke jariye, ccof, 1
+
+ke jarie, k3, 78
+ke jarie, ccof, 6
+ke jarie, rsym, 1
+ke jarie, rh, 1
+ke jarie, k7, 1
+
+ke calawe, rh, 37
+ke calawe, ccof, 2
+ke calawe, lwg\_\_vaux, 1
+
+ke KilAPZ, vmod, 8
+ke KilAPZ, k2, 1
+
+ke KilAPa, vmod, 89
+ke KilAPa, ccof, 6
+ke KilAPa, jjmod, 2
+ke KilAPa, rsym, 1
+
+ke kAraNa, rh, 10
+ke kAraNa, ccof, 2
+ke kAraNa, lwg\_\_vaux, 1
+
+ke evaja meM, vmod, 1
+
+ke ulata, vmod, 2
+
+ke alAvA, vmod, 68
+ke alAvA, ccof, 19
+ke alAvA, rsym, 1
+
+ke anusAra, k7a, 126
+
+ke anurUpa, k7a, 5
+ke anurUpa, vmod, 1
+
+ke anukUla, vmod, 2
+
+ke aXIna, k7a, 2
+ke aXIna, k7, 1
+ke aXIna, vmod, 1
+
+ke awirik\u200dwa, k7a, 1
+ke awirik\u200dwa, vmod, 1
+
+ke awirikwa, vmod, 3
+
+ke awaMrgawa, k7, 1
+
+ke aMrwagawa, k7a, 1
+
+ke aMwargawa, k7a, 7
+
+ke, r6, 6312
+ke, k7t, 986
+ke, k7, 557
+ke, ccof, 531
+ke, ras-k1, 320
+ke, rh, 190
+ke, k7p, 182
+ke, vmod, 178
+ke, k1, 160
+ke, rsym, 124
+ke, r6-k2, 88
+ke, lwg\_\_vaux, 81
+ke, ras-k2, 80
+ke, nmod, 55
+ke, r6-k1, 41
+ke, k7a, 39
+ke, jjmod, 31
+ke, ras-neg, 29
+ke, k2, 24
+ke, pof\_\_cn, 20
+ke, lwg\_\_rp, 19
+ke, k5, 15
+ke, k1u, 14
+ke, k3, 11
+ke, lwg\_\_psp, 11
+ke, adv, 11
+ke, r6v, 8
+ke, rt, 6
+ke, ras-k7, 6
+ke, k2p, 5
+ke, lwg\_\_vaux\_cont, 5
+ke, rs, 4
+ke, k4, 4
+ke, k2s, 3
+ke, sent-adv, 3
+ke, ras-pof, 3
+ke, rd, 3
+ke, rsp, 2
+ke, nmod\_\_adj, 2
+ke, k1s, 2
+ke, pof, 2
+ke, pof\_\_redup, 2
+ke, k4a, 1
+ke, ras\_\_k7, 1
+ke, k3u, 1
+ke, k7u, 1
+ke, ras-k4, 1
+ke, ras-k7p, 1
+ke, nmod\_\_k1inv, 1
+ke, ras-r6, 1
+ke, fragof, 1
+
+kI vajaha se, rh, 2
+kI vajaha se, ccof, 1
+
+kI bAbawa, lwg\_\_vaux, 1
+kI bAbawa, nmod, 1
+kI bAbawa, rh, 1
+
+kI baxOlawa, k7, 1
+
+kI bajAya, ras-neg, 3
+
+kI bajAe, ccof, 1
+
+kI wulanA meM, k7, 1
+
+kI waraha, k1u, 5
+kI waraha, adv, 3
+kI waraha, nmod, 1
+kI waraha, k7pu, 1
+kI waraha, k4u, 1
+kI waraha, rtu, 1
+
+kI, r6, 4784
+kI, r6-k2, 915
+kI, ccof, 312
+kI, r6-k1, 188
+kI, rd, 182
+kI, lwg\_\_vaux, 106
+kI, rsym, 70
+kI, rh, 53
+kI, nmod, 39
+kI, k1u, 23
+kI, k7, 21
+kI, jjmod, 21
+kI, k2u, 12
+kI, k1, 11
+kI, pof\_\_cn, 11
+kI, lwg\_\_psp, 10
+kI, lwg\_\_rp, 10
+kI, k2, 7
+kI, r6v, 6
+kI, ras-k2, 5
+kI, k5, 5
+kI, rt, 4
+kI, k7t, 4
+kI, pof\_\_redup, 4
+kI, nmod\_\_adj, 3
+kI, k7u, 3
+kI, k3, 3
+kI, k7tu, 3
+kI, adv, 3
+kI, vmod, 3
+kI, nmod\_\_k1inv, 2
+kI, lwg\_\_vaux\_cont, 2
+kI, k1s, 2
+kI, k4u, 1
+kI, k7p, 1
+kI, ras-k4, 1
+kI, ras-k1, 1
+kI, ras-neg, 1
+
+kAraNa, rh, 1
+
+kA, r6, 2007
+kA, r6-k2, 1044
+kA, k1, 300
+kA, r6-k1, 177
+kA, ccof, 141
+kA, rsym, 37
+kA, lwg\_\_vaux, 29
+kA, nmod, 11
+kA, r6v, 7
+kA, lwg\_\_psp, 7
+kA, ras-k2, 4
+kA, k2, 4
+kA, lwg\_\_rp, 3
+kA, pof, 3
+kA, pof\_\_cn, 3
+kA, k1s, 2
+kA, jjmod, 1
+kA, lwg\_\_vaux\_cont, 1
+kA, nmod\_\_adj, 1
+kA, rh, 1
+kA, vmod, 1
+kA, k7t, 1
+kA, ras-k1, 1
+
+OYPa, pof\_\_cn, 5
+
+OYna, pof\_\_cn, 7
+
+ulata, sent-adv, 1
+
+ina, pof\_\_cn, 1
+
+alAvA, vmod, 112
+alAvA, sent-adv, 7
+alAvA, k7a, 2
+
+anusAra, k7a, 3
+
+awirikwa, k7p, 1 

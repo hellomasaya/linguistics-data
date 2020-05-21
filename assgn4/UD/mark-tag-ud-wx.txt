@@ -1,0 +1,758 @@
+hewu, obl, 1
+
+havAle se, obl, 1
+
+svarUpa, obl, 1
+
+se lekara, nmod, 17
+se lekara, conj, 1
+
+se bawOra, obl, 1
+
+se pare, nmod, 1
+se pare, obj, 1
+
+se alaga, nmod, 1
+
+se, obl, 2700
+se, obj, 426
+se, nmod, 425
+se, iobj, 264
+se, case, 188
+se, conj, 148
+se, advcl, 138
+se, advmod, 57
+se, punct, 25
+se, nummod, 20
+se, aux:pass, 14
+se, aux, 13
+se, acl, 11
+se, nsubj, 11
+se, xcomp, 6
+se, root, 6
+se, mark, 6
+se, compound, 6
+se, nsubj:pass, 4
+se, amod, 4
+se, dep, 3
+se, acl:relcl, 1
+
+sI, xcomp, 1
+
+sahiwa, obl, 28
+sahiwa, conj, 18
+sahiwa, nmod, 7
+sahiwa, punct, 1
+
+sarIKe, nmod, 1
+
+sarIKI, nmod, 2
+
+sarIKA, obl, 1
+
+samewa, obl, 62
+samewa, conj, 26
+samewa, nmod, 6
+samewa, punct, 1
+
+samAna, root, 1
+samAna, acl, 1
+
+samaya, obl, 13
+samaya, advcl, 2
+
+saMbaXI, amod, 1
+
+saMbaMXI, amod, 6
+saMbaMXI, nmod, 2
+saMbaMXI, aux:pass, 2
+
+viroXa meM, obl, 1
+
+viparIwa, obl, 1
+
+vAloM se, iobj, 1
+vAloM se, obl, 1
+
+vAloM meM, obl, 7
+
+vAloM para, obl, 1
+
+vAloM ne, nsubj, 2
+
+vAloM xvArA, nsubj:pass, 1
+
+vAloM ko, iobj, 9
+vAloM ko, obj, 3
+vAloM ko, conj, 2
+vAloM ko, nsubj, 2
+
+vAloM ke viruxXa, advcl, 2
+
+vAloM ke lie, advcl, 3
+vAloM ke lie, obl, 1
+
+vAloM ke bAre, obl, 1
+
+vAloM ke KilAPZ, advcl, 1
+
+vAloM ke, nmod, 2
+
+vAloM kI, nmod, 5
+vAloM kI, amod, 1
+vAloM kI, conj, 1
+
+vAloM kA, nsubj, 1
+vAloM kA, nmod, 1
+
+vAloM, obj, 1
+
+vAle samaya meM, obl, 1
+
+vAle para, obl, 1
+
+vAle ne, nsubj, 1
+
+vAle ko, obj, 1
+
+vAle ke lie, advcl, 2
+
+vAle ke bAre, obl, 1
+
+vAle ke KilAPZ, advcl, 1
+
+vAle ke KilAPa, advcl, 2
+
+vAle ke, nmod, 1
+vAle ke, obl, 1
+
+vAle, amod, 263
+vAle, nmod, 76
+vAle, aux:pass, 25
+vAle, acl, 16
+vAle, nsubj, 12
+vAle, conj, 7
+vAle, aux, 5
+vAle, obl, 2
+vAle, xcomp, 1
+vAle, compound, 1
+vAle, acl:relcl, 1
+vAle, root, 1
+
+vAlI, amod, 145
+vAlI, nmod, 51
+vAlI, acl, 13
+vAlI, aux:pass, 13
+vAlI, conj, 10
+vAlI, aux, 2
+vAlI, obl, 1
+vAlI, nummod, 1
+
+vAlA, amod, 23
+vAlA, nmod, 10
+vAlA, obj, 5
+vAlA, acl, 4
+vAlA, conj, 3
+vAlA, aux:pass, 3
+vAlA, nsubj, 2
+vAlA, punct, 1
+
+vajaha se, obl, 7
+vajaha se, nmod, 1
+
+vakwa, obl, 4
+
+lie, obl, 119
+lie, nmod, 14
+lie, nsubj, 1
+
+lAyaka, obj, 1
+lAyaka, nsubj, 1
+lAyaka, advcl, 1
+lAyaka, advmod, 1
+lAyaka, amod, 1
+
+yogya, obj, 1
+
+meM se, obl, 35
+meM se, nmod, 16
+meM se, conj, 3
+meM se, obj, 1
+meM se, root, 1
+
+meM bawOra, obl, 4
+
+meM, obl, 6651
+meM, nmod, 707
+meM, conj, 228
+meM, root, 68
+meM, dep, 64
+meM, punct, 38
+meM, obj, 38
+meM, case, 15
+meM, compound, 8
+meM, advmod, 7
+meM, nsubj, 7
+meM, acl:relcl, 6
+meM, aux, 6
+meM, advcl, 5
+meM, amod, 4
+meM, aux:pass, 2
+meM, nsubj:pass, 1
+meM, acl, 1
+
+me, obl, 1
+
+muwAbika, obl, 7
+muwAbika, nmod, 5
+
+mAXyama se, obl, 1
+
+maxxenajZra, obl, 1
+
+maxxenajara, obl, 4
+
+bAvajUxa, obl, 7
+bAvajUxa, nmod, 2
+bAvajUxa, root, 1
+
+bAre meM, obl, 96
+bAre meM, nmod, 3
+
+bAbawa, obl, 4
+bAbawa, nmod, 2
+bAbawa, obj, 1
+
+banAma, nmod, 1
+
+baxale, obl, 2
+
+bawOra, dep, 2
+bawOra, advcl, 1
+bawOra, conj, 1
+bawOra, obj, 1
+bawOra, nummod, 1
+bawOra, amod, 1
+bawOra, acl:relcl, 1
+bawOra, mark, 1
+
+bakOla, punct, 10
+
+PalasvarUpa, obl, 1
+
+prawi, obl, 4
+
+pariNAmasvarUpa, obl, 2
+
+para se, conj, 1
+para se, obl, 1
+
+para, obl, 2738
+para, nmod, 187
+para, conj, 95
+para, aux:pass, 49
+para, root, 34
+para, obj, 28
+para, advcl, 17
+para, punct, 14
+para, aux, 11
+para, acl:relcl, 8
+para, compound, 7
+para, nsubj, 3
+para, nummod, 2
+para, advmod, 1
+para, amod, 1
+para, iobj, 1
+
+ne bawOra, nsubj, 1
+
+ne, nsubj, 4683
+ne, conj, 137
+ne, punct, 48
+ne, nsubj:pass, 10
+ne, dep, 3
+ne, obl, 3
+ne, obj, 1
+
+xvArA, nsubj:pass, 195
+xvArA, nsubj, 85
+xvArA, obl, 64
+xvArA, conj, 18
+xvArA, nmod, 15
+xvArA, punct, 7
+xvArA, obj, 4
+
+wahawa, obl, 26
+wahawa, nmod, 2
+wahawa, root, 1
+
+wale, obl, 3
+
+waraha, dep, 1
+
+waka se, obl, 1
+
+waka meM, obl, 2
+
+waka ke lie, obl, 13
+
+waka ke, nmod, 6
+
+waka kI, nmod, 13
+waka kI, punct, 1
+
+waka kA, nmod, 13
+
+waka, obl, 528
+waka, nmod, 40
+waka, case, 11
+waka, obj, 7
+waka, conj, 6
+waka, root, 6
+waka, xcomp, 6
+waka, compound, 4
+waka, nsubj, 3
+waka, aux:pass, 3
+waka, advcl, 2
+waka, nummod, 2
+waka, mark, 2
+waka, nsubj:pass, 1
+waka, acl, 1
+waka, iobj, 1
+waka, amod, 1
+
+jEse, conj, 35
+jEse, nmod, 23
+jEse, obl, 10
+jEse, punct, 3
+jEse, amod, 1
+jEse, aux, 1
+jEse, root, 1
+
+jEsI, nmod, 9
+jEsI, conj, 8
+jEsI, obl, 8
+jEsI, punct, 3
+jEsI, obj, 2
+
+jEsA, nmod, 5
+jEsA, obl, 5
+jEsA, obj, 1
+jEsA, root, 1
+
+jZrie, obl, 1
+
+jariye, obl, 1
+
+jarie, obl, 11
+jarie, nmod, 1
+
+jagaha, nmod, 1
+
+calawe, obl, 14
+calawe, nmod, 1
+
+KilAPa, obl, 31
+KilAPa, nmod, 3
+
+KilAPZ, obl, 2
+
+ko bawOra, obj, 1
+
+ko, obj, 2614
+ko, iobj, 1338
+ko, obl, 1016
+ko, nsubj, 541
+ko, conj, 263
+ko, advcl, 80
+ko, punct, 40
+ko, nsubj:pass, 36
+ko, nmod, 35
+ko, aux:pass, 8
+ko, acl, 7
+ko, dep, 4
+ko, aux, 3
+ko, amod, 1
+ko, xcomp, 1
+ko, root, 1
+
+ke hisAba se, obl, 2
+ke hisAba se, nmod, 1
+
+ke havAle se, obl, 11
+
+ke sOjanya se, nsubj:pass, 1
+
+ke sivA, conj, 1
+
+ke silasile meM, obl, 1
+
+ke samAnAMwara, nmod, 1
+
+ke samAna, obl, 5
+ke samAna, nmod, 3
+ke samAna, obj, 2
+
+ke samaya se, punct, 1
+
+ke samaya meM, obl, 2
+
+ke samaya para, obl, 2
+
+ke samaya, obl, 35
+ke samaya, nmod, 7
+ke samaya, conj, 2
+ke samaya, aux:pass, 1
+
+ke samakRa, obl, 1
+
+ke saMbaMXa meM, obl, 25
+ke saMbaMXa meM, nmod, 2
+ke saMbaMXa meM, aux:pass, 2
+
+ke saMbaMXa, obl, 1
+
+ke viroXasvarUpa, obl, 1
+
+ke viroXa meM, obl, 2
+ke viroXa meM, aux:pass, 1
+
+ke virUxXa, conj, 1
+
+ke viruxXa, obl, 5
+ke viruxXa, conj, 1
+
+ke viparIwa, xcomp, 1
+
+ke vAswe, advcl, 3
+
+ke vakwa, obl, 7
+ke vakwa, nmod, 2
+
+ke lihAja se, conj, 1
+ke lihAja se, obl, 1
+
+ke liye, advcl, 1
+
+ke lie, obl, 762
+ke lie, advcl, 637
+ke lie, nmod, 113
+ke lie, conj, 68
+ke lie, punct, 8
+ke lie, aux, 8
+ke lie, obj, 6
+ke lie, aux:pass, 5
+ke lie, iobj, 3
+ke lie, root, 3
+ke lie, amod, 2
+ke lie, nsubj, 2
+ke lie, dep, 2
+ke lie, advmod, 1
+
+ke rUpa meM, obl, 97
+ke rUpa meM, nmod, 5
+ke rUpa meM, conj, 4
+ke rUpa meM, punct, 2
+
+ke rupa meM, obl, 1
+ke rupa meM, punct, 1
+
+ke muwAbikZ, obl, 11
+ke muwAbikZ, nmod, 1
+
+ke muwAbika, obl, 224
+ke muwAbika, nmod, 34
+ke muwAbika, punct, 1
+ke muwAbika, conj, 1
+
+ke mukAbale meM, obl, 1
+
+ke mukAbale, obl, 18
+ke mukAbale, nmod, 6
+ke mukAbale, nummod, 1
+
+ke mukAbale, obl, 1
+
+ke mArPawa, obl, 1
+
+ke mAXyama se, obl, 2
+
+ke maxxenajZra, obl, 5
+ke maxxenajZra, conj, 1
+ke maxxenajZra, punct, 1
+
+ke maxxenajara, obl, 27
+ke maxxenajara, nmod, 3
+ke maxxenajara, conj, 1
+ke maxxenajara, punct, 1
+ke maxxenajara, advcl, 1
+ke maxxenajara, aux:pass, 1
+
+ke maxxejanara, obl, 1
+
+ke bUwe para, obl, 1
+
+ke bUwe, conj, 1
+
+ke bAvajUxa, obl, 29
+ke bAvajUxa, advcl, 28
+ke bAvajUxa, aux:pass, 5
+ke bAvajUxa, nmod, 5
+
+ke bAre meM, obl, 175
+ke bAre meM, conj, 20
+ke bAre meM, nmod, 16
+ke bAre meM, aux:pass, 4
+ke bAre meM, obj, 3
+ke bAre meM, mark, 2
+ke bAre meM, aux, 1
+
+ke bAbawa, advcl, 1
+ke bAbawa, obj, 1
+ke bAbawa, obl, 1
+
+ke bahAne, obl, 2
+ke bahAne, obj, 1
+
+ke bala para, obl, 2
+
+ke barAbara, obl, 2
+ke barAbara, xcomp, 1
+ke barAbara, root, 1
+ke barAbara, punct, 1
+
+ke baxale meM, obl, 2
+
+ke baxale, obl, 2
+ke baxale, punct, 1
+ke baxale, advcl, 1
+ke baxale, nmod, 1
+
+ke bajAya, obl, 10
+ke bajAya, advcl, 6
+ke bajAya, conj, 1
+
+ke bajAe, obl, 5
+ke bajAe, advcl, 1
+
+ke PalasvarUpa, conj, 1
+
+ke prawi, obl, 32
+ke prawi, nmod, 11
+ke prawi, conj, 3
+ke prawi, obj, 2
+
+ke paScAwa, obl, 1
+
+ke pariNAmasvarUpa, obl, 5
+
+ke nAwe, advcl, 5
+ke nAwe, obl, 1
+ke nAwe, conj, 1
+
+ke xvArA, nsubj:pass, 5
+ke xvArA, obl, 2
+ke xvArA, conj, 2
+
+ke wOra para, obl, 25
+ke wOra para, xcomp, 1
+
+ke wahawa, obl, 112
+ke wahawa, nmod, 6
+ke wahawa, conj, 6
+ke wahawa, punct, 5
+
+ke wawvAvaXAna meM, obl, 1
+
+ke jEsA, obl, 1
+
+ke jZrie, obl, 6
+
+ke jariye, obl, 17
+ke jariye, dep, 1
+ke jariye, conj, 1
+ke jariye, nmod, 1
+
+ke jarie, obl, 79
+ke jarie, conj, 5
+ke jarie, punct, 1
+
+ke calawe, obl, 32
+ke calawe, advcl, 3
+ke calawe, conj, 2
+ke calawe, nmod, 1
+ke calawe, aux:pass, 1
+
+ke KilAPZ, obl, 15
+ke KilAPZ, nmod, 4
+ke KilAPZ, obj, 2
+ke KilAPZ, conj, 1
+
+ke KilAPa, obl, 156
+ke KilAPa, conj, 19
+ke KilAPa, nmod, 15
+ke KilAPa, obj, 2
+ke KilAPa, advcl, 1
+ke KilAPa, punct, 1
+
+ke KilAPZ, obl, 7
+
+ke kAraNa, obl, 115
+ke kAraNa, advcl, 67
+ke kAraNa, conj, 16
+ke kAraNa, aux, 10
+ke kAraNa, nmod, 6
+ke kAraNa, aux:pass, 3
+
+ke evaja meM, obl, 3
+ke evaja meM, advcl, 1
+
+ke ulata, obl, 2
+
+ke AXAra para, obl, 6
+
+ke alAvA, obl, 46
+ke alAvA, conj, 14
+ke alAvA, nmod, 10
+ke alAvA, advcl, 7
+ke alAvA, punct, 1
+
+ke anusAra, obl, 114
+ke anusAra, nmod, 31
+ke anusAra, root, 3
+
+ke anurUpa, obl, 9
+
+ke anukUla, obl, 2
+
+ke aXIna, obl, 4
+ke aXIna, nmod, 1
+
+ke awirik\u200dwa, nmod, 2
+
+ke awirikwa, nmod, 1
+ke awirikwa, obl, 1
+
+ke aMrwagawa, obl, 1
+
+ke aMwargawa, obl, 7
+
+ke, nmod, 6248
+ke, obl, 1852
+ke, conj, 462
+ke, nsubj, 146
+ke, punct, 115
+ke, aux:pass, 57
+ke, obj, 25
+ke, advcl, 19
+ke, dep, 15
+ke, aux, 13
+ke, root, 12
+ke, case, 10
+ke, nsubj:pass, 8
+ke, amod, 6
+ke, acl:relcl, 4
+ke, compound, 4
+ke, iobj, 4
+ke, acl, 3
+ke, advmod, 3
+ke, nummod, 1
+
+kI hEsiyawa se, obl, 1
+
+kI vajaha se, obl, 37
+kI vajaha se, advcl, 16
+kI vajaha se, conj, 4
+kI vajaha se, aux, 3
+kI vajaha se, aux:pass, 1
+kI vajaha se, punct, 1
+
+kI vajaha, obl, 1
+kI vajaha, nmod, 1
+
+kI BAMwi, obl, 3
+kI BAMwi, nmod, 1
+
+kI bAbawa, obl, 3
+kI bAbawa, nmod, 1
+kI bAbawa, aux:pass, 1
+
+kI baxOlawa, obl, 1
+
+kI bajAya, obl, 4
+kI bajAya, aux:pass, 1
+
+kI bajAe, conj, 1
+
+kI wulanA meM, obl, 15
+kI wulanA meM, nmod, 1
+
+kI warja para, obl, 1
+
+kI waraha, obl, 38
+kI waraha, punct, 3
+kI waraha, advmod, 2
+kI waraha, conj, 2
+kI waraha, amod, 1
+kI waraha, obj, 1
+kI waraha, nmod, 1
+
+kI waraPa se, obl, 1
+
+kI jagaha, obl, 6
+kI jagaha, nmod, 1
+
+kI KAwira, obl, 2
+kI KAwira, advcl, 1
+
+kI apekRA, nmod, 2
+kI apekRA, obl, 1
+
+kI, nmod, 5588
+kI, conj, 285
+kI, obl, 200
+kI, aux:pass, 78
+kI, punct, 65
+kI, aux, 21
+kI, case, 10
+kI, nsubj, 10
+kI, amod, 8
+kI, obj, 7
+kI, dep, 6
+kI, root, 5
+kI, compound, 4
+kI, nsubj:pass, 2
+kI, nummod, 2
+kI, xcomp, 1
+kI, acl, 1
+kI, mark, 1
+kI, advcl, 1
+
+kAraNa, obl, 14
+
+kA, nmod, 2981
+kA, nsubj, 282
+kA, conj, 133
+kA, punct, 36
+kA, obl, 17
+kA, aux, 14
+kA, aux:pass, 14
+kA, case, 5
+kA, obj, 5
+kA, dep, 3
+kA, amod, 2
+kA, compound, 2
+kA, root, 1
+kA, nsubj:pass, 1
+kA, acl, 1
+kA, xcomp, 1
+kA, advmod, 1
+
+ulata, obl, 2
+
+alAvA, obl, 95
+alAvA, nmod, 18
+
+anusAra, obl, 3
+
+awirikwa, nmod, 1 

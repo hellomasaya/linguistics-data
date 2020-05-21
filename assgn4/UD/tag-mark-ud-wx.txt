@@ -1,0 +1,566 @@
+xcomp, null, 603
+xcomp, se, 6
+xcomp, waka, 6
+xcomp, sI, 1
+xcomp, kI, 1
+xcomp, vAlI, 1
+xcomp, ke viparIwa, 1
+xcomp, ke barAbara, 1
+xcomp, vAle, 1
+xcomp, ko, 1
+xcomp, kA, 1
+
+vocative, null, 6
+
+root, null, 13157
+root, meM, 68
+root, para, 34
+root, ke, 12
+root, waka, 6
+root, se, 6
+root, kI, 5
+root, ke anusAra, 3
+root, ke lie, 3
+root, kA, 1
+root, samAna, 1
+root, wahawa, 1
+root, bAvajUxa, 1
+root, ke barAbara, 1
+root, ko, 1
+root, jEsA, 1
+root, meM se, 1
+root, jEse, 1
+root, vAle, 1
+
+punct, null, 18293
+punct, ke, 116
+punct, kI, 66
+punct, ne, 48
+punct, ko, 41
+punct, meM, 39
+punct, kA, 36
+punct, se, 25
+punct, para, 14
+punct, bakOla, 10
+punct, ke lie, 8
+punct, xvArA, 7
+punct, ke wahawa, 5
+punct, jEse, 3
+punct, kI waraha, 3
+punct, jEsI, 3
+punct, ke muwAbika, 1
+punct, ke baxale, 1
+punct, ke maxxenajara, 1
+punct, samewa, 1
+punct, ke bAvajUxa, 1
+punct, ke KilAPa, 1
+punct, ke alAvA, 1
+punct, sahiwa, 1
+punct, vAlA, 1
+punct, ke barAbara, 1
+punct, ke jarie, 1
+punct, waka kI, 1
+punct, ke maxxenajZra, 1
+
+obl, meM, 6714
+obl, null, 6337
+obl, para, 2756
+obl, se, 2739
+obl, ke, 1934
+obl, ko, 1079
+obl, ke lie, 775
+obl, waka, 534
+obl, kI, 276
+obl, ke muwAbika, 230
+obl, ke KilAPa, 156
+obl, lie, 120
+obl, ke kAraNa, 116
+obl, ke anusAra, 114
+obl, ke wahawa, 114
+obl, bAre meM, 96
+obl, alAvA, 95
+obl, ke jarie, 80
+obl, xvArA, 66
+obl, samewa, 63
+obl, ke alAvA, 46
+obl, kI waraha, 38
+obl, meM se, 37
+obl, ke samaya, 36
+obl, ne, 35
+obl, ke prawi, 33
+obl, ke calawe, 32
+obl, KilAPa, 31
+obl, ke bAvajUxa, 30
+obl, kA, 29
+obl, sahiwa, 28
+obl, ke maxxenajara, 27
+obl, wahawa, 26
+obl, ke mukAbale, 18
+obl, ke jariye, 17
+obl, ke KilAPZ, 15
+obl, kAraNa, 14
+obl, calawe, 14
+obl, samaya, 13
+obl, jarie, 11
+obl, ke muwAbikZ, 11
+obl, jEse, 10
+obl, ke bajAya, 10
+obl, ke anurUpa, 9
+obl, jEsI, 8
+obl, bAvajUxa, 7
+obl, muwAbika, 7
+obl, ke aMwargawa, 7
+obl, ke vakwa, 7
+obl, ke KilAPZ, 7
+obl, vAloM meM, 7
+obl, vajaha se, 7
+obl, kI jagaha, 6
+obl, ke jZrie, 6
+obl, ke samAna, 5
+obl, ke pariNAmasvarUpa, 5
+obl, ke bajAe, 5
+obl, ke viruxXa, 5
+obl, ke maxxenajZra, 5
+obl, prawi, 5
+obl, jEsA, 5
+obl, ke aXIna, 4
+obl, meM bawOra, 4
+obl, maxxenajara, 4
+obl, bAbawa, 4
+obl, vakwa, 4
+obl, kI bajAya, 4
+obl, vAle, 4
+obl, kI BAMwi, 4
+obl, wale, 3
+obl, kI bAbawa, 3
+obl, anusAra, 3
+obl, vAlI, 3
+obl, ke barAbara, 3
+obl, waka meM, 2
+obl, vAlA, 2
+obl, ke baxale, 2
+obl, ke ulata, 2
+obl, baxale, 2
+obl, KilAPZ, 2
+obl, ulata, 2
+obl, ke xvArA, 2
+obl, ke anukUla, 2
+obl, ke bahAne, 2
+obl, kI KAwira, 2
+obl, pariNAmasvarUpa, 2
+obl, svarUpa, 1
+obl, hewu, 1
+obl, vAloM ko, 1
+obl, ke nAwe, 1
+obl, vAloM para, 1
+obl, viroXa meM, 1
+obl, ke mArPawa, 1
+obl, viparIwa, 1
+obl, vAloM se, 1
+obl, ke saMbaMXa, 1
+obl, ke maxxejanara, 1
+obl, ke aMrwagawa, 1
+obl, se bawOra, 1
+obl, kI apekRA, 1
+obl, kI baxOlawa, 1
+obl, ke mukAbale, 1
+obl, jZrie, 1
+obl, jariye, 1
+obl, para se, 1
+obl, waka se, 1
+obl, ke viroXasvarUpa, 1
+obl, me, 1
+obl, mAXyama se, 1
+obl, kI vajaha, 1
+obl, ke paScAwa, 1
+obl, ke samakRa, 1
+obl, ne bawOra, 1
+obl, sarIKA, 1
+obl, vAle para, 1
+obl, PalasvarUpa, 1
+obl, ke jEsA, 1
+obl, maxxenajZra, 1
+obl, havAle se, 1
+obl, ke bAbawa, 1
+obl, vAle ke, 1
+obl, ke awirikwa, 1
+
+obj, null, 10412
+obj, ko, 2614
+obj, se, 426
+obj, meM, 38
+obj, para, 29
+obj, ke, 26
+obj, waka, 7
+obj, kI, 7
+obj, ke lie, 6
+obj, vAlA, 5
+obj, kA, 5
+obj, xvArA, 4
+obj, vAloM ko, 3
+obj, ke samAna, 2
+obj, ke prawi, 2
+obj, ne, 2
+obj, ke KilAPa, 2
+obj, ke KilAPZ, 2
+obj, jEsI, 2
+obj, yogya, 1
+obj, lAyaka, 1
+obj, vAloM, 1
+obj, bawOra, 1
+obj, meM se, 1
+obj, ko bawOra, 1
+obj, jEsA, 1
+obj, bAbawa, 1
+obj, kI waraha, 1
+obj, ke bAbawa, 1
+obj, vAle ko, 1
+obj, ke bahAne, 1
+obj, se pare, 1
+
+nummod, null, 4444
+nummod, se, 20
+nummod, para, 2
+nummod, kI, 2
+nummod, waka, 2
+nummod, bawOra, 1
+nummod, vAlI, 1
+nummod, ke, 1
+nummod, ke mukAbale, 1
+
+nsubj:pass, null, 214
+nsubj:pass, xvArA, 195
+nsubj:pass, ko, 36
+nsubj:pass, ne, 10
+nsubj:pass, ke, 8
+nsubj:pass, ke xvArA, 5
+nsubj:pass, se, 4
+nsubj:pass, kI, 3
+nsubj:pass, waka, 1
+nsubj:pass, meM, 1
+nsubj:pass, kA, 1
+nsubj:pass, vAloM xvArA, 1
+
+nsubj, null, 11208
+nsubj, ne, 4683
+nsubj, ko, 541
+nsubj, kA, 282
+nsubj, ke, 146
+nsubj, xvArA, 85
+nsubj, vAle, 12
+nsubj, se, 11
+nsubj, kI, 10
+nsubj, meM, 7
+nsubj, waka, 3
+nsubj, para, 3
+nsubj, vAloM ko, 2
+nsubj, ke lie, 2
+nsubj, vAloM ne, 2
+nsubj, vAlA, 2
+nsubj, lAyaka, 1
+nsubj, lie, 1
+nsubj, vAloM kA, 1
+nsubj, ne bawOra, 1
+nsubj, vAle ne, 1
+
+nmod, null, 10407
+nmod, ke, 6252
+nmod, kI, 5594
+nmod, kA, 2982
+nmod, meM, 712
+nmod, se, 426
+nmod, para, 190
+nmod, ke lie, 113
+nmod, vAle, 76
+nmod, vAlI, 51
+nmod, waka, 40
+nmod, ko, 37
+nmod, ke muwAbika, 34
+nmod, ke anusAra, 31
+nmod, jEse, 23
+nmod, alAvA, 18
+nmod, se lekara, 17
+nmod, meM se, 16
+nmod, xvArA, 16
+nmod, ke KilAPa, 15
+nmod, lie, 14
+nmod, waka kA, 13
+nmod, waka kI, 13
+nmod, ke prawi, 11
+nmod, ke alAvA, 10
+nmod, vAlA, 10
+nmod, jEsI, 9
+nmod, sahiwa, 7
+nmod, ke samaya, 7
+nmod, ke kAraNa, 6
+nmod, ke wahawa, 6
+nmod, waka ke, 6
+nmod, samewa, 6
+nmod, ke mukAbale, 6
+nmod, jEsA, 5
+nmod, muwAbika, 5
+nmod, vAloM kI, 5
+nmod, ke bAvajUxa, 5
+nmod, bAre meM, 4
+nmod, ke KilAPZ, 4
+nmod, KilAPa, 3
+nmod, ke samAna, 3
+nmod, ke maxxenajara, 3
+nmod, bAvajUxa, 2
+nmod, ke awirik\u200dwa, 2
+nmod, saMbaMXI, 2
+nmod, ke vakwa, 2
+nmod, kI apekRA, 2
+nmod, vAloM ke, 2
+nmod, bAbawa, 2
+nmod, wahawa, 2
+nmod, sarIKI, 2
+nmod, ke aXIna, 1
+nmod, awirikwa, 1
+nmod, ke samAnAMwara, 1
+nmod, ke calawe, 1
+nmod, calawe, 1
+nmod, banAma, 1
+nmod, se pare, 1
+nmod, vAloM kA, 1
+nmod, vAle ke, 1
+nmod, ke muwAbikZ, 1
+nmod, kI jagaha, 1
+nmod, jagaha, 1
+nmod, kI waraha, 1
+nmod, ne, 1
+nmod, jarie, 1
+nmod, ke awirikwa, 1
+nmod, vajaha se, 1
+nmod, kI bAbawa, 1
+nmod, se alaga, 1
+nmod, sarIKe, 1
+nmod, ke jariye, 1
+nmod, ke baxale, 1
+nmod, kI vajaha, 1
+nmod, kI BAMwi, 1
+
+mark, null, 5915
+mark, se, 6
+mark, waka, 2
+mark, kI, 1
+mark, bawOra, 1
+
+iobj, ko, 1338
+iobj, null, 374
+iobj, se, 264
+iobj, vAloM ko, 9
+iobj, ke, 4
+iobj, ke lie, 3
+iobj, vAloM se, 1
+iobj, waka, 1
+iobj, para, 1
+
+dislocated, null, 37
+
+det, null, 5832
+
+dep, null, 3822
+dep, meM, 64
+dep, ke, 15
+dep, kI, 6
+dep, ko, 4
+dep, ne, 3
+dep, se, 3
+dep, kA, 3
+dep, bawOra, 2
+dep, ke lie, 2
+dep, ke jariye, 1
+dep, waraha, 1
+
+cop, null, 2736
+
+conj, null, 3827
+conj, ke, 472
+conj, kI, 293
+conj, ko, 264
+conj, meM, 228
+conj, se, 150
+conj, ne, 139
+conj, kA, 136
+conj, para, 95
+conj, ke lie, 68
+conj, jEse, 35
+conj, samewa, 26
+conj, ke KilAPa, 19
+conj, xvArA, 18
+conj, sahiwa, 18
+conj, ke kAraNa, 16
+conj, ke alAvA, 14
+conj, vAlI, 11
+conj, jEsI, 8
+conj, waka, 7
+conj, vAle, 7
+conj, ke wahawa, 6
+conj, ke jarie, 5
+conj, vAlA, 3
+conj, ke prawi, 3
+conj, meM se, 3
+conj, ke samaya, 2
+conj, vAloM ko, 2
+conj, kI waraha, 2
+conj, ke calawe, 2
+conj, ke xvArA, 2
+conj, kI bajAe, 1
+conj, ke nAwe, 1
+conj, ke bajAya, 1
+conj, para se, 1
+conj, ke viruxXa, 1
+conj, vAloM kI, 1
+conj, ke maxxenajara, 1
+conj, bawOra, 1
+conj, ke KilAPZ, 1
+conj, ke virUxXa, 1
+conj, ke maxxenajZra, 1
+conj, ke bUwe, 1
+conj, ke sivA, 1
+conj, ke bajAe, 1
+conj, ke PalasvarUpa, 1
+conj, ke jariye, 1
+conj, se lekara, 1
+conj, ke muwAbika, 1
+
+compound, null, 28897
+compound, meM, 8
+compound, para, 7
+compound, se, 6
+compound, kI, 4
+compound, ke, 4
+compound, waka, 4
+compound, kA, 2
+compound, vAle, 1
+
+cc, null, 5222
+
+case, null, 3436
+case, se, 188
+case, meM, 15
+case, waka, 11
+case, ke, 10
+case, kI, 10
+case, kA, 5
+
+aux:pass, null, 8568
+aux:pass, kI, 79
+aux:pass, ke, 58
+aux:pass, para, 49
+aux:pass, vAle, 25
+aux:pass, se, 15
+aux:pass, kA, 14
+aux:pass, vAlI, 13
+aux:pass, ko, 10
+aux:pass, ke lie, 5
+aux:pass, ke bAvajUxa, 5
+aux:pass, ke kAraNa, 3
+aux:pass, vAlA, 3
+aux:pass, waka, 3
+aux:pass, meM, 3
+aux:pass, saMbaMXI, 2
+aux:pass, xvArA, 2
+aux:pass, ke calawe, 1
+aux:pass, ke samaya, 1
+aux:pass, kI bajAya, 1
+aux:pass, ke maxxenajara, 1
+aux:pass, kI bAbawa, 1
+
+aux, null, 9119
+aux, kI, 21
+aux, se, 14
+aux, kA, 14
+aux, ke, 14
+aux, para, 11
+aux, ke kAraNa, 10
+aux, ke lie, 8
+aux, meM, 6
+aux, vAle, 5
+aux, ko, 5
+aux, vAlI, 2
+aux, jEse, 1
+
+amod, null, 10927
+amod, vAle, 263
+amod, vAlI, 145
+amod, vAlA, 23
+amod, kI, 8
+amod, saMbaMXI, 6
+amod, ke, 6
+amod, meM, 4
+amod, se, 4
+amod, ke lie, 2
+amod, kA, 2
+amod, vAloM kI, 1
+amod, ko, 1
+amod, kI waraha, 1
+amod, bawOra, 1
+amod, jEse, 1
+amod, lAyaka, 1
+amod, saMbaXI, 1
+amod, para, 1
+amod, waka, 1
+
+advmod, null, 3158
+advmod, se, 57
+advmod, meM, 7
+advmod, ke, 3
+advmod, kI waraha, 2
+advmod, lAyaka, 1
+advmod, para, 1
+advmod, ke lie, 1
+advmod, kA, 1
+
+advcl, null, 2561
+advcl, ke lie, 637
+advcl, se, 141
+advcl, ko, 82
+advcl, ke kAraNa, 67
+advcl, ke bAvajUxa, 28
+advcl, ke, 23
+advcl, para, 20
+advcl, meM, 10
+advcl, ke alAvA, 7
+advcl, ke bajAya, 6
+advcl, ke nAwe, 5
+advcl, kA, 4
+advcl, ke calawe, 3
+advcl, ke vAswe, 3
+advcl, kI, 3
+advcl, ne, 3
+advcl, waka, 2
+advcl, samaya, 2
+advcl, lAyaka, 1
+advcl, bawOra, 1
+advcl, bAre meM, 1
+advcl, ke bAbawa, 1
+advcl, ke liye, 1
+advcl, ke KilAPa, 1
+advcl, ke viruxXa, 1
+advcl, ke maxxenajara, 1
+advcl, kI KAwira, 1
+advcl, ke baxale, 1
+advcl, ke bajAe, 1
+
+acl:relcl, null, 941
+acl:relcl, para, 8
+acl:relcl, meM, 6
+acl:relcl, ke, 4
+acl:relcl, se, 1
+acl:relcl, vAle, 1
+acl:relcl, bawOra, 1
+
+acl, null, 2487
+acl, vAle, 16
+acl, vAlI, 13
+acl, se, 11
+acl, ko, 7
+acl, vAlA, 4
+acl, ke, 3
+acl, waka, 1
+acl, kI, 1
+acl, meM, 1
+acl, kA, 1
+acl, samAna, 1 
